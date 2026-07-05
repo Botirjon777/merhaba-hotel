@@ -1,6 +1,6 @@
-# Safir Hotel Fergana — Official Website
+# Merhaba Hotel — Official Website
 
-> **Above the Ordinary** — Official website for Safir Hotel Fergana. Built with Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and URL-based multi-language routing.
+> **Above the Ordinary** — Official website for Merhaba Hotel. Built with Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and URL-based multi-language routing.
 
 **Live:** [safirhotel.uz](https://safirhotel.uz)
 
@@ -46,7 +46,7 @@
 ## Project Structure
 
 ```
-fergana-hotel/
+merhaba-hotel/
 ├── public/
 │   └── images/
 │       └── hotel/
@@ -363,8 +363,8 @@ graph LR
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Botirjon777/fergana-hotel.git
-cd fergana-hotel
+git clone https://github.com/Botirjon777/merhaba-hotel.git
+cd merhaba-hotel
 
 # 2. Install dependencies
 npm install

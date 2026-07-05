@@ -1,0 +1,573 @@
+{
+  "Navbar": {
+    "home": "Bosh sahifa",
+    "about us": "Biz haqimizda",
+    "rooms": "Xonalar",
+    "gallery": "Galereya",
+    "services": "Xizmatlar",
+    "news": "Yangiliklar",
+    "contacts": "Kontaktlar",
+    "location": "Manzil",
+    "reviews": "Sharhlar",
+    "bookNow": "Band qilish",
+    "menu": "Menyu",
+    "subLinks": {
+      "gastrobar": "Gastrobar",
+      "fitness & spa": "Fitness va SPA",
+      "meetings & events": "Uchrashuvlar va tadbirlar"
+    }
+  },
+  "Hero": {
+    "titlePart1": "— Merhaba Hotel —",
+    "titleEm": "qulaylik va nafosat",
+    "titlePart2": "uyg'unligi",
+    "reserveStay": "Dam olishni band qiling",
+    "discoverMore": "Batafsil ma'lumot",
+    "welcomeSub": "Farg'ona markazida chinakam mehmondo'stlik va zamonaviy qulaylik. MERHABA mehmonxonasi — qaytib kelgingiz keladigan joy."
+  },
+  "Booking": {
+    "checkIn": "Kirish",
+    "checkOut": "Chiqish",
+    "guests": "Mehmonlar",
+    "roomType": "Xona turi",
+    "checkAvailability": "Mavjudligini tekshirish",
+    "next": "Keyingi",
+    "reserve": "Band qilish",
+    "bookYourStay": "Dam olishni band qiling",
+    "bookSubtext": "Ma'lumotlaringizni to'ldiring va bizning jamoamiz 2 soat ichida siz bilan bog'lanadi.",
+    "fullName": "To'liq ism",
+    "emailAddress": "Email manzili",
+    "phoneNumber": "Telefon raqami",
+    "requestReservation": "Band qilishni so'rash",
+    "luxurySubtitle": "Har bir mehmon uchun sifat va qulaylik"
+  },
+  "About": {
+    "storyLabel": "Bizning tariximiz",
+    "storyTitle1": "Sizning qulayligingiz",
+    "storyTitleEm": "uchun",
+    "storyTitle2": "qurilgan mehmonxona",
+    "description1": "Merhaba mehmonxonasi aniq bir maqsad bilan tashkil etilgan: har bir mehmonni iliq qabul qilish, qulay xona va e'tiborli xizmat ko'rsatish. Farg'ona shahrining qulay hududida joylashgan bo'lib, ish safarlari va dam olish uchun bir xil darajada mos keladi.",
+    "description2": "Bizning 63 ta xonamizning har biri did bilan jihozlangan — qulay yotoqlar, sifatli choyshab-ko'rpalar, zamonaviy qulayliklar va tinch muhit, dam olishga va kuchni tiklashga yordam beradi. Merhabada biz yaxshi mehmondo'stlik — bu uyda o'zingizni his qilishingizni ta'minlaydigan tafsilotlarga e'tibordan iborat deb hisoblaymiz.",
+    "stats": {
+      "rooms": "Xonalar va lyukslar",
+      "dining": "Ovqatlanish joylari",
+      "stars": "Yulduzli mehmonxona",
+      "views": "Shahar manzaralari"
+    },
+    "readMore": "Batafsil",
+    "stars": "3 Yulduz"
+  },
+  "Location": {
+    "findUs": "Joylashuv Manzilimiz",
+    "heartOfEverything": "Farg'ona markazida",
+    "subtext": "Mehmonxonamiz Farg'ona shahrining qoq markazida, diqqatga sazovor joylar va asosiy transport yo'llari yaqinida joylashgan. Bizga avtomobil, taksi yoki jamoat transportida osonlik bilan yetib kelishingiz mumkin.",
+    "address": "Manzil",
+    "addressText": "Farg'ona shahar, Moturudiy ko'chasi, 30V/2",
+    "reservations": "Bron qilish",
+    "phone": "+998 94 559 00 77",
+    "email": "Email",
+    "emailAddress": "safirhotel2024@gmail.com",
+    "checkInOut": "Kirish / Chiqish",
+    "checkInOutValue": "14:00 dan / 12:00 gacha",
+    "fromPrice": "<b>{price} UZS</b> dan",
+    "bookNow": "Bron qilish"
+  },
+  "ImageBanner": {
+    "featuredAmenities": "Asosiy qulayliklar",
+    "allAmenities": "Barcha qulayliklar",
+    "slides": {
+      "hotel-day": {
+        "subtitle": "Merhabaga xush kelibsiz!",
+        "title": "O'zingizni uydagidek his qiling"
+      },
+      "hotel-night": {
+        "subtitle": "Kechki muhit",
+        "title": "Tinch tungi dam olish"
+      },
+      "reception": {
+        "subtitle": "Birinchi taassurot",
+        "title": "Samimiy qabul"
+      },
+      "restaurant": {
+        "subtitle": "Yaxshi taom — yaxshi kayfiyat",
+        "title": "Har bir ovqatlanishdan zavqlaning"
+      },
+      "pool": {
+        "subtitle": "Hordiq va dam olish",
+        "title": "Yopiq suzish havzasi"
+      },
+      "breakfast": {
+        "subtitle": "Yaxshi boshlanish",
+        "title": "Shved stoli nonushtasi"
+      },
+      "billiard": {
+        "subtitle": "Hordiq va o'yin",
+        "title": "Bilyard xonasi"
+      }
+    },
+    "title": "Sizning",
+    "subtitle": "Qulayligingiz va Osoyishtaligingiz Uchun",
+    "amenities": {
+      "breakfast": "Shved stoli nonushtasi",
+      "wifi": "Bepul WiFi",
+      "ev": "Elektromobil zaryadlash",
+      "restaurant": "Restoran",
+      "bar": "Bar",
+      "shuttle": "Aeroport transferi"
+    }
+  },
+  "Gallery": {
+    "visualJourney": "Ichkaridan bir nazar",
+    "throughOur": "Bizning",
+    "spaces": "Joylarimiz",
+    "viewFullGallery": "To'liq galereyani ko'rish",
+    "description": "Xonalarimiz, zallarimiz va mehmonxona hududlarini ko'rib chiqing.",
+    "roomType": "Xona turi",
+    "exploreGallery": "Galereyani ko'rish",
+    "conferenceLabel": "Konferensiya zali"
+  },
+  "Welcome": {
+    "title": "Xush Kelibsiz!",
+    "subtitle": "Farg'onada qulaylik va sifatli xizmat",
+    "offer": "Faqat rasmiy saytda maxsus taklif",
+    "description": "Rasmiy saytimizdan to'g'ridan-to'g'ri band qiling va darhol <b>10%</b> tejang. Bepul ro'yxatdan o'ting va <b>19% gacha</b> tejang — eng yaxshi narxlar faqat shu yerda.",
+    "disclaimer": "Chegirma saytda band qilishda avtomatik qo'llaniladi.",
+    "explore": "Mehmonxonani Ko'rish",
+    "book": "Tejab Band Qilish"
+  },
+  "GalleryPage": {
+    "title": "Galereya",
+    "subtitle": "Mehmonxonamiz, xonalarimiz va infratuzilmamiz bilan tanishing.",
+    "all": "Barchasi",
+    "deluxe": "Deluxe",
+    "lux": "Lux",
+    "standart": "Standard",
+    "conference": "Konferensiya",
+    "backToHome": "Bosh sahifaga qaytish",
+    "sections": {
+      "hotel": "Merhaba mehmonxonasi",
+      "conference": "Konferensiya zallari",
+      "rooms": "Xonalar va lyukslar"
+    },
+    "visual": "Foto",
+    "excellence": "Galereya"
+  },
+  "Recommendations": {
+    "title": "Bizning tavsiyalarimiz",
+    "subtitle": "Ommabop xona tanlovlari",
+    "deluxeTitle": "Deluxe Suite",
+    "deluxeDesc": "Keng va yaxshi jihozlangan — qo'shimcha qulaylik va tinch muhitni qadrlaydigan mehmonlar uchun ideal tanlov.",
+    "luxKingTitle": "Lux King Room",
+    "luxKingDesc": "King-size yotoqli, sifatli mebel va yoqimli dam olish uchun zarur narsalar bilan ta'minlangan qulay xona.",
+    "luxFamilyTitle": "Lux Family Room",
+    "luxFamilyDesc": "Keng maydon va qulay joylashuv — oilalar yoki ko'proq joy kerak bo'lgan mehmonlar uchun ajoyib tanlov.",
+    "priceFrom": "Dan",
+    "perNight": "bir kecha uchun",
+    "features": {
+      "wifi": "Bepul Wi-Fi",
+      "bed": "King-size yotoq",
+      "size": "65 m²",
+      "view": "Shahar manzarasi"
+    },
+    "premium": "Mashhur",
+    "discoverAll": "Barcha xona",
+    "roomTypes": "turlari",
+    "viewRooms": "Xonalarni ko'rish"
+  },
+  "AboutPage": {
+    "title": "Merhaba Hotel haqida",
+    "welcome": "Merhaba mehmonxonasiga xush kelibsiz — qulaylik va uslub yuqori darajadagi xizmat bilan uyg'unlashgan joy. Mehmonxonamiz Farg'ona shahrining qulay hududida joylashgan bo'lib, ish safarlari va dam olish uchun ajoyib tanlovdir. Biz mehmonlarga qulay xonalar, zamonaviy qulayliklar va to'liq dam olishga yordam beradigan muhitni taqdim etamiz. Merhaba mehmonxonasida biz har bir mehmon haqida qayg'uramiz: bepul Wi-Fi, restoran, 24 soatlik qabulxona va boshqa qulayliklar — hammasi qulay dam olish uchun. Har bir xona did bilan jihozlangan, turli xil tariflarimiz esa har qanday sayohatchiga mos keladi. Biz bilan qoling va Merhaba mehmonxonasida qolishingizni unutilmas qiladigan mehmondo'stlikdan zavqlaning.",
+    "termsTitle": "Yashash shartlari",
+    "earlyCheckIn": "Erta kirish:",
+    "early1": "00:00 dan 05:59 gacha — bir kecha narxining 100% miqdorida qo'shimcha to'lov.",
+    "early2": "06:00 dan 13:59 gacha — bir kecha narxining 50% miqdorida qo'shimcha to'lov.",
+    "lateCheckOut": "Kech chiqish:",
+    "late1": "12:01 dan 17:59 gacha — bir kecha narxining 50% miqdorida qo'shimcha to'lov.",
+    "late2": "18:00 dan 23:59 gacha — bir kecha narxining 100% miqdorida qo'shimcha to'lov.",
+    "contactAdmin": "Erta kirish yoki kech chiqish uchun administrator bilan bog'laning.",
+    "checkInTime": "Kirish vaqti",
+    "checkInValue": "14:00",
+    "checkOutTime": "Chiqish vaqti",
+    "checkOutValue": "12:00",
+    "cancellationTitle": "Bandlovni bekor qilish",
+    "cancellationText": "Bekor qilish shartlari va tartibi haqida ma'lumot olish uchun administrator bilan bog'laning. Biz sizga barcha kerakli ma'lumotlarni mamnuniyat bilan taqdim etamiz.",
+    "policyTitle": "Bekor qilish siyosati"
+  },
+  "RoomsPage": {
+    "title": "Xonalar va lyukslar",
+    "subtitle": "O'zingizga mos xonani toping — qulay, toza va yaxshi jihozlangan.",
+    "explore": "Xonani ko'rish",
+    "from": "dan",
+    "bookNow": "Band qilish",
+    "moreDetails": "Batafsil",
+    "detailsTitle": "Xona tafsilotlari",
+    "bestseller": "Xit savdo",
+    "size": "Maydoni",
+    "capacity": "Sig'imi",
+    "details": {
+      "deluxe-king": {
+        "title": "King-size karavotli Deluxe xona",
+        "description": "Bizning King-size karavotli Deluxe xonamiz juftliklar yoki kenglik va qulaylikni qadrlaydigan mehmonlar uchun ajoyib tanlovdir. Xonada yuqori sifatli choyshab-ko'rpalarga ega 2.00 × 1.90 m o'lchamdagi katta ikki kishilik karavot mavjud.",
+        "capacity": "2 Kattalar",
+        "size": "15m²"
+      },
+      "superior-king": {
+        "title": "King-size karavotli Superior xona",
+        "description": "Superior King xonasi kenglik va qulay muhitni o'zida mujassam etgan. Yuqori sifatli choyshablarga ega 2.00 × 1.80 m o'lchamdagi King Size karavoti yaxshi tungi dam olishni ta'minlaydi, o'ylab jihozlangan interyeri esa qulaylik va uyg'unlik muhitini yaratadi.",
+        "capacity": "2 Kattalar",
+        "size": "25m²"
+      },
+      "superior-twin": {
+        "title": "Ikki kishilik Superior xona",
+        "description": "Bizning Superior Twin xonamiz ikki mehmonning qulayligi uchun mo'ljallangan. Xonada har birining o'lchami 2.00 × 1.00 m bo'lgan ikkita keng bir kishilik karavot mavjud bo'lib, yuqori sifatli choyshab-ko'rpalar bilan ta'minlangan.",
+        "capacity": "2 Kattalar",
+        "size": "22m²"
+      },
+      "deluxe-twin": {
+        "title": "Ikki kishilik Deluxe xona",
+        "description": "Bizning Deluxe Twin xonamiz alohida karavotlarda qolishni afzal ko'radigan do'stlar, hamkasblar yoki oila a'zolari uchun juda mos keladi. Xonada har birining o'lchami 1.90 × 1.00 m bo'lgan ikkita bir kishilik karavot mavjud, yuqori sifatli choyshablar bilan ta'minlangan.",
+        "capacity": "2 Kattalar",
+        "size": "15m²"
+      },
+      "superior-family": {
+        "title": "Superior oilaviy xona",
+        "description": "Superior oilaviy xonasi oilalar uchun amaliy va qulay tanlovdir. Keng xonada bitta King Size karavot (2.10 × 2.00 m) va bitta bir kishilik karavot (2.10 × 1.00 m) mavjud — har bir mehmon uchun o'z joyi bor.",
+        "capacity": "3 Kattalar",
+        "size": "25m²"
+      },
+      "standart": {
+        "title": "Standart bir kishilik xona",
+        "description": "Yolg'iz sayohatchi uchun qulay variant: 2.10 × 1.00 m o'lchamdagi yotoq, tinch dam olish uchun barcha zaruriy jihozlar.",
+        "capacity": "1 Kattalar",
+        "size": "15m²"
+      },
+      "apartment": {
+        "title": "Apartament",
+        "description": "Maksimal qulaylik uchun mo'ljallangan keng uch xonali apartament. Alohida yashash joylari, bir nechta televizor, to'liq jihozlangan oshxona va isitilgan polga ega zamonaviy vanna xonasi.",
+        "capacity": "3 Kattalar",
+        "size": "3 xona"
+      }
+    }
+  },
+  "NewsPage": {
+    "title": "Yangiliklar va tadbirlar",
+    "subtitle": "Eng so'nggi yangilanishlarimiz, yutuqlarimiz va e'lonlarimiz.",
+    "readMore": "Batafsil",
+    "viewCertificate": "Sertifikatni ko'rish",
+    "sortBy": "Saralash",
+    "newestFirst": "Eng yangilari",
+    "oldestFirst": "Eng eskilari",
+    "items": {
+      "food-safety-cert": {
+        "title": "Merhaba mehmonxonasi restorani oziq-ovqat xavfsizligi bo'yicha xalqaro sertifikat oldi",
+        "excerpt": "Merhaba mehmonxonasining restorani xalqaro miqyosda tan olingan ISO 22000:2019 oziq-ovqat xavfsizligi menejmenti tizimi sertifikati bilan rasman taqdirlandi.",
+        "content": "Merhaba mehmonxonasi restoranining xalqaro miqyosda tan olingan ISO 22000:2019 oziq-ovqat xavfsizligi menejmenti tizimi sertifikati bilan rasman taqdirlanganini faxr bilan e'lon qiladi.\n\nSertifikat O'zbekiston Respublikasi Milliy sertifikatlashtirish tizimi doirasida «Turizm xizmatlarini sertifikatlashtirish markazi» qoshidagi Menejment tizimlarini sertifikatlashtirish organi tomonidan berilgan. Sertifikat Merhaba mehmonxonasidagi restoran faoliyati O'z DSt ISO 22000:2019 standartining qat'iy talablariga javob berishini tasdiqlaydi.\n\nUshbu yutuq mehmonlarga yuqori sifatli ovqatlanish tajribasi, xavfsiz ovqat tayyorlash jarayonlari va professional mehmondo'stlik xizmatlarini taqdim etishga doimiy sadoqatimizni aks ettiradi. Sertifikatlash ovqatlanish xizmatlarini tashkil etishni o'z ichiga oladi: ovqat tayyorlash, saqlash va xizmat ko'rsatish.\n\nMerhaba mehmonxonasida mehmonlar ehtiyojini qondirish, gigiyena va xizmat ko'rsatish sifati bizning ustuvor vazifamiz bo'lib qoladi. Ushbu sertifikatni olish mehmonlarimiz va hamkorlarimiz bilan ishonchni mustahkamlashda muhim qadam bo'ldi.\n\nUshbu yutuqqa hissa qo'shgan fidoyi jamoamizga chin dildan minnatdorchilik bildiramiz.\n\nKo'proq yangiliklar uchun Merhaba mehmonxonasi bilan birga qoling."
+      },
+      "quality-management-cert": {
+        "title": "Merhaba mehmonxonasi ISO 9001:2015 Sifat menejmenti sertifikatiga ega bo'ldi",
+        "excerpt": "Merhaba mehmonxonasi xalqaro miqyosda tan olingan ISO 9001:2015 Sifat menejmenti tizimi sertifikatini rasman qabul qildi.",
+        "content": "Merhaba mehmonxonasi xalqaro miqyosda tan olingan ISO 9001:2015 Sifat menejmenti tizimi sertifikatini rasman olganini mamnuniyat bilan e'lon qiladi.\n\nSertifikat O'zbekiston Respublikasi Milliy sertifikatlashtirish tizimi doirasida «Turizm xizmatlarini sertifikatlashtirish markazi» qoshidagi Menejment tizimlarini sertifikatlashtirish organi tomonidan berilgan. Ushbu e'tirof Merhaba mehmonxonasining menejment tizimi O'z DSt ISO 9001:2015 tomonidan belgilangan xalqaro standartlarga to'liq mos kelishini tasdiqlaydi.\n\nSertifikat mehmonxonaning mehmondo'stlik xizmatlariga tatbiq etiladi va Merhaba mehmonxonasining xizmat sifatini barqaror saqlash, samaradorlikni oshirish va mehmonlar tajribasining har bir bosqichida ularni qoniqtirish yo'lidagi sadoqatini namoyish etadi.\n\nISO 9001:2015 sertifikatini olish Merhaba mehmonxonasi uchun muhim voqea bo'lib, doimiy takomillashtirish, professional boshqaruv va mehmondo'stlik xizmatlarida yuqori standartlarga intilishni aks ettiradi.\n\nUshbu yutuqqa hissa qo'shgan jamoamiz a'zolari va hamkorlarimizga chin dildan minnatdorchilik bildiramiz.\n\nMerhaba mehmonxonasi har bir mehmon uchun ajoyib qulaylik, ishonchli xizmat va sifatli mehmondo'stlik tajribasini taqdim etishga e'tibor qaratishda davom etmoqda."
+      },
+      "smart-in-room-service": {
+        "title": "Merhaba mehmonxonasi xona xizmati ilovasini taqdim etadi",
+        "excerpt": "Merhaba mehmonxonasi har bir mehmonning qolishini tezroq, osonroq va qulayroq qilish uchun yaratilgan yangi zamonaviy In-Room Service ilovasini taqdim etishdan faxrlanadi.",
+        "content": "Merhaba mehmonxonasi raqamli qulaylik va zamonaviy mehmondo'stlik yechimlari orqali har bir mehmonning qolishini tezroq, osonroq va qulayroq qilish uchun yaratilgan yangi zamonaviy In-Room Service ilovasini taqdim etishdan faxrlanadi.\n\nYangi platforma mehmonlarga har bir xonaga joylashtirilgan noyob QR kodni skanerlash orqali to'g'ridan-to'g'ri smartfonlaridan mehmonxona xizmatlaridan foydalanish imkonini beradi. Ilova qulay interfeysga ega bo'lib, dunyoning eng ko'p ishlatiladigan 10 ta tilida mavjud — mahalliy va xalqaro sayohatchilar uchun qulay.\n\nYangi tizim yordamida mehmonlar qabulxonaga qo'ng'iroq qilmasdan xodimlar bilan bog'lanishlari va xizmat so'rashlari mumkin. Ilova quyidagi imkoniyatlarni o'z ichiga oladi:\n- Uyg'otish xizmati – kerakli vaqtni ilova orqali belgilash mumkin.\n- Taksi chaqirish – aeroport transferlari, shahar sayohatlari yoki ishbilarmonlik uchrashuvlari uchun.\n- Muammo haqida xabar berish – qolish davomida yuzaga kelgan muammolarni ilova orqali darhol bildirish.\n- Sharhlar bo'limi – Google, Yandex, TripAdvisor va boshqa platformalarda fikr qoldirish.\n- Qo'shimcha xizmatlar – bolalar beshigi, aeroport transferi, konferensiya zali bron qilish va boshqalar.\n\nPlatformaning asosiy xususiyatlaridan biri har kuni 10:00 dan 22:00 gacha mavjud bo'lgan raqamli restoran menyusidir. Ilova orqali mehmonlar restoran taklif qiladigan taomlar va ichimliklarning keng tanlovini ko'rishlari mumkin:\n- Yangi salatlar\n- Birinchi taomlar va sho'rvalar\n- Issiq gazaklar\n- Asosiy taomlar\n- Pasta va spagetti\n- Shirinliklar\n- Choy va qahva\n- Gazaklar va tezkor taomlar\n- Moxito va sutli kokteyllar\n- Va boshqa ko'plab mazali taomlar\n\nUshbu platformaning ishga tushirilishi Merhaba mehmonxonasining innovatsiyalar va xizmat sifatiga sodiqligini aks ettiradi. Mehmonxona har bir mehmon uchun qulayroq va shaxsiylashtirilgan tajriba yaratishni maqsad qiladi."
+      }
+    }
+  },
+  "Gastrobar": {
+    "title": "Gastrobar",
+    "subtitle": "Yaxshi taom, qulay muhit",
+    "breakfastTitle": "Nonushta «Shved stoli»",
+    "breakfastDesc": "Kuningizni mazali va xilma-xil nonushta bilan boshlang. Har kuni biz yangi tayyorlangan taomlarning keng tanlovini taqdim etamiz: issiq taomlar, yangi sabzavot va mevalar, pishiriqlar, bo'tqalar, yogurtlar va boshqalar. Tanlovingizdan qat'i nazar, yoqadigan narsa topasiz. Nonushta barcha mehmonlar uchun mavjud va do'stona muhitda taqdim etiladi.",
+    "discountTitle": "To'g'ridan-to'g'ri band qilishda 10% chegirma",
+    "discountDesc": "Xonani rasmiy saytimizda band qiling va mehmonxonaning asosiy restoranida 10% chegirmaga ega bo'ling. Mazali taom va yoqimli muhit — taklif faqat onlayn band qilgan mehmonlar uchun amal qiladi.",
+    "exquisite": "Sifatli taomlar",
+    "exquisiteDesc": "Ovqatlanish uchun qulay muhit."
+  },
+  "Spa": {
+    "title": "Fitnes va SPA",
+    "subtitle": "Faol bo'ling, yaxshi dam oling",
+    "poolTitle": "Yopiq suzish havzasi",
+    "poolDesc": "Zamonaviy yopiq suzish havzamizda dam oling. Qulay suv harorati va tinch muhit yilning istalgan vaqtida dam olish uchun yaxshi sharoit yaratadi. Havza barcha mehmonlar uchun ochiq, ammo oldindan band qilish talab etiladi.",
+    "fitnessTitle": "Fitnes zal",
+    "fitnessDesc": "Sayohat paytida ham mashq qilishni to'xtatmang. Fitnes zalimizda samarali mashg'ulot uchun zarur bo'lgan kardio jihozlari va erkin og'irliklar mavjud. Zal kun davomida ochiq.",
+    "modernCardio": "Kardio jihozlari",
+    "modernCardioDesc": "Zamonaviy jihozlar",
+    "strengthArea": "Kuch mashqlari",
+    "strengthAreaDesc": "Shtangalar va og'irliklar"
+  },
+  "Meetings": {
+    "title": "Uchrashuvlar va tadbirlar",
+    "subtitle": "Har qanday tadbir uchun professional joylar",
+    "conferenceTitle": "Konferensiya zallari",
+    "conferenceDesc": "Biznes uchrashuvlari, seminarlar va xususiy tadbirlar uchun moslashuvchan joylar. Kichik guruhlardan tortib kattaroq tadbirlargacha — zalamiz kerakli texnika va qurulmalar bilan jihozlangan. 22, 32 va 52 kishilik konferensiya zallari mavjud.",
+    "rooms": {
+      "executiveSuite": "Ekspertlar zali",
+      "boardroom": "Muzokaralar xonasi",
+      "grandHall": "Katta zal",
+      "capacityPersons": "Sig'imi: {capacity} kishi"
+    },
+    "services": {
+      "pro": "Pro",
+      "audioVisual": "Audio-Video",
+      "wifi": "Wi-Fi",
+      "highSpeed": "Yuqori tezlikdagi internet",
+      "catering": "Keytering",
+      "customMenus": "Maxsus menyu",
+      "support": "Qo'llab-quvvatlash",
+      "eventManager": "Tadbir menejeri"
+    }
+  },
+  "GeneralServices": {
+    "title": "Xizmatlar va qulayliklar",
+    "subtitle": "Sizning qulayligingiz — bizning ustuvorligimiz",
+    "roomStayTitle": "Yashash davridagi xizmatlar",
+    "learnMore": "Batafsil",
+    "laundryTitle": "Kir yuvish xizmati",
+    "laundryDesc": "Kiyimlaringizni yuvish va dazmollash xizmatini taqdim etamiz — tez va sifatli. Narxni bilish va buyurtma berish haqida ma'lumot uchun administrator bilan bog'laning.",
+    "billiardTitle": "Bilyard",
+    "billiardDesc": "Mehmonxonamizning qulay muhitida bilyard o'ynashdan zavqlaning. Band kundan keyin dam olish yoki do'stlar bilan vaqt o'tkazish uchun ajoyib joy.",
+    "wifiTitle": "Yuqori tezlikdagi Wi-Fi",
+    "wifiDesc": "Mehmonxona bo'ylab yuqori tezlikdagi Wi-Fi.",
+    "parkingTitle": "Avtoturargoh",
+    "parkingDesc": "Mehmonxonamiz mehmonlari uchun bepul avtoturargoh.",
+    "amenitiesTitle": "Qulayliklar",
+    "amenities": {
+      "tv": "Televizor",
+      "lamp": "Lampa",
+      "lock": "Elektron qulf",
+      "ac": "Konditsioner",
+      "slippers": "Shippaklar",
+      "lavatory": "Yuvinish xonasi",
+      "soap": "Sovun",
+      "sink": "Rakovina",
+      "toiletBowl": "Unitaz",
+      "toiletries": "Gigiyena vositalari",
+      "cityView": "Shahar manzarasi",
+      "wifi": "Wi-Fi",
+      "singleBed": "Bir kishilik yotoq",
+      "wardrobe": "Shkaf",
+      "housekeeping": "Xonani tozalash",
+      "kettle": "Choynak",
+      "laundry": "Kir yuvish xizmati (qo'shimcha haq)",
+      "heating": "Isitish tizimi",
+      "water": "Ichimlik suvi",
+      "nonSmoking": "Chekilmaydigan xona",
+      "androidTv": "Android TV",
+      "flatTv": "Yassi ekranli televizor",
+      "climate": "Iqlim nazorati",
+      "hairDryer": "Fen",
+      "miniFridge": "Mini-muzlatgich",
+      "bidet": "Bide",
+      "showerCabin": "Dush kabinasi",
+      "beautyAids": "Kosmetik vositalar",
+      "floorHeating": "Issiq pol",
+      "showerCap": "Dush uchun shapka",
+      "towels": "Sochiqlar",
+      "bathrobe": "Xalat",
+      "yardView": "Hovli manzarasi",
+      "phone": "Xonadagi telefon",
+      "rack": "Kiyim ilgich",
+      "closet": "Garderob",
+      "blinds": "Qalin pardalar",
+      "mirror": "Ko'zgu",
+      "chair": "Stul",
+      "nightstand": "Tumbochka",
+      "desk": "Ish stoli",
+      "armchair": "Kreslo",
+      "safe": "Xavfsizlik",
+      "pool": "Yopiq suzish havzasi",
+      "disabled": "Imkoniyati cheklanganlar uchun qulayliklar",
+      "centralAc": "Markaziy konditsioner",
+      "teaSet": "Choy to'plami",
+      "carpet": "Gilam",
+      "laundryRoom": "Kir yuvish xonasi (qo'shimcha haq)",
+      "accessories": "Vanna aksessuarlari",
+      "bathroom": "Vanna xonasi",
+      "doubleBed": "Ikki kishilik yotoq",
+      "diningTable": "Ovqatlanish stoli",
+      "shower": "Dush",
+      "smartTv": "Smart TV",
+      "iron": "Dazmol",
+      "smartHome": "Aqlli uy tizimi",
+      "lighting": "Sensorli yoritish",
+      "parkView": "Bog' manzarasi",
+      "kingBed": "King-size yotoq",
+      "glasses": "Stakanlar"
+    },
+    "showLess": "Yashirish",
+    "showMore": "Ko'proq ko'rsatish",
+    "gastrobarTitle": "Gastrobar",
+    "gastrobarDesc": "Sifatli taomlar va dam olishingiz uchun qulay muhit.",
+    "spaTitle": "Fitnes va SPA",
+    "spaDesc": "Zamonaviy jihozlar va fitnes zal.",
+    "meetingsTitle": "Uchrashuvlar va tadbirlar",
+    "meetingsDesc": "Biznes uchrashuvlari va tadbirlar uchun to'liq jihozlangan konferensiya zallari."
+  },
+  "DatePicker": {
+    "months": [
+      "Yanvar",
+      "Fevral",
+      "Mart",
+      "Aprel",
+      "May",
+      "Iyun",
+      "Iyul",
+      "Avgust",
+      "Sentyabr",
+      "Oktyabr",
+      "Noyabr",
+      "Dekabr"
+    ],
+    "weekDays": [
+      "Du",
+      "Se",
+      "Ch",
+      "Pa",
+      "Ju",
+      "Sh",
+      "Ya"
+    ],
+    "checkInOut": "Kirish — Chiqish",
+    "selectDates": "Sanalarni tanlang",
+    "chooseStayDates": "Yashash sanalarini tanlang",
+    "bestPricesNote": "1 mehmon uchun bir kecha uchun eng yaxshi narxlar UZS da",
+    "notAvailable": "Mavjud emas"
+  },
+  "GuestPicker": {
+    "guests": "Mehmonlar",
+    "numGuests": "Mehmonlar soni",
+    "adults": "Kattalar",
+    "children": "3 yoshgacha bo'lgan bolalar",
+    "childAge": "{index}-bola yoshi",
+    "under1": "1 yoshgacha",
+    "1year": "1 yosh",
+    "2years": "2 yosh",
+    "done": "Tayyor",
+    "adult": "Kattalar",
+    "child": "Bolalar"
+  },
+  "Services": {
+    "label": "Biz nima taklif qilamiz",
+    "title": "Sifatli",
+    "subtitle": "Xizmatlar",
+    "showMore": "Barcha xizmatlar",
+    "items": {
+      "gastrobar": {
+        "title": "Gastrobar",
+        "description": "Gastrobarimizda yaxshi ovqatdan zavqlaning. Xilma-xil shved stoli nonushtasidan to to'liq restoran menyusigacha — hammasi yangi mahsulotlardan tayyorlanadi.",
+        "linkText": "Gastrobarga tashrif →"
+      },
+      "spa": {
+        "title": "Fitnes va SPA",
+        "description": "Mashq qiling yoki shunchaki dam oling. Fitnes zalimiz to'liq jihozlangan, yopiq havzamiz esa band kundan keyin tinchlanish uchun qulay joy.",
+        "linkText": "Dam olish →"
+      },
+      "meetings": {
+        "title": "Uchrashuvlar va tadbirlar",
+        "description": "Ishbilarmonlik uchrashuvlari, seminarlar va tadbirlar uchun qulay va yaxshi jihozlangan joylar. Xodimlarimiz hamma narsani tashkil etishga yordam beradi.",
+        "linkText": "Tadbiringizni rejalashtiring →"
+      },
+      "amenities": {
+        "title": "Qulayliklar",
+        "description": "Yoqimli qolish uchun o'ylab topilgan amaliy va qulay xona jihozlari. Aqlli uy tizimlaridan sifatli gigiyena vositalarigacha — hamma narsa mavjud.",
+        "linkText": "Qulayliklarni ko'rish →"
+      },
+      "guest_services": {
+        "title": "Mehmonlar uchun xizmatlar",
+        "description": "Qolishingizni qulayroq qilamiz: kir yuvish, 24 soatlik xizmat va to'g'ridan-to'g'ri band qilganlarga asosiy restoranda 10% chegirma.",
+        "linkText": "Bizning xizmatlarimiz →"
+      },
+      "pool": {
+        "title": "Yopiq suzish havzasi",
+        "description": "Yopiq havzamiz dam olish va yangilanish uchun tinch joy. Yil davomida qulay suv harorati saqlanadi, barcha mehmonlar uchun oldindan band qilish orqali kirish mumkin.",
+        "linkText": "Batafsil →"
+      }
+    }
+  },
+  "Footer": {
+    "explore": "O'rganish",
+    "services": "Xizmatlar",
+    "legal": "Huquqiy ma'lumot",
+    "links": {
+      "about": "Biz haqimizda",
+      "rooms": "Xonalar va lyukslar",
+      "gallery": "Galereya",
+      "services": "Xizmatlar",
+      "location": "Manzil",
+      "gastrobar": "Gastrobar",
+      "spa": "Fitnes va SPA",
+      "meetings": "Uchrashuvlar va tadbirlar",
+      "amenities": "Qulayliklar",
+      "terms": "Yashash shartlari",
+      "cancellation": "Bekor qilish siyosati"
+    },
+    "brandBlurb": "Merhaba Hotel — Farg‘ona markazida joylashgan premium mehmondo‘stlik. Qulaylik, nafislik va an’analarni his eting.",
+    "rights": "Barcha huquqlar himoyalangan."
+  },
+  "ReviewsWidget": {
+    "googleReviews": "Google Sharhlar",
+    "reviewsCount": "sharhlar"
+  },
+  "Common": {
+    "backToHome": "Bosh sahifaga qaytish"
+  },
+  "ReviewsPage": {
+    "title": "Mehmonlar sharhlari",
+    "subtitle": "Mehmonlarimiz Merhaba Hotel haqida qanday fikrda",
+    "failedToLoad": "Sharhlarni yuklash muvaffaqiyatsiz bo'ldi. Keyinroq qayta urinib ko'ring.",
+    "retry": "Qayta urinish",
+    "reviewsInfo": "{count} / {total} sharhlar",
+    "pageInfo": "Sahifa {current} / {total}",
+    "show": "Ko'rsatish:",
+    "perPage": "sahifada",
+    "sort": "Saralash:",
+    "sortNewest": "Sana: yangidan eskiga",
+    "sortOldest": "Sana: eskidan yangiga",
+    "sortHighRate": "Baho: yuqoridan pastga",
+    "sortLowRate": "Baho: pastdan yuqoriga",
+    "noReviews": "Ushbu tanlov bo'yicha sharhlar topilmadi.",
+    "basedOn": "{count} sharh asosida",
+    "showLess": "Yashirish",
+    "moreCategories": "Yana +{count}",
+    "onSource": "{source} platformasida",
+    "showOriginal": "Asl nusxani ko'rsatish",
+    "showTranslation": "Tarjimani ko'rsatish",
+    "reviewResponse": "Sharhga javob:",
+    "writeReviewTitle": "Dam olishingiz yoqdimi?",
+    "writeReviewDesc": "Taassurotlaringiz bilan o'rtoqlashing va kelajakdagi mehmonlarga Merhaba Hotelni tanlashda yordam bering. O'zingizga qulay platformada sharh qoldiring.",
+    "writeReviewAction": "Sharh qoldirish"
+  },
+  "NotFound": {
+    "title": "Sahifa topilmadi",
+    "desc": "Siz qidirayotgan sahifa mavjud emas. Bosh sahifaga qaytishingizga yordam beramiz.",
+    "returnHome": "Bosh sahifaga qaytish"
+  },
+  "Meta": {
+    "homeTitle": "Merhaba Hotel — Farg'ona shahridagi zamonaviy mehmonxona",
+    "homeDesc": "Farg'ona markazidagi Merhaba Hotelda haqiqiy mehmon kutish, premium xonalar va zamonaviy qulaylik. To'g'ridan-to'g'ri band qiling va 19% gacha tejang — isitilgan bassein, gastrobar va qulay joylashuv.",
+    "aboutTitle": "Biz haqimizda — Merhaba Hotel",
+    "aboutDesc": "Merhaba Hotel haqida ko'proq bilib oling: mehmondo'stlik standartlari, kirish-chiqish siyosati va joylashuv.",
+    "roomsTitle": "Xonalar va lyukslar — Merhaba Hotel",
+    "roomsDesc": "Merhaba Hoteldagi 63 ta premium xona va lyuksni ko'ring. Individual iqlim nazorati, ortopedik to'shak va tez Wi-Fi.",
+    "galleryTitle": "Fotogalereya — Merhaba Hotel",
+    "galleryDesc": "Merhaba Hotelning xonalari, isitilgan basseini, gastrobari va konferens-zallarining foto-ekskursiyasini ko'ring.",
+    "servicesTitle": "Xizmatlar va qulayliklar — Merhaba Hotel",
+    "servicesDesc": "Merhaba Hoteldagi premium xizmatlarni kashf eting: isitilgan bassein, SPA-hammom va faqat mehmonlar uchun eksklyuziv gastrobar.",
+    "gastrobarTitle": "Gastrobar — Merhaba Hotel",
+    "gastrobarDesc": "Merhaba Hoteldagi eksklyuziv gastrobarda ajoyib taomlar va qulay muhitdan bahramand bo'ling.",
+    "spaTitle": "Fitnes va SPA — Merhaba Hotel",
+    "spaDesc": "Merhaba Hoteldagi zamonaviy fitnes markazi va an'anaviy hammom-SPAda dam oling va kuchingizni tiklang.",
+    "meetingsTitle": "Konferenslar va tadbirlar — Merhaba Hotel",
+    "meetingsDesc": "Merhaba Hoteldagi zamonaviy konferens-zallar va har qanday tadbir uchun professional maydonlarni band qiling.",
+    "bookingTitle": "To'g'ridan-to'g'ri band qiling va 19% gacha tejang — Merhaba Hotel",
+    "bookingDesc": "Merhaba Hotelning rasmiy saytida band qiling va darhol 10% tejang — ro'yxatdan o'tib 19% gacha tejang. Eng yaxshi to'g'ridan-to'g'ri narxlar.",
+    "contactsTitle": "Aloqa — Merhaba Hotel",
+    "contactsDesc": "Manzil: Moturudiy ko'chasi 30V/2, Farg'ona. Tel: +998 94 559 00 77. Kirish 14:00, chiqish 12:00.",
+    "reviewsTitle": "Mehmonlar sharhlari — Merhaba Hotel",
+    "reviewsDesc": "Merhaba Hotelda tunagan mehmonlarning haqiqiy sharhlarini o'qing: xizmat, tozalik, joylashuv va qulaylik. O'z sharhingizni Google Maps, Yandex Xarita yoki Tripadvisor'da qoldiring.",
+    "newsTitle": "Yangiliklar — Merhaba Hotel",
+    "newsDesc": "Merhaba Hotelning eng so'nggi yangiliklari, yutuqlari va e'lonlari."
+  }
+}

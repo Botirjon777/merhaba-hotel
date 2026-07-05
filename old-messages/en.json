@@ -1,0 +1,530 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about us": "About Us",
+    "rooms": "Rooms",
+    "gallery": "Gallery",
+    "services": "Services",
+    "news": "News",
+    "contacts": "Contacts",
+    "location": "Location",
+    "reviews": "Reviews",
+    "bookNow": "Book Now",
+    "subLinks": {
+      "gastrobar": "Gastrobar",
+      "fitness & spa": "Fitness & SPA",
+      "meetings & events": "Meetings & Events"
+    }
+  },
+  "Hero": {
+    "titlePart1": "Where",
+    "titleEm": "Safir",
+    "titlePart2": "Defines Luxury",
+    "reserveStay": "Reserve Your Stay",
+    "discoverMore": "Discover More",
+    "welcomeSub": "Experience luxury beyond expectations. Safir Hotel — the place where the sky starts from within."
+  },
+  "Booking": {
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "guests": "Guests",
+    "roomType": "Room Type",
+    "checkAvailability": "Check Availability",
+    "next": "Next",
+    "reserve": "Reserve",
+    "bookYourStay": "Book Your Stay",
+    "bookSubtext": "Fill in your details and our reservations team will confirm your stay within 2 hours.",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "requestReservation": "Request Reservation",
+    "luxurySubtitle": "Luxury Above the Ordinary"
+  },
+  "About": {
+    "storyLabel": "Our Story",
+    "storyTitle1": "A Hotel That",
+    "storyTitleEm": "Defies",
+    "storyTitle2": "Convention",
+    "description1": "Safir Hotel was born from a single, audacious question: what if a hotel could make you feel weightless? Set high above the city in a building that seems to float against the skyline, we have crafted an experience where every detail conspires to lift your spirit.",
+    "description2": "Each of our 87 rooms is a sanctuary of calm — where light pours freely, textures breathe, and the boundaries between inside and outside dissolve into pure presence. We believe luxury is not about excess; it is about the absence of weight.",
+    "stats": {
+      "rooms": "Rooms & Suites",
+      "dining": "Dining Venues",
+      "years": "Years of Grace",
+      "views": "Sky Views"
+    },
+    "readMore": "Read More",
+    "stars": "3 Stars"
+  },
+  "Location": {
+    "findUs": "Find Us",
+    "heartOfEverything": "At the Heart of Fergana",
+    "subtext": "Our hotel is conveniently located in the heart of Fergana city, near major attractions and main transport arteries. You can easily reach us by car, taxi or public transport. Use the map to build the most convenient route.",
+    "address": "Address",
+    "addressText": "Farg'ona shahar, Moturudiy ko'chasi, 30V/2 (9Q9P+QP)",
+    "reservations": "Reservations",
+    "phone": "+998 94 559 00 77",
+    "email": "Email",
+    "emailAddress": "safirhotel2024@gmail.com",
+    "checkInOut": "Check-in / Check-out",
+    "checkInOutValue": "From 14:00 / Until 12:00"
+  },
+  "ImageBanner": {
+    "featuredAmenities": "Featured Amenities",
+    "allAmenities": "All Amenities",
+    "slides": {
+      "hotel-day": {
+        "subtitle": "Welcome to Safir",
+        "title": "The Art of Living"
+      },
+      "hotel-night": {
+        "subtitle": "Evening Grace",
+        "title": "Nocturnal Elegance"
+      },
+      "reception": {
+        "subtitle": "First Impressions",
+        "title": "A Warm Welcome"
+      },
+      "restaurant": {
+        "subtitle": "Culinary Journey",
+        "title": "Taste the Sublime"
+      },
+      "pool": {
+        "subtitle": "Oasis of Calm",
+        "title": "Pure Serenity"
+      },
+      "breakfast": {
+        "subtitle": "Morning Delights",
+        "title": "Gilded Mornings"
+      },
+      "billiard": {
+        "subtitle": "Leisure & Play",
+        "title": "Refined Leisure"
+      }
+    },
+    "title": "Designed for Your",
+    "subtitle": "Ultimate Comfort",
+    "amenities": {
+      "breakfast": "Buffet Breakfast Available",
+      "wifi": "Free WiFi",
+      "ev": "EV Charging",
+      "restaurant": "Restaurant",
+      "bar": "Bar",
+      "shuttle": "Airport Shuttle"
+    }
+  },
+  "Gallery": {
+    "visualJourney": "Visual Journey",
+    "throughOur": "Through Our",
+    "spaces": "Spaces",
+    "viewFullGallery": "View Full Gallery",
+    "description": "Discover our curated selection of suites and halls, each designed with a unique blend of comfort and weightless elegance.",
+    "roomType": "Room Type",
+    "exploreGallery": "Explore Gallery",
+    "conferenceLabel": "Conference Hall"
+  },
+  "Welcome": {
+    "title": "Welcome",
+    "subtitle": "Experience luxury above the ordinary",
+    "description": "Discover a world where gravity is a suggestion and every moment floats in perfect calm. Safir Hotel — where the sky begins inside.",
+    "explore": "Explore Hotel",
+    "book": "Book a Stay"
+  },
+  "GalleryPage": {
+    "title": "Gallery",
+    "subtitle": "Discover our world through the lens of luxury.",
+    "all": "All",
+    "deluxe": "Deluxe",
+    "lux": "Lux",
+    "standart": "Standard",
+    "conference": "Conference",
+    "backToHome": "Back to Home",
+    "sections": {
+      "hotel": "Safir Hotel",
+      "conference": "Conference Halls",
+      "rooms": "Rooms & Suites"
+    },
+    "visual": "Visual",
+    "excellence": "Excellence"
+  },
+  "Recommendations": {
+    "title": "Our Recommendations",
+    "subtitle": "Selection of the Finest",
+    "deluxeTitle": "Deluxe Suite",
+    "deluxeDesc": "The pinnacle of weightless luxury with panoramic sky views.",
+    "luxKingTitle": "Lux King Room",
+    "luxKingDesc": "Sophisticated comfort with a royal touch and infinite horizons.",
+    "luxFamilyTitle": "Lux Family Room",
+    "luxFamilyDesc": "Generous space for shared moments above the ordinary.",
+    "priceFrom": "From",
+    "perNight": "per night",
+    "features": {
+      "wifi": "Free Wi-Fi",
+      "bed": "King Bed",
+      "size": "65 m²",
+      "view": "Sky View"
+    },
+    "premium": "Premium",
+    "discoverAll": "Discover All",
+    "roomTypes": "Room Types",
+    "viewRooms": "View Rooms"
+  },
+  "AboutPage": {
+    "title": "About Safir Hotel",
+    "welcome": "Welcome to Safir Hotel, a place where comfort and style meet with a high level of service. Our hotel is located in a convenient area, which makes it an excellent choice for both business and leisure trips. We offer our guests cozy rooms, modern amenities and an atmosphere conducive to complete relaxation. At Safir Hotel, we take care of every customer by providing high-quality services such as free Wi-Fi, a restaurant, a 24-hour front desk and other amenities that will ensure you a comfortable stay. Each room is furnished with attention to detail, and our varied rates are suitable for any type of traveler. Stay with us and enjoy the hospitality that will make your stay at Safir Hotel unforgettable!",
+    "termsTitle": "Terms of stay",
+    "earlyCheckIn": "Early check-in:",
+    "early1": "From 00:00 to 05:59 — an additional payment of 100% of the cost per night.",
+    "early2": "From 06:00 to 13:59 — additional payment of 50% of the cost per night.",
+    "lateCheckOut": "Late check-out:",
+    "late1": "From 12:01 to 17:59 — additional payment of 50% of the cost per night.",
+    "late2": "From 18:00 to 23:59 — an additional payment of 100% of the cost per night.",
+    "contactAdmin": "For early check-in or late check-out, please contact the administrator.",
+    "checkInTime": "Check-in",
+    "checkInValue": "14:00",
+    "checkOutTime": "Check-out",
+    "checkOutValue": "12:00",
+    "cancellationTitle": "Booking cancellation",
+    "cancellationText": "To clarify the conditions and cancellation procedures, please contact the administrator. We will be happy to provide you with all the necessary information and help you with the cancellation process.",
+    "policyTitle": "Cancellation policy"
+  },
+  "RoomsPage": {
+    "title": "Rooms & Suites",
+    "subtitle": "Discover a collection of weightless elegance and timeless comfort.",
+    "explore": "Explore Room",
+    "from": "From",
+    "bookNow": "Book Now",
+    "moreDetails": "More Details",
+    "detailsTitle": "Room Details",
+    "bestseller": "Bestseller",
+    "size": "Size",
+    "capacity": "Capacity",
+    "details": {
+      "deluxe-king": {
+        "title": "Deluxe King Room",
+        "description": "Our Deluxe King Room is a great choice for couples or those who appreciate space and comfort. The room has a large double bed measuring 2.00 × 1.90 m with high quality linens, which will give you a restful and undisturbed sleep.",
+        "capacity": "2 Adults",
+        "size": "15m²"
+      },
+      "superior-king": {
+        "title": "Superior King Room",
+        "description": "The Superior King Suite combines spaciousness and sophisticated style. A large King Size bed measuring 2.00 × 1.80 m with high-quality linens ensures perfect sleep, and the furniture in elegant colors creates an atmosphere of comfort and harmony.",
+        "capacity": "2 Adults",
+        "size": "25m²"
+      },
+      "superior-twin": {
+        "title": "Superior Twin Room",
+        "description": "Our Superior Twin Room is designed for the convenience and comfort of two guests. The room has two spacious single beds measuring 2.00 × 1.00 m each, with high-quality linens that will ensure you a healthy and restful sleep.",
+        "capacity": "2 Adults",
+        "size": "22m²"
+      },
+      "deluxe-twin": {
+        "title": "Deluxe Twin Room",
+        "description": "Our Deluxe Twin Room is ideal for friends, colleagues or family members who prefer to stay in separate beds. The room has two spacious single beds (1.90 × 1.00 m each) with high-quality linens that ensure a restful and comfortable sleep.",
+        "capacity": "2 Adults",
+        "size": "15m²"
+      },
+      "superior-family": {
+        "title": "Superior Family Room",
+        "description": "The Superior Family Room is the perfect solution for a family vacation. The spacious room has one King Size bed (2.10 × 2.00 m) and one comfortable single bed (2.10 × 1.00 m).",
+        "capacity": "3 Adults",
+        "size": "25m²"
+      },
+      "standart": {
+        "title": "Standard Single Room",
+        "description": "The ideal choice for a single guest is a standard single room with a comfortable 2.10 × 1.00 m bed and everything you need for a comfortable stay.",
+        "capacity": "1 Adult",
+        "size": "15m²"
+      },
+      "apartment": {
+        "title": "Apartment",
+        "description": "Spacious three-room apartment designed for maximum comfort. Features separate living areas, multiple TV sets, a fully equipped kitchenette, and premium bathroom amenities with heated floors.",
+        "capacity": "3 Adults",
+        "size": "3 Rooms"
+      }
+    }
+  },
+  "NewsPage": {
+    "title": "News & Events",
+    "subtitle": "Explore our recent achievements, updates, and innovations.",
+    "readMore": "Read More",
+    "viewCertificate": "View Certificate",
+    "sortBy": "Sort by",
+    "newestFirst": "Newest First",
+    "oldestFirst": "Oldest First",
+    "items": {
+      "food-safety-cert": {
+        "title": "Safir Hotel Restaurant Receives International Food Safety Certification",
+        "excerpt": "Safir Hotel’s restaurant has officially been awarded the internationally recognized ISO 22000:2019 Food Safety Management System Certification.",
+        "content": "Safir Hotel is proud to announce that the hotel’s restaurant has officially been awarded the internationally recognized ISO 22000:2019 Food Safety Management System Certification.\n\nThe certification was issued by the Management Systems Certification Body of the “Tourism Services Certification Center” under the National Certification System of the Republic of Uzbekistan. The certificate confirms that the restaurant operations at Safir Hotel comply with the strict requirements of O‘z DSt ISO 22000:2019 standards in food safety management.\n\nThis achievement reflects our ongoing commitment to providing guests with high-quality dining experiences, safe food preparation processes, and professional hospitality services. The certification covers the organization of catering services, including food preparation, storage, and food service operations.\n\nAt Safir Hotel, guest satisfaction, hygiene, and service excellence remain our highest priorities. Receiving this certification is another important milestone in strengthening trust with our guests and partners while maintaining international hospitality standards.\n\nWe sincerely thank our dedicated team for their professionalism and continuous efforts that made this accomplishment possible.\n\nStay connected with Safir Hotel for more updates and exciting developments."
+      },
+      "quality-management-cert": {
+        "title": "Safir Hotel Achieves ISO 9001:2015 Quality Management Certification",
+        "excerpt": "Safir Hotel has officially received the internationally recognized ISO 9001:2015 Quality Management System Certification.",
+        "content": "Safir Hotel is delighted to announce that the hotel has officially received the internationally recognized ISO 9001:2015 Quality Management System Certification.\n\nThe certification was issued by the Management Systems Certification Body of the “Tourism Services Certification Center” under the National Certification System of the Republic of Uzbekistan. This recognition confirms that Safir Hotel’s management system fully complies with the international standards established by O‘z DSt ISO 9001:2015.\n\nThe certification applies to the hotel’s hospitality services and demonstrates Safir Hotel’s commitment to delivering consistent service quality, improving operational efficiency, and ensuring guest satisfaction at every stage of the guest experience.\n\nReceiving the ISO 9001:2015 certification is an important milestone for Safir Hotel and reflects the hotel’s dedication to continuous improvement, professional management, and excellence in hospitality services.\n\nWe would like to express our sincere gratitude to our team members and partners whose hard work and commitment contributed to this achievement.\n\nSafir Hotel remains focused on providing exceptional comfort, reliable service, and world-class hospitality experiences for every guest."
+      },
+      "smart-in-room-service": {
+        "title": "Safir Hotel Introduces Smart In-Room Service App for a More Comfortable Guest Experience",
+        "excerpt": "Safir Hotel is proud to introduce its new modern In-Room Service Application, created to make every guest’s stay faster, easier, and more comfortable.",
+        "content": "Safir Hotel is proud to introduce its new modern In-Room Service Application, created to make every guest’s stay faster, easier, and more comfortable through digital convenience and smart hospitality solutions.\n\nThe new platform allows guests to access hotel services directly from their smartphones by simply scanning the unique QR code placed inside each room. The application features a clean and user-friendly interface and is available in 10 of the world’s most commonly used languages, making it convenient for both local and international travelers.\n\nWith the new in-room service system, guests can quickly communicate with hotel staff and request services without needing to call the reception desk. The application includes several practical and guest-focused features, including:\n- Wake-Up Call Request – guests can set their preferred wake-up time directly through the app, allowing the reception team to contact them at the scheduled time.\n- Taxi Request Service – guests can easily request a taxi through the platform for airport transfers, city travel, or business meetings.\n- Problem Reporting Feature – if guests experience any issue during their stay, they can instantly report it through the app for faster assistance and resolution.\n- Guest Review Section – visitors can conveniently leave feedback and share their experiences on major international platforms such as Google, Yandex, TripAdvisor, and other popular review websites.\n- Additional Hotel Services – guests can request extra amenities and services, including baby cradles, airport transfers, conference hall reservations, and more.\n\nOne of the key highlights of the platform is the fully digital restaurant menu, available every day from 10:00 AM until 10:00 PM. Through the app, guests can explore a wide selection of dishes and beverages offered by the hotel restaurant, including:\n- Fresh salads\n- First courses and soups\n- Hot appetizers\n- Main courses\n- Pasta and spaghetti\n- Desserts\n- Tea and coffee\n- Snacks and fast food\n- Mojitos and milkshakes\n- And many other delicious options\n\nThe launch of this digital platform reflects Safir Hotel’s commitment to innovation, service quality, and modern guest expectations. By combining hospitality with technology, the hotel aims to provide a smoother, more interactive, and personalized experience for every guest.\n\nAs part of its ongoing development strategy, Safir Hotel continues to invest in smart solutions that improve convenience, efficiency, and overall guest satisfaction while maintaining the warm hospitality and professional service the hotel is known for."
+      }
+    }
+  },
+  "Gastrobar": {
+    "title": "Gastrobar",
+    "subtitle": "Artisanal Flavors & Vibrant Atmosphere",
+    "breakfastTitle": "Buffet Breakfast",
+    "breakfastDesc": "Start your day with a delicious and varied buffet breakfast! Every day we offer a wide selection of fresh dishes: hot snacks, fresh vegetables and fruits, pastries, cereals, yoghurts and much more. Regardless of your preferences, you will find something to your liking to recharge your batteries for the whole day. Breakfast is available to all guests and is served in a cozy atmosphere, creating ideal conditions for a pleasant start to the day.",
+    "discountTitle": "10% Direct Booking Discount",
+    "discountDesc": "Book a room on our official website and get a 10% discount at the hotel's main restaurant! Enjoy the exquisite cuisine and cozy atmosphere — the offer is valid only for guests who have made a reservation online.",
+    "exquisite": "Exquisite Cuisine",
+    "exquisiteDesc": "The perfect atmosphere for your dining experience."
+  },
+  "Spa": {
+    "title": "Fitness & SPA",
+    "subtitle": "A Sanctuary of Wellness",
+    "poolTitle": "Indoor Swimming Pool",
+    "poolDesc": "Immerse yourself in an atmosphere of complete relaxation in our modern indoor pool. The comfortable water temperature and cozy atmosphere create ideal conditions for relaxation at any time of the year. The pool is open to all hotel guests, but access is only available upon prior reservation to ensure maximum comfort and privacy. Enjoy the tranquility and recuperate after a busy day!",
+    "fitnessTitle": "Fitness Room",
+    "fitnessDesc": "Keep in excellent physical shape even while relaxing! In our modern fitness room you will find all the necessary equipment for effective workouts, from cardio equipment to power plants. The spacious and bright room creates a comfortable atmosphere for sports at any time of the day.",
+    "modernCardio": "Modern Cardio",
+    "modernCardioDesc": "State-of-the-art equipment",
+    "strengthArea": "Strength Area",
+    "strengthAreaDesc": "Comprehensive weights"
+  },
+  "Meetings": {
+    "title": "Meetings & Events",
+    "subtitle": "Excellence in Every Detail",
+    "conferenceTitle": "Conference Rooms",
+    "conferenceDesc": "Versatile spaces designed for success. From intimate board meetings to large-scale events, we provide state-of-the-art technology and exceptional service. Our 22, 32, and 52-person conference rooms are equipped with everything needed for a productive session.",
+    "rooms": {
+      "executiveSuite": "Executive Suite",
+      "boardroom": "Boardroom",
+      "grandHall": "Grand Hall",
+      "capacityPersons": "Capacity: {capacity} Persons"
+    },
+    "services": {
+      "pro": "Pro",
+      "audioVisual": "Audio-Visual",
+      "wifi": "Wi-Fi",
+      "highSpeed": "High-Speed Fiber",
+      "catering": "Catering",
+      "customMenus": "Custom Menus",
+      "support": "Support",
+      "eventManager": "Event Manager"
+    }
+  },
+  "GeneralServices": {
+    "title": "Services & Amenities",
+    "subtitle": "Your Comfort is Our Priority",
+    "roomStayTitle": "Services with Room Stay",
+    "laundryTitle": "Laundry",
+    "laundryDesc": "Enjoy the comfort without unnecessary worries! We offer a laundry service for your convenience. Fast and high-quality washing and ironing of your clothes will help you always look at your best. To order the service and specify the cost, contact the administrator.",
+    "billiardTitle": "Billiard",
+    "billiardDesc": "Enjoy playing billiards in the cozy and comfortable surroundings of our hotel. This is a great place to relax after a busy day, spend an evening with friends, or enjoy a relaxing game in a pleasant atmosphere. The billiard room is equipped with everything necessary for a comfortable and exciting game.",
+    "wifiTitle": "High-speed Wi-Fi",
+    "wifiDesc": "High-speed Wi-Fi throughout the hotel.",
+    "parkingTitle": "Parking Space",
+    "parkingDesc": "Free parking for our hotel guests.",
+    "amenitiesTitle": "Amenities",
+    "amenities": {
+      "tv": "TV set",
+      "lamp": "lamp",
+      "lock": "electronic lock",
+      "ac": "air conditioning",
+      "slippers": "slippers",
+      "lavatory": "lavatory",
+      "soap": "soap bar",
+      "sink": "sink",
+      "toiletBowl": "toilet bowl",
+      "toiletries": "toiletries",
+      "cityView": "city view",
+      "wifi": "Wi-Fi",
+      "singleBed": "single bed",
+      "wardrobe": "wardrobe",
+      "housekeeping": "housekeeping",
+      "kettle": "kettle",
+      "laundry": "laundry service (extra charge)",
+      "heating": "heating",
+      "water": "drinking water",
+      "nonSmoking": "non-smoking room",
+      "androidTv": "Android TV",
+      "flatTv": "flat-screen TV",
+      "climate": "climate control system",
+      "hairDryer": "hair dryer",
+      "miniFridge": "mini-fridge",
+      "bidet": "bidet",
+      "showerCabin": "shower cabin",
+      "beautyAids": "beauty aids",
+      "floorHeating": "heated floor",
+      "showerCap": "shower cap",
+      "towels": "bath towels",
+      "bathrobe": "bathrobe",
+      "yardView": "yard view",
+      "phone": "in-room telephone",
+      "rack": "clothes rack",
+      "closet": "closet",
+      "blinds": "blackout blind",
+      "mirror": "mirror",
+      "chair": "chair",
+      "nightstand": "nightstand",
+      "desk": "work table",
+      "armchair": "armchair",
+      "safe": "safe",
+      "pool": "public pool",
+      "disabled": "amenitites for disabled guests",
+      "centralAc": "central air conditioning",
+      "teaSet": "tea set",
+      "carpet": "carpet",
+      "laundryRoom": "laundry room (extra charge)",
+      "accessories": "bath accessories",
+      "bathroom": "bathroom",
+      "doubleBed": "double bed",
+      "diningTable": "dining table",
+      "shower": "shower",
+      "smartTv": "Smart TV",
+      "iron": "iron",
+      "smartHome": "smart home system",
+      "lighting": "touch panel lighting",
+      "parkView": "park view",
+      "kingBed": "king bed",
+      "glasses": "glasses"
+    },
+    "showLess": "Show Less",
+    "showMore": "Show More",
+    "gastrobarTitle": "Gastrobar",
+    "gastrobarDesc": "Exquisite cuisine and the perfect atmosphere for your dining experience.",
+    "spaTitle": "Fitness & SPA",
+    "spaDesc": "State-of-the-art equipment and comprehensive free weights for your workout.",
+    "meetingsTitle": "Meetings & Events",
+    "meetingsDesc": "Fully equipped conference rooms for successful business events and celebrations."
+  },
+  "DatePicker": {
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "weekDays": ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"],
+    "checkInOut": "Check-in — Check-out",
+    "selectDates": "Select Dates",
+    "chooseStayDates": "Choose your stay dates",
+    "bestPricesNote": "Best prices for 1 guest per night in UZS",
+    "notAvailable": "Not available"
+  },
+  "GuestPicker": {
+    "guests": "Guests",
+    "numGuests": "Number of Guests",
+    "adults": "Adults",
+    "children": "Children (under 3 years)",
+    "childAge": "Child {index} Age",
+    "under1": "Under 1 year",
+    "1year": "1 year",
+    "2years": "2 years",
+    "done": "Done",
+    "adult": "Adult",
+    "child": "Child"
+  },
+  "Services": {
+    "label": "What We Offer",
+    "title": "Elevated",
+    "subtitle": "Experiences",
+    "items": {
+      "gastrobar": {
+        "title": "Gastrobar",
+        "description": "Experience exquisite flavors at our Gastrobar. From artisanal cocktails to a rich buffet breakfast, every bite is a journey of taste.",
+        "linkText": "Explore Gastrobar →"
+      },
+      "spa": {
+        "title": "Fitness & SPA",
+        "description": "A sanctuary of wellness featuring our modern fitness room and a serene indoor swimming pool for complete physical and mental rejuvenation.",
+        "linkText": "Relax & Recharge →"
+      },
+      "meetings": {
+        "title": "Meetings & Events",
+        "description": "Elegant venues for any occasion. Our versatile conference rooms and expert planning services ensure your meetings and events are truly extraordinary.",
+        "linkText": "Plan Your Event →"
+      },
+      "amenities": {
+        "title": "Amenities",
+        "description": "Thoughtfully curated details for your ultimate comfort. From smart home systems to premium toiletries, we provide everything you need for a seamless stay.",
+        "linkText": "View Amenities →"
+      },
+      "guest_services": {
+        "title": "Guest Services",
+        "description": "Enjoy effortless hospitality with our inclusive services: laundry, 24/7 housekeeping, and a 10% discount at our main restaurant for direct bookings.",
+        "linkText": "Our Services →"
+      },
+      "pool": {
+        "title": "Infinity Pool",
+        "description": "Immerse yourself in the tranquility of our indoor pool. Controlled temperature and a cozy atmosphere provide the perfect escape year-round.",
+        "linkText": "Dive In →"
+      }
+    }
+  },
+  "Footer": {
+    "explore": "Explore",
+    "services": "Services",
+    "legal": "Legal",
+    "links": {
+      "about": "About Us",
+      "rooms": "Rooms & Suites",
+      "gallery": "Gallery",
+      "services": "Services",
+      "location": "Location",
+      "gastrobar": "Gastrobar",
+      "spa": "Fitness & SPA",
+      "meetings": "Meetings & Events",
+      "amenities": "Amenities",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "cancellation": "Cancellation"
+    },
+    "rights": "All rights reserved."
+  },
+  "ReviewsWidget": {
+    "googleReviews": "Google Reviews",
+    "reviewsCount": "reviews"
+  },
+  "Common": {
+    "backToHome": "Back to Home"
+  },
+  "ReviewsPage": {
+    "title": "Guest Reviews",
+    "subtitle": "What our guests say about their stay at Safir Hotel",
+    "failedToLoad": "Failed to load reviews. Please try again later.",
+    "retry": "Retry",
+    "reviewsInfo": "{count} / {total} reviews",
+    "pageInfo": "Page {current} / {total}",
+    "show": "Show:",
+    "perPage": "per page",
+    "sort": "Sort:",
+    "sortNewest": "Date: newer to older",
+    "sortOldest": "Date: older to newer",
+    "sortHighRate": "Score: High to Low",
+    "sortLowRate": "Score: Low to High",
+    "noReviews": "No reviews found for this selection.",
+    "basedOn": "Based on {count} reviews",
+    "showLess": "Show Less",
+    "moreCategories": "+{count} more",
+    "onSource": "on {source}",
+    "showOriginal": "Show original",
+    "showTranslation": "Show translation",
+    "reviewResponse": "Review response:"
+  },
+  "NotFound": {
+    "title": "Lost your room?",
+    "desc": "Want to find your room? Let us guide you back to luxury.",
+    "returnHome": "Return to Homepage"
+  }
+}

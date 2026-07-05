@@ -1,0 +1,530 @@
+{
+  "Navbar": {
+    "home": "Bosh sahifa",
+    "about us": "Biz haqimizda",
+    "rooms": "Xonalar",
+    "gallery": "Galereya",
+    "services": "Xizmatlar",
+    "news": "Yangiliklar",
+    "contacts": "Kontaktlar",
+    "location": "Manzil",
+    "reviews": "Sharhlar",
+    "bookNow": "Band qilish",
+    "subLinks": {
+      "gastrobar": "Gastrobar",
+      "fitness & spa": "Fitness va SPA",
+      "meetings & events": "Uchrashuvlar va tadbirlar"
+    }
+  },
+  "Hero": {
+    "titlePart1": "Vodiy Gavhari",
+    "titleEm": "Safir Hotel",
+    "titlePart2": "ni kashf eting",
+    "reserveStay": "Dam olishni band qiling",
+    "discoverMore": "Batafsil ma'lumot",
+    "welcomeSub": "Oddiylikdan yuqori bo'lgan hashamatni his eting. Safir mehmonxonasi — osmon ichkaridan boshlanadigan joy."
+  },
+  "Booking": {
+    "checkIn": "Kirish",
+    "checkOut": "Chiqish",
+    "guests": "Mehmonlar",
+    "roomType": "Xona turi",
+    "checkAvailability": "Mavjudligini tekshirish",
+    "next": "Keyingi",
+    "reserve": "Band qilish",
+    "bookYourStay": "Dam olishni band qiling",
+    "bookSubtext": "Ma'lumotlaringizni to'ldiring va bizning jamoamiz 2 soat ichida siz bilan bog'lanadi.",
+    "fullName": "To'liq ism",
+    "emailAddress": "Email manzili",
+    "phoneNumber": "Telefon raqami",
+    "requestReservation": "Band qilishni so'rash",
+    "luxurySubtitle": "Odatdagidan yuqori hashamat"
+  },
+  "About": {
+    "storyLabel": "Bizning tariximiz",
+    "storyTitle1": "An'analarga",
+    "storyTitleEm": "qarshi",
+    "storyTitle2": "chiqqan mehmonxona",
+    "description1": "Safir mehmonxonasi bitta jasoratli savoldan tug'ilgan: agar mehmonxona sizni vaznsiz his qila olsa-chi? Shahardan balandda, go'yo ufqqe qarshi suzib turgandek bino ichida, biz har bir detal sizning ruhingizni ko'tarishga xizmat qiladigan tajribani yaratdik.",
+    "description2": "Bizning 87 ta xonamizning har biri sokinlik maskanidir — u yerda yorug'lik erkin oqadi, teksturalar nafas oladi va ichki va tashqi olam o'rtasidagi chegaralar sof borliqda eriydi. Biz hashamat ortiqchalikda emas, balki vaznsizlikda ekanligiga ishonamiz.",
+    "stats": {
+      "rooms": "Xonalar va lyukslar",
+      "dining": "Ovqatlanish joylari",
+      "years": "Mukammallik yillari",
+      "views": "Osmon manzaralari"
+    },
+    "readMore": "Batafsil",
+    "stars": "3 Yulduz"
+  },
+  "Location": {
+    "findUs": "Bizni toping",
+    "heartOfEverything": "Farg'ona markazida",
+    "subtext": "Mehmonxonamiz Farg'ona shahrining qoq markazida, asosiy diqqatga sazovor joylar va transport yo'llari yaqinida joylashgan. Bizga avtomobil, taksi yoki jamoat transportida osonlik bilan yetib kelishingiz mumkin.",
+    "address": "Manzil",
+    "addressText": "Farg'ona shahar, Moturudiy ko'chasi, 30V/2 (9Q9P+QP)",
+    "reservations": "Bron qilish",
+    "phone": "+998 94 559 00 77",
+    "email": "Email",
+    "emailAddress": "safirhotel2024@gmail.com",
+    "checkInOut": "Kirish / Chiqish",
+    "checkInOutValue": "14:00 dan / 12:00 gacha"
+  },
+  "ImageBanner": {
+    "featuredAmenities": "Asosiy qulayliklar",
+    "allAmenities": "Barcha qulayliklar",
+    "slides": {
+      "hotel-day": {
+        "subtitle": "Safirga xush kelibsiz",
+        "title": "Yashash san'ati"
+      },
+      "hotel-night": {
+        "subtitle": "Oqshom fayzi",
+        "title": "Tungi nafosat"
+      },
+      "reception": {
+        "subtitle": "Birinchi taassurot",
+        "title": "Samimiy qabul"
+      },
+      "restaurant": {
+        "subtitle": "Kulinariya sayohati",
+        "title": "Oliy lazzat"
+      },
+      "pool": {
+        "subtitle": "Sokinlik maskani",
+        "title": "Sof halovat"
+      },
+      "breakfast": {
+        "subtitle": "Tonggi kayfiyat",
+        "title": "Zarrin tonglar"
+      },
+      "billiard": {
+        "subtitle": "Hordiq va o'yin",
+        "title": "Nafis hordiq"
+      }
+    },
+    "title": "Sizning",
+    "subtitle": "Mukammal Qulayligingiz Uchun",
+    "amenities": {
+      "breakfast": "Shved stoli nonushtasi",
+      "wifi": "Bepul WiFi",
+      "ev": "Elektromobil zaryadlash",
+      "restaurant": "Restoran",
+      "bar": "Bar",
+      "shuttle": "Aeroport transferi"
+    }
+  },
+  "Gallery": {
+    "visualJourney": "Vizual sayohat",
+    "throughOur": "Bizning",
+    "spaces": "Joylarimiz",
+    "viewFullGallery": "To'liq galereyani ko'rish",
+    "description": "Qulaylik va vaznsiz nafislikning o'ziga xos uyg'unligi bilan yaratilgan lyukslar va zallar to'plamini kashf eting.",
+    "roomType": "Xona turi",
+    "exploreGallery": "Galereyani ko'rish",
+    "conferenceLabel": "Konferentsiya zali"
+  },
+  "Welcome": {
+    "title": "Xush Kelibsiz",
+    "subtitle": "Odatdagidan yuqori hashamatni his eting",
+    "description": "Gravitatsiya shunchaki taklif bo'lgan va har bir lahza mukammal osoyishtalikda suzib yuradigan dunyoni kashf eting. Safir Hotel — osmon ichkaridan boshlanadigan joy.",
+    "explore": "Mehmonxonani Ko'rish",
+    "book": "Bron Qilish"
+  },
+  "GalleryPage": {
+    "title": "Galereya",
+    "subtitle": "Bizning dunyomizni hashamatli nigoh orqali kashf eting.",
+    "all": "Barchasi",
+    "deluxe": "Deluxe",
+    "lux": "Lux",
+    "standart": "Standard",
+    "conference": "Konferentsiya",
+    "backToHome": "Bosh sahifaga qaytish",
+    "sections": {
+      "hotel": "Safir mehmonxonasi",
+      "conference": "Konferentsiya zallari",
+      "rooms": "Xonalar va lyukslar"
+    },
+    "visual": "Vizual",
+    "excellence": "Mukammallik"
+  },
+  "Recommendations": {
+    "title": "Bizning tavsiyalarimiz",
+    "subtitle": "Eng sara tanlovlar",
+    "deluxeTitle": "Deluxe Suite",
+    "deluxeDesc": "Panorama ko'rinishiga ega bo'lgan vaznsiz hashamat cho'qqisi.",
+    "luxKingTitle": "Lux King Room",
+    "luxKingDesc": "Qirollik darajasidagi qulaylik va cheksiz ufqlar.",
+    "luxFamilyTitle": "Lux Family Room",
+    "luxFamilyDesc": "Odatdagidan yuqori darajadagi umumiy lahzalar uchun keng maydon.",
+    "priceFrom": "Dan",
+    "perNight": "bir kecha uchun",
+    "features": {
+      "wifi": "Bepul Wi-Fi",
+      "bed": "Qirollik karavoti",
+      "size": "65 m²",
+      "view": "Osmon ko'rinishi"
+    },
+    "premium": "Premium",
+    "discoverAll": "Barcha xona",
+    "roomTypes": "turlari",
+    "viewRooms": "Xonalarni ko'rish"
+  },
+  "AboutPage": {
+    "title": "Safir Hotel haqida",
+    "welcome": "Safir mehmonxonasiga xush kelibsiz — qulaylik va uslub yuqori darajadagi xizmat bilan uchrashadigan joy. Bizning mulkimiz qulay hududda joylashgan bo'lib, bu ish safari va dam olish uchun ajoyib tanlovdir. Biz mehmonlarga qulay xonalar, zamonaviy qulayliklar va to'liq dam olishga yordam beradigan muhitni taklif etamiz. Safir mehmonxonasida biz har bir mijozga bepul Wi-fi, restoran, 24 soatlik qabulxona va boshqa qulayliklar kabi yuqori sifatli xizmatlarni taqdim etish orqali g'amxo'rlik qilamiz, bu sizga qulay yashash imkonini beradi. Har bir xona tafsilotlarga e'tibor bilan jihozlangan va bizning turli xil tariflarimiz har qanday sayohatchiga mos keladi. Biz bilan qoling va Safir mehmonxonasida qolishingizni unutilmas qiladigan mehmondo'stlikdan zavqlaning!",
+    "termsTitle": "Yashash shartlari",
+    "earlyCheckIn": "Erta yugurish:",
+    "early1": "00:00 dan 05:59 gacha — bir kecha uchun xarajatlarning 100% miqdorida qo'shimcha to'lov.",
+    "early2": "06:00 dan 13:59 gacha — bir kecha uchun xarajatlarning 50% miqdorida qo'shimcha to'lov.",
+    "lateCheckOut": "Kech jo'nab ketish:",
+    "late1": "12:01 dan 17:59 gacha — bir kecha uchun xarajatlarning 50% miqdorida qo'shimcha to'lov.",
+    "late2": "18:00 dan 23:59 gacha — bir kecha uchun xarajatlarning 100% miqdorida qo'shimcha to'lov.",
+    "contactAdmin": "Erta ro'yxatdan o'tish yoki kech chiqish uchun administratorga murojaat qiling.",
+    "checkInTime": "Kelishda ro'yxatdan o'tish",
+    "checkInValue": "14:00",
+    "checkOutTime": "Jo'nashda ro'yxatdan o'tish",
+    "checkOutValue": "12:00",
+    "cancellationTitle": "Bandlovni bekor qilish",
+    "cancellationText": "Bekor qilish shartlari va tartib-qoidalarini aniqlashtirish uchun administratorga murojaat qiling. Biz sizga barcha kerakli ma'lumotlarni mamnuniyat bilan taqdim etamiz va bekor qilish jarayonida yordam beramiz.",
+    "policyTitle": "Bekor qilish siyosati"
+  },
+  "RoomsPage": {
+    "title": "Xonalar va lyukslar",
+    "subtitle": "Vaznsiz nafislik va abadiy qulaylik to'plamini kashf eting.",
+    "explore": "Xonani ko'rish",
+    "from": "dan",
+    "bookNow": "Band qilish",
+    "moreDetails": "Batafsil",
+    "detailsTitle": "Xona tafsilotlari",
+    "bestseller": "Xit savdo",
+    "size": "Maydoni",
+    "capacity": "Sig'imi",
+    "details": {
+      "deluxe-king": {
+        "title": "King-size karavotli Delux xona",
+        "description": "Bizning King-size karavotli Delux xonamiz juftliklar yoki kenglik va qulaylikni qadrlaydiganlar uchun ajoyib tanlovdir. Xonada yuqori sifatli choyshablarga ega 2.00 × 1.90 m o'lchamdagi katta ikki kishilik karavot mavjud bo'lib, u sizga tinch va osoyishta uyqu beradi.",
+        "capacity": "2 Kattalar",
+        "size": "15m²"
+      },
+      "superior-king": {
+        "title": "King-size karavotli Superior xona",
+        "description": "Superior King Suite kenglik va nafis uslubni o'zida mujassam etgan. Yuqori sifatli choyshablarga ega 2.00 × 1.80 m o'lchamdagi katta King Size karavoti mukammal uyquni ta'minlaydi, nafis ranglardagi mebellar esa qulaylik va uyg'unlik muhitini yaratadi.",
+        "capacity": "2 Kattalar",
+        "size": "25m²"
+      },
+      "superior-twin": {
+        "title": "Ikki kishilik Superior xona",
+        "description": "Bizning Superior Twin xonamiz ikki mehmonning qulayligi va hordig'i uchun mo'ljallangan. Xonada har birining o'lchami 2.00 × 1.00 m bo'lgan ikkita keng bir kishilik karavot mavjud bo'lib, ular yuqori sifatli choyshablar bilan ta'minlangan, bu sizga sog'lom va osoyishta uyquni kafolatlaydi.",
+        "capacity": "2 Kattalar",
+        "size": "22m²"
+      },
+      "deluxe-twin": {
+        "title": "Ikki kishilik Delux xona",
+        "description": "Bizning Deluxe Twin xonamiz alohida karavotlarda qolishni afzal ko'radigan do'stlar, hamkasblar yoki oila a'zolari uchun juda mos keladi. Xonada har birining o'lchami 1.90 × 1.00 m bo'lgan ikkita keng bir kishilik karavot mavjud bo'lib, ular yuqori sifatli choyshablar bilan ta'minlangan, bu esa osoyishta va qulay uyquni ta'minlaydi.",
+        "capacity": "2 Kattalar",
+        "size": "15m²"
+      },
+      "superior-family": {
+        "title": "Superior oilaviy xona",
+        "description": "Superior oilaviy xonasi oilaviy dam olish uchun mukammal yechimdir. Keng xonada bitta King Size karavoti (2.10 × 2.00 m) va bitta qulay bir kishilik karavot (2.10 × 1.00 m) mavjud.",
+        "capacity": "3 Kattalar",
+        "size": "25m²"
+      },
+      "standart": {
+        "title": "Standart bir kishilik xona",
+        "description": "Yolg'iz mehmon uchun ideal tanlov — 2.10 × 1.00 m o'lchamdagi qulay karavotga va qulay yashash uchun barcha zaruriy narsalarga ega standart bir kishilik xonadir.",
+        "capacity": "1 Kattalar",
+        "size": "15m²"
+      },
+      "apartment": {
+        "title": "Apartament",
+        "description": "Maksimal qulaylik uchun mo'ljallangan keng uch xonali apartament. Alohida yashash joylari, bir nechta televizor, to'liq jihozlangan oshxona va isitiladigan polga ega yuqori darajadagi vanna xonasi bilan ta'minlangan.",
+        "capacity": "3 Kattalar",
+        "size": "3 xona"
+      }
+    }
+  },
+  "NewsPage": {
+    "title": "Yangiliklar va tadbirlar",
+    "subtitle": "Bizning so'nggi yutuqlarimiz, yangilanishlarimiz va innovatsiyalarimizni o'rganing.",
+    "readMore": "Batafsil",
+    "viewCertificate": "Sertifikatni ko'rish",
+    "sortBy": "Saralash",
+    "newestFirst": "Eng yangilari",
+    "oldestFirst": "Eng eskilari",
+    "items": {
+      "food-safety-cert": {
+        "title": "Safir mehmonxonasi restorani oziq-ovqat xavfsizligi bo'yicha xalqaro sertifikatni qo'lga kiritdi",
+        "excerpt": "Safir mehmonxonasining restorani xalqaro miqyosda tan olingan ISO 22000:2019 oziq-ovqat xavfsizligi menejmenti tizimi sertifikati bilan rasman taqdirlandi.",
+        "content": "Safir mehmonxonasi restoranining xalqaro miqyosda tan olingan ISO 22000:2019 oziq-ovqat xavfsizligi menejmenti tizimi sertifikati bilan rasman taqdirlanganini faxr bilan e'lon qiladi.\n\nSertifikat O'zbekiston Respublikasi Milliy sertifikatlashtirish tizimi qoshidagi \"Turizm xizmatlarini sertifikatlashtirish markazi\"ning Menejment tizimlarini sertifikatlashtirish organi tomonidan berilgan. Sertifikat Safir mehmonxonasidagi restoran faoliyati oziq-ovqat xavfsizligini boshqarishda O'z DSt ISO 22000:2019 standartining qat'iy talablariga javob berishini tasdiqlaydi.\n\nUshbu yutuq mehmonlarga yuqori sifatli ovqatlanish tajribasi, xavfsiz ovqat tayyorlash jarayonlari va professional mehmondo'stlik xizmatlarini taqdim etishga doimiy sodiqligimizni aks ettiradi. Sertifikatlash ovqatlanish xizmatlarini tashkil etishni, shu jumladan oziq-ovqat mahsulotlarini tayyorlash, saqlash va oziq-ovqat xizmatlarini ko'rsatishni o'z ichiga oladi.\n\nSafir mehmonxonasida mehmonlar ehtiyojini qondirish, gigiyena va xizmat ko'rsatishning mukammalligi bizning ustuvor vazifamiz bo'lib qoladi. Ushbu sertifikatni olish xalqaro mehmondo'stlik standartlarini saqlab qolgan holda mehmonlarimiz va hamkorlarimiz bilan ishonchni mustahkamlashning yana bir muhim bosqichidir.\n\nUshbu yutuqni amalga oshirishga imkon bergan professionalligi va doimiy sa'y-harakatlari uchun fidoyi jamoamizga chin dildan minnatdorchilik bildiramiz.\n\nKo'proq yangiliklar va qiziqarli voqealar uchun Safir mehmonxonasi bilan birga qoling."
+      },
+      "quality-management-cert": {
+        "title": "Safir mehmonxonasi ISO 9001:2015 Sifat menejmenti sertifikatiga ega bo'ldi",
+        "excerpt": "Safir mehmonxonasi xalqaro miqyosda tan olingan ISO 9001:2015 Sifat menejmenti tizimi sertifikatini rasman qabul qildi.",
+        "content": "Safir mehmonxonasi xalqaro miqyosda tan olingan ISO 9001:2015 Sifat menejmenti tizimi sertifikatini rasman olganini mamnuniyat bilan e'lon qiladi.\n\nSertifikat O'zbekiston Respublikasi Milliy sertifikatlashtirish tizimi qoshidagi \"Turizm xizmatlarini sertifikatlashtirish markazi\"ning Menejment tizimlarini sertifikatlashtirish organi tomonidan berilgan. Ushbu e'tirof Safir mehmonxonasining menejment tizimi O'z DSt ISO 9001:2015 tomonidan belgilangan xalqaro standartlarga to'liq mos kelishini tasdiqlaydi.\n\nSertifikat mehmonxonaning mehmondo'stlik xizmatlariga tatbiq etiladi va Safir mehmonxonasining xizmat ko'rsatishning barqaror sifatini ta'minlash, operatsion samaradorlikni oshirish va mehmonlar tajribasining har bir bosqichida mehmonlar ehtiyojini qondirishga sodiqligini namoyish etadi.\n\nISO 9001:2015 sertifikatini olish Safir mehmonxonasi uchun muhim voqea bo'lib, mehmonxonaning doimiy takomillashtirishga, professional boshqaruvga va mehmondo'stlik xizmatlarida mukammallikka intilishini aks ettiradi.\n\nUshbu yutuqqa o'zlarining mashaqqatli mehnati va sadoqati bilan hissa qo'shgan jamoamiz a'zolari va hamkorlarimizga chin dildan minnatdorchilik bildiramiz.\n\nSafir mehmonxonasi har bir mehmon uchun ajoyib qulaylik, ishonchli xizmat va jahon darajasidagi mehmondo'stlik tajribasini taqdim etishga e'tibor qaratishda davom etmoqda."
+      },
+      "smart-in-room-service": {
+        "title": "Safir mehmonxonasi qulay mehmon tajribasi uchun Smart In-Room Service ilovasini taqdim etadi",
+        "excerpt": "Safir mehmonxonasi har bir mehmonning yashashini tezroq, osonroq va qulayroq qilish uchun yaratilgan yangi zamonaviy In-Room Service ilovasini taqdim etishdan faxrlanadi.",
+        "content": "Safir mehmonxonasi raqamli qulaylik va aqlli mehmondo'stlik yechimlari orqali har bir mehmonning qolishini tezroq, osonroq va qulayroq qilish uchun yaratilgan yangi zamonaviy In-Room Service (Xona xizmati) ilovasini taqdim etishdan faxrlanadi.\n\nYangi platforma mehmonlarga har bir xonaga joylashtirilgan noyob QR kodni skanerlash orqali to'g'ridan-to'g'ri smartfonlaridan mehmonxona xizmatlaridan foydalanish imkonini beradi. Ilova toza va foydalanuvchilar uchun qulay interfeysga ega bo'lib, dunyoning eng ko'p qo'llaniladigan 10 ta tilida mavjud va bu mahalliy va xalqaro sayohatchilar uchun qulaydir.\n\nYangi xona xizmati tizimi yordamida mehmonlar qabulxonaga qo'ng'iroq qilmasdan mehmonxona xodimlari bilan tezda bog'lanishlari va xizmatlarga so'rov yuborishlari mumkin. Ilova bir nechta amaliy va mehmonga qaratilgan xususiyatlarni o'z ichiga oladi, jumladan:\n- Uyg'otish xizmati – mehmonlar o'zlari xohlagan uyg'onish vaqtini to'g'ridan-to'g'ri ilova orqali belgilashlari mumkin, bu esa qabulxona jamoasiga belgilangan vaqtda ular bilan bog'lanish imkonini beradi.\n- Taksi chaqirish xizmati – mehmonlar aeroport transferlari, shahar sayohatlari yoki ishbilarmonlik uchrashuvlari uchun platforma orqali taksini osongina chaqirishlari mumkin.\n- Muammo haqida xabar berish – agar mehmonlar qolish vaqtida biron bir muammoga duch kelsalar, tezroq yordam va yechim uchun ilova orqali darhol xabar berishlari mumkin.\n- Mehmonlar sharhi bo'limi – tashrif buyuruvchilar Google, Yandex, TripAdvisor va boshqa mashhur sharh veb-saytlari kabi yirik xalqaro platformalarda o'z fikr-mulohazalarini qulay tarzda qoldirishlari va tajribalari bilan o'rtoqlashishlari mumkin.\n- Qo'shimcha mehmonxona xizmatlari – mehmonlar qo'shimcha qulayliklar va xizmatlarni, jumladan bolalar beshiklari, aeroport transferlari, konferentsiya zallarini band qilish va boshqalarni so'rashlari mumkin.\n\nPlatformaning asosiy jihatlaridan biri bu har kuni ertalab 10:00 dan kechki 22:00 gacha mavjud bo'lgan to'liq raqamli restoran menyusi. Ilova orqali mehmonlar mehmonxona restorani tomonidan taqdim etiladigan idishlar va ichimliklarning keng tanlovini o'rganishlari mumkin, jumladan:\n- Yangi salatlar\n- Birinchi taomlar va sho'rvalar\n- Issiq gazaklar\n- Asosiy taomlar\n- Pasta va spagetti\n- Shirinliklar\n- Choy va qahva\n- Gazaklar va tezkor taomlar\n- Moxito va sutli kokteyllar\n- Va boshqa ko'plab mazali variantlar\n\nUshbu raqamli platformaning ishga tushirilishi Safir mehmonxonasining innovatsiyalar, xizmat ko'rsatish sifati va zamonaviy mehmonlar talablariga sodiqligini aks ettiradi. Mehmondo'stlikni texnologiya bilan uyg'unlashtirib, mehmonxona har bir mehmon uchun yanada qulay, interaktiv va shaxsiylashtirilgan tajribani taqdim etishni maqsad qilgan.\n\nDavom etayotgan rivojlanish strategiyasining bir qismi sifatida Safir mehmonxonasi mehmonxona mashhur bo'lgan samimiy mehmondo'stlik va professional xizmatni saqlab qolgan holda qulaylik, samaradorlik va mehmonlarning umumiy ehtiyojini qondirishni yaxshilaydigan aqlli echimlarga sarmoya kiritishda davom etmoqda."
+      }
+    }
+  },
+  "Gastrobar": {
+    "title": "Gastrobar",
+    "subtitle": "Mualliflik ta'mlari va jonli muhit",
+    "breakfastTitle": "Nonushta «Shved stoli»",
+    "breakfastDesc": "Kuningizni mazali va xilma-xil nonushta bilan boshlang! Har kuni biz yangi tayyorlangan taomlarning keng tanlovini taklif etamiz: issiq gazaklar, yangi sabzavot va mevalar, pishiriqlar, bo'tqalar, yogurtlar va boshqalar. Tanlovingizdan qat'i nazar, siz kun bo'yi energiya bilan ta'minlaydigan taomlarni topasiz. Nonushta barcha mehmonlar uchun mavjud va shinam muhitda taqdim etiladi.",
+    "discountTitle": "To'g'ridan-to'g'ri band qilishda 10% chegirma",
+    "discountDesc": "Xonani rasmiy saytimizda band qiling va mehmonxonaning asosiy restoranida 10% chegirmaga ega bo'ling! Nafis oshxona va shinam muhitdan bahramand bo'ling — taklif faqat onlayn band qilgan mehmonlar uchun amal qiladi.",
+    "exquisite": "Noyob taomlar",
+    "exquisiteDesc": "Dam olishingiz uchun ajoyib muhit."
+  },
+  "Spa": {
+    "title": "Fitnes va SPA",
+    "subtitle": "Farovonlik maskani",
+    "poolTitle": "Yopiq suzish havzasi",
+    "poolDesc": "Zamonaviy yopiq suzish havzamizda to'liq dam olish muhitiga sho'ng'ing. Qulay suv harorati va shinam muhit yilning istalgan vaqtida dam olish uchun ideal sharoit yaratadi. Havza barcha mehmonlar uchun ochiq, ammo kirish faqat oldindan band qilish orqali amalga oshiriladi.",
+    "fitnessTitle": "Fitnes zal",
+    "fitnessDesc": "Hatto dam olish vaqtida ham ajoyib jismoniy shaklni saqlang! Bizning zamonaviy fitnes zalimizda siz samarali mashg'ulotlar uchun barcha zarur jihozlarni topasiz.",
+    "modernCardio": "Zamonaviy kardio",
+    "modernCardioDesc": "Eng so'nggi jihozlar",
+    "strengthArea": "Kuch mashqlari",
+    "strengthAreaDesc": "Keng turdagi toshlar va shtangalar"
+  },
+  "Meetings": {
+    "title": "Uchrashuvlar va tadbirlar",
+    "subtitle": "Har bir detalda mukammallik",
+    "conferenceTitle": "Konferentsiya zallari",
+    "conferenceDesc": "Muvaffaqiyat uchun yaratilgan universal maydonlar. Kichik majlislardan tortib keng ko'lamli tadbirlargacha — biz zamonaviy jihozlar va ajoyib xizmatni taqdim etamiz.",
+    "rooms": {
+      "executiveSuite": "Eksklyuziv lyuks",
+      "boardroom": "Muzokaralar xonasi",
+      "grandHall": "Katta zal",
+      "capacityPersons": "Sig'imi: {capacity} kishi"
+    },
+    "services": {
+      "pro": "Pro",
+      "audioVisual": "Audio-Video",
+      "wifi": "Wi-Fi",
+      "highSpeed": "Yuqori tezlikda",
+      "catering": "Keytering",
+      "customMenus": "Maxsus menyu",
+      "support": "Qo'llab-quvvatlash",
+      "eventManager": "Tadbir menejeri"
+    }
+  },
+  "GeneralServices": {
+    "title": "Xizmatlar va qulayliklar",
+    "subtitle": "Sizning qulayligingiz — bizning ustuvorligimiz",
+    "roomStayTitle": "Yashash davridagi xizmatlar",
+    "laundryTitle": "Kir yuvish xizmati",
+    "laundryDesc": "Ortiqcha tashvishlarsiz qulaylikdan bahramand bo'ling! Sizga qulaylik yaratish uchun kir yuvish xizmatini taklif etamiz. Kiyimlaringizni tez va sifatli yuvish va dazmollash sizga har doim ajoyib ko'rinishga yordam beradi.",
+    "billiardTitle": "Bilyard",
+    "billiardDesc": "Mehmonxonamizning shinam va qulay muhitida bilyard o'ynashdan zavqlaning. Bu band kundan keyin dam olish uchun ajoyib joy.",
+    "wifiTitle": "Yuqori tezlikdagi Wi-Fi",
+    "wifiDesc": "Mehmonxona bo'ylab yuqori tezlikdagi Wi-Fi.",
+    "parkingTitle": "Avtoturargoh",
+    "parkingDesc": "Mehmonxonamiz mehmonlari uchun bepul avtoturargoh.",
+    "amenitiesTitle": "Qulayliklar",
+    "amenities": {
+      "tv": "Televizor",
+      "lamp": "Lampa",
+      "lock": "Elektron qulf",
+      "ac": "Konditsioner",
+      "slippers": "Shippaklar",
+      "lavatory": "Yuvinish xonasi",
+      "soap": "Sovun",
+      "sink": "Rakovina",
+      "toiletBowl": "Unitaz",
+      "toiletries": "Gidiena vositalari",
+      "cityView": "Shahar manzarasi",
+      "wifi": "Wi-Fi",
+      "singleBed": "Bir kishilik yotoq",
+      "wardrobe": "Shkaf",
+      "housekeeping": "Xonani tozalash",
+      "kettle": "Choynak",
+      "laundry": "Kir yuvish xizmati (qo'shimcha haq)",
+      "heating": "Isitish tizimi",
+      "water": "Ichimlik suvi",
+      "nonSmoking": "Chekilmaydigan xona",
+      "androidTv": "Android TV",
+      "flatTv": "Yassi ekranli televizor",
+      "climate": "Iqlim nazorati",
+      "hairDryer": "Fen",
+      "miniFridge": "Mini-muzlatgich",
+      "bidet": "Bide",
+      "showerCabin": "Dush kabinasi",
+      "beautyAids": "Kosmetik vositalar",
+      "floorHeating": "Issiq pol",
+      "showerCap": "Dush uchun shapka",
+      "towels": "Sochiqlar",
+      "bathrobe": "Xalat",
+      "yardView": "Hovli manzarasi",
+      "phone": "Xonadagi telefon",
+      "rack": "Kiyim ilgich",
+      "closet": "Garderob",
+      "blinds": "Qalin pardalar",
+      "mirror": "Ko'zgu",
+      "chair": "Stul",
+      "nightstand": "Tumbachka",
+      "desk": "Ish stoli",
+      "armchair": "Kreslo",
+      "safe": "Seif",
+      "pool": "Umumiy havza",
+      "disabled": "Imkoniyati cheklanganlar uchun qulayliklar",
+      "centralAc": "Markaziy konditsioner",
+      "teaSet": "Choy to'plami",
+      "carpet": "Kovrolin",
+      "laundryRoom": "Yuvinish xonasi (qo'shimcha haq)",
+      "accessories": "Vanna aksessuarlari",
+      "bathroom": "Vanna xonasi",
+      "doubleBed": "Ikki kishilik yotoq",
+      "diningTable": "Ovqatlanish stoli",
+      "shower": "Dush",
+      "smartTv": "Smart TV",
+      "iron": "Dazmol",
+      "smartHome": "Aqlli uy tizimi",
+      "lighting": "Sensorli yoritish",
+      "parkView": "Bog' manzarasi",
+      "kingBed": "King-size yotoq",
+      "glasses": "Stakanlar"
+    },
+    "showLess": "Yashirish",
+    "showMore": "Ko'proq ko'rsatish",
+    "gastrobarTitle": "Gastrobar",
+    "gastrobarDesc": "Noyob taomlar va dam olishingiz uchun ajoyib muhit.",
+    "spaTitle": "Fitnes va SPA",
+    "spaDesc": "Sizning mashqlaringiz uchun eng so'nggi jihozlar va keng turdagi toshlar.",
+    "meetingsTitle": "Uchrashuvlar va tadbirlar",
+    "meetingsDesc": "Muvaffaqiyatli biznes tadbirlari uchun to'liq jihozlangan konferens-zallar."
+  },
+  "DatePicker": {
+    "months": [
+      "Yanvar",
+      "Fevral",
+      "Mart",
+      "Aprel",
+      "May",
+      "Iyun",
+      "Iyul",
+      "Avgust",
+      "Sentyabr",
+      "Oktyabr",
+      "Noyabr",
+      "Dekabr"
+    ],
+    "weekDays": ["Du", "Se", "Ch", "Pa", "Ju", "Sh", "Ya"],
+    "checkInOut": "Kirish — Chiqish",
+    "selectDates": "Sanalarni tanlang",
+    "chooseStayDates": "Yashash sanalarini tanlang",
+    "bestPricesNote": "1 mehmon uchun bir kecha uchun eng yaxshi narxlar UZS da",
+    "notAvailable": "Mavjud emas"
+  },
+  "GuestPicker": {
+    "guests": "Mehmonlar",
+    "numGuests": "Mehmonlar soni",
+    "adults": "Kattalar",
+    "children": "3 yoshgacha bo'lgan bolalar",
+    "childAge": "{index}-bola yoshi",
+    "under1": "1 yoshgacha",
+    "1year": "1 yosh",
+    "2years": "2 yosh",
+    "done": "Tayyor",
+    "adult": "Kattalar",
+    "child": "Bolalar"
+  },
+  "Services": {
+    "label": "Biz nima taklif qilamiz",
+    "title": "Oliy Darajadagi",
+    "subtitle": "Taassurotlar",
+    "items": {
+      "gastrobar": {
+        "title": "Gastrobar",
+        "description": "Gastrobarimizda nafis ta'mlardan bahramand bo'ling. Mualliflik kokteyllaridan tortib, boy nonushtagacha — har bir luqma ta'm sayohatidir.",
+        "linkText": "Gastrobarga tashrif →"
+      },
+      "spa": {
+        "title": "Fitnes va SPA",
+        "description": "Jismoniy va ruhiy yangilanish uchun zamonaviy fitnes zalimiz va sokin yopiq suzish havzamizni o'z ichiga olgan farovonlik maskani.",
+        "linkText": "Dam olish →"
+      },
+      "meetings": {
+        "title": "Uchrashuvlar va tadbirlar",
+        "description": "Har qanday vaziyat uchun nafis maydonlar. Bizning universal konferentsiya zallarimiz va professional xizmatlarimiz tadbiringiz muvaffaqiyatini kafolatlaydi.",
+        "linkText": "Tadbiringizni rejalashtiring →"
+      },
+      "amenities": {
+        "title": "Qulayliklar",
+        "description": "Sizning mutlaq qulayligingiz uchun o'ylab topilgan tafsilotlar. Aqlli uy tizimlaridan tortib yuqori sifatli gigiena vositalarigacha.",
+        "linkText": "Qulayliklarni ko'rish →"
+      },
+      "guest_services": {
+        "title": "Mehmonlar uchun xizmatlar",
+        "description": "Mukammal mehmondo'stlikdan zavqlaning: kir yuvish, 24/7 xizmat ko'rsatish va to'g'ridan-to'g'ri band qilishda asosiy restoranimizda 10% chegirma.",
+        "linkText": "Bizning xizmatlarimiz →"
+      },
+      "pool": {
+        "title": "Suzish havzasi",
+        "description": "Yopiq havzamizning sokinligiga sho'ng'ing. Boshqariladigan harorat va shinam muhit yil davomida mukammal dam olishni ta'minlaydi.",
+        "linkText": "Havzaga kirish →"
+      }
+    }
+  },
+  "Footer": {
+    "explore": "O'rganish",
+    "services": "Xizmatlar",
+    "legal": "Huquqiy ma'lumot",
+    "links": {
+      "about": "Biz haqimizda",
+      "rooms": "Xonalar va lyukslar",
+      "gallery": "Galereya",
+      "services": "Xizmatlar",
+      "location": "Manzil",
+      "gastrobar": "Gastrobar",
+      "spa": "Fitnes va SPA",
+      "meetings": "Uchrashuvlar va tadbirlar",
+      "amenities": "Qulayliklar",
+      "privacy": "Maxfiylik siyosati",
+      "terms": "Foydalanish shartlari",
+      "cookies": "Kuki siyosati",
+      "cancellation": "Bekor qilish"
+    },
+    "rights": "Barcha huquqlar himoyalangan."
+  },
+  "ReviewsWidget": {
+    "googleReviews": "Google Sharhlar",
+    "reviewsCount": "sharhlar"
+  },
+  "Common": {
+    "backToHome": "Bosh sahifaga qaytish"
+  },
+  "ReviewsPage": {
+    "title": "Mehmonlar sharhlari",
+    "subtitle": "Mehmonlarimiz Safir Hotel haqida qanday fikrda",
+    "failedToLoad": "Sharhlarni yuklash muvaffaqiyatsiz bo'ldi. Keyinroq qayta urinib ko'ring.",
+    "retry": "Qayta urinish",
+    "reviewsInfo": "{count} / {total} sharhlar",
+    "pageInfo": "Sahifa {current} / {total}",
+    "show": "Ko'rsatish:",
+    "perPage": "sahifada",
+    "sort": "Saralash:",
+    "sortNewest": "Sana: yangidan eskiga",
+    "sortOldest": "Sana: eskidan yangiga",
+    "sortHighRate": "Baho: yuqoridan pastga",
+    "sortLowRate": "Baho: pastdan yuqoriga",
+    "noReviews": "Ushbu tanlov bo'yicha sharhlar topilmadi.",
+    "basedOn": "{count} sharhlar asosida",
+    "showLess": "Yashirish",
+    "moreCategories": "Yana +{count}",
+    "onSource": "{source} platformasida",
+    "showOriginal": "Asl nusxani ko'rsatish",
+    "showTranslation": "Tarjimani ko'rsatish",
+    "reviewResponse": "Sharhga javob:"
+  },
+  "NotFound": {
+    "title": "Xonangizni yo'qotdingizmi?",
+    "desc": "Xonangizni topishni xohlaysizmi? Keling, sizni hashamatga qaytaramiz.",
+    "returnHome": "Bosh sahifaga qaytish"
+  }
+}

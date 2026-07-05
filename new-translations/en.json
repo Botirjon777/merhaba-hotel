@@ -1,0 +1,573 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about us": "About Us",
+    "rooms": "Rooms",
+    "gallery": "Gallery",
+    "services": "Services",
+    "news": "News",
+    "contacts": "Contacts",
+    "location": "Location",
+    "reviews": "Reviews",
+    "bookNow": "Book Now",
+    "menu": "Menu",
+    "subLinks": {
+      "gastrobar": "Gastrobar",
+      "fitness & spa": "Fitness & SPA",
+      "meetings & events": "Meetings & Events"
+    }
+  },
+  "Hero": {
+    "titlePart1": "— Merhaba Hotel —",
+    "titleEm": "Where Comfort ",
+    "titlePart2": "Meets Elegance",
+    "reserveStay": "Reserve Your Stay",
+    "discoverMore": "Discover More",
+    "welcomeSub": "Experience genuine hospitality and modern comfort in the heart of Fergana. Merhaba Hotel — a place you will want to return to."
+  },
+  "Booking": {
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "guests": "Guests",
+    "roomType": "Room Type",
+    "checkAvailability": "Check Availability",
+    "next": "Next",
+    "reserve": "Reserve",
+    "bookYourStay": "Book Your Stay",
+    "bookSubtext": "Fill in your details and our reservations team will confirm your stay within 2 hours.",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "requestReservation": "Request Reservation",
+    "luxurySubtitle": "Quality and Comfort for Every Guest"
+  },
+  "About": {
+    "storyLabel": "Our Story",
+    "storyTitle1": "A Hotel Built",
+    "storyTitleEm": "Around",
+    "storyTitle2": "Your Comfort",
+    "description1": "Merhaba Hotel was founded with a clear purpose: to offer every guest a warm welcome, a well-appointed room, and attentive service. Located in a convenient part of Fergana city, we are a natural choice for both business travelers and those visiting for leisure.",
+    "description2": "Each of our 87 rooms is designed with care — comfortable beds, quality linens, modern amenities, and a calm atmosphere that lets you rest and recharge. At Merhaba, we believe good hospitality is about the details that make you feel at home.",
+    "stats": {
+      "rooms": "Rooms & Suites",
+      "dining": "Dining Venues",
+      "stars": "Star Hotel",
+      "views": "City Views"
+    },
+    "readMore": "Read More",
+    "stars": "3 Stars"
+  },
+  "Location": {
+    "findUs": "Find Us",
+    "heartOfEverything": "At the Heart of Fergana",
+    "subtext": "Our hotel is conveniently located in the heart of Fergana city, near major attractions and main transport arteries. You can easily reach us by car, taxi or public transport. Use the map to build the most convenient route.",
+    "address": "Address",
+    "addressText": "Farg'ona shahar, Moturudiy ko'chasi, 30V/2",
+    "reservations": "Reservations",
+    "phone": "+998 94 559 00 77",
+    "email": "Email",
+    "emailAddress": "safirhotel2024@gmail.com",
+    "checkInOut": "Check-in / Check-out",
+    "checkInOutValue": "From 14:00 / Until 12:00",
+    "fromPrice": "from <b>{price} UZS</b>",
+    "bookNow": "Book Now"
+  },
+  "ImageBanner": {
+    "featuredAmenities": "Featured Amenities",
+    "allAmenities": "All Amenities",
+    "slides": {
+      "hotel-day": {
+        "subtitle": "Welcome to Merhaba",
+        "title": "A Place to Feel at Home"
+      },
+      "hotel-night": {
+        "subtitle": "Evening Atmosphere",
+        "title": "A Calm Night Stay"
+      },
+      "reception": {
+        "subtitle": "First Impressions",
+        "title": "A Warm Welcome"
+      },
+      "restaurant": {
+        "subtitle": "Good Food, Good Mood",
+        "title": "Enjoy Every Meal"
+      },
+      "pool": {
+        "subtitle": "Relax and Unwind",
+        "title": "Indoor Pool"
+      },
+      "breakfast": {
+        "subtitle": "A Great Start",
+        "title": "Buffet Breakfast"
+      },
+      "billiard": {
+        "subtitle": "Leisure & Play",
+        "title": "Billiard Room"
+      }
+    },
+    "title": "Designed for Your",
+    "subtitle": "Comfort and Convenience",
+    "amenities": {
+      "breakfast": "Buffet Breakfast Available",
+      "wifi": "Free WiFi",
+      "ev": "EV Charging",
+      "restaurant": "Restaurant",
+      "bar": "Bar",
+      "shuttle": "Airport Shuttle"
+    }
+  },
+  "Gallery": {
+    "visualJourney": "A Look Inside",
+    "throughOur": "Our",
+    "spaces": "Spaces",
+    "viewFullGallery": "View Full Gallery",
+    "description": "Browse our selection of rooms, halls, and hotel spaces — each designed with your comfort in mind.",
+    "roomType": "Room Type",
+    "exploreGallery": "Explore Gallery",
+    "conferenceLabel": "Conference Hall"
+  },
+  "Welcome": {
+    "title": "Welcome",
+    "subtitle": "Comfort and quality service in Fergana",
+    "offer": "Official Site Exclusive Offer",
+    "description": "Book directly on our official website and save <b>10%</b> instantly. Register a free account and save <b>up to 19%</b> — our best rates, available only here.",
+    "disclaimer": "Discount applied automatically when you book on our website.",
+    "explore": "Explore Hotel",
+    "book": "Book & Save"
+  },
+  "GalleryPage": {
+    "title": "Gallery",
+    "subtitle": "Take a look at our hotel, rooms, and facilities.",
+    "all": "All",
+    "deluxe": "Deluxe",
+    "lux": "Lux",
+    "standart": "Standard",
+    "conference": "Conference",
+    "backToHome": "Back to Home",
+    "sections": {
+      "hotel": "Merhaba Hotel",
+      "conference": "Conference Halls",
+      "rooms": "Rooms & Suites"
+    },
+    "visual": "Photo",
+    "excellence": "Gallery"
+  },
+  "Recommendations": {
+    "title": "Our Recommendations",
+    "subtitle": "Popular Room Choices",
+    "deluxeTitle": "Deluxe Suite",
+    "deluxeDesc": "Spacious and well-furnished — ideal for guests who appreciate extra comfort and a relaxed atmosphere.",
+    "luxKingTitle": "Lux King Room",
+    "luxKingDesc": "A comfortable room with a king-size bed, quality furnishings, and everything you need for a pleasant stay.",
+    "luxFamilyTitle": "Lux Family Room",
+    "luxFamilyDesc": "Generous space and practical layout, perfect for families or guests who need more room.",
+    "priceFrom": "From",
+    "perNight": "per night",
+    "features": {
+      "wifi": "Free Wi-Fi",
+      "bed": "King Bed",
+      "size": "65 m²",
+      "view": "City View"
+    },
+    "premium": "Popular",
+    "discoverAll": "Discover All",
+    "roomTypes": "Room Types",
+    "viewRooms": "View Rooms"
+  },
+  "AboutPage": {
+    "title": "About Merhaba Hotel",
+    "welcome": "Welcome to Merhaba Hotel — a place where comfort and style meet a high level of service. Our hotel is located in a convenient area of Fergana city, making it an excellent choice for both business and leisure trips. We offer our guests cozy rooms, modern amenities, and an atmosphere that supports complete relaxation. At Merhaba Hotel, we take care of every guest by providing high-quality services such as free Wi-Fi, a restaurant, a 24-hour front desk, and other amenities that ensure a comfortable stay. Each room is furnished with attention to detail, and our varied rates are suitable for any type of traveler. Stay with us and enjoy the hospitality that will make your time at Merhaba Hotel truly memorable.",
+    "termsTitle": "Terms of stay",
+    "earlyCheckIn": "Early check-in:",
+    "early1": "From 00:00 to 05:59 — an additional payment of 100% of the cost per night.",
+    "early2": "From 06:00 to 13:59 — additional payment of 50% of the cost per night.",
+    "lateCheckOut": "Late check-out:",
+    "late1": "From 12:01 to 17:59 — additional payment of 50% of the cost per night.",
+    "late2": "From 18:00 to 23:59 — an additional payment of 100% of the cost per night.",
+    "contactAdmin": "For early check-in or late check-out, please contact the administrator.",
+    "checkInTime": "Check-in",
+    "checkInValue": "14:00",
+    "checkOutTime": "Check-out",
+    "checkOutValue": "12:00",
+    "cancellationTitle": "Booking cancellation",
+    "cancellationText": "To clarify the conditions and cancellation procedures, please contact the administrator. We will be happy to provide you with all the necessary information and help you with the cancellation process.",
+    "policyTitle": "Cancellation policy"
+  },
+  "RoomsPage": {
+    "title": "Rooms & Suites",
+    "subtitle": "Find the room that suits you best — comfortable, clean, and well-equipped.",
+    "explore": "Explore Room",
+    "from": "From",
+    "bookNow": "Book Now",
+    "moreDetails": "More Details",
+    "detailsTitle": "Room Details",
+    "bestseller": "Bestseller",
+    "size": "Size",
+    "capacity": "Capacity",
+    "details": {
+      "deluxe-king": {
+        "title": "Deluxe King Room",
+        "description": "Our Deluxe King Room is a great choice for couples or those who appreciate space and comfort. The room has a large double bed measuring 2.00 × 1.90 m with high quality linens, which will give you a restful and undisturbed sleep.",
+        "capacity": "2 Adults",
+        "size": "15m²"
+      },
+      "superior-king": {
+        "title": "Superior King Room",
+        "description": "The Superior King Room combines spaciousness and a refined atmosphere. A large King Size bed measuring 2.00 × 1.80 m with high-quality linens ensures a good night's rest, and the tastefully furnished interior creates a comfortable and welcoming environment.",
+        "capacity": "2 Adults",
+        "size": "25m²"
+      },
+      "superior-twin": {
+        "title": "Superior Twin Room",
+        "description": "Our Superior Twin Room is designed for the comfort of two guests. The room has two spacious single beds measuring 2.00 × 1.00 m each, with high-quality linens that will ensure a healthy and restful sleep.",
+        "capacity": "2 Adults",
+        "size": "22m²"
+      },
+      "deluxe-twin": {
+        "title": "Deluxe Twin Room",
+        "description": "Our Deluxe Twin Room is ideal for friends, colleagues or family members who prefer separate beds. The room has two single beds (1.90 × 1.00 m each) with high-quality linens that ensure a comfortable and restful night's sleep.",
+        "capacity": "2 Adults",
+        "size": "15m²"
+      },
+      "superior-family": {
+        "title": "Superior Family Room",
+        "description": "The Superior Family Room is a practical and comfortable choice for families. The spacious room includes one King Size bed (2.10 × 2.00 m) and one single bed (2.10 × 1.00 m), giving everyone their own space.",
+        "capacity": "3 Adults",
+        "size": "25m²"
+      },
+      "standart": {
+        "title": "Standard Single Room",
+        "description": "A well-suited option for a solo traveler, featuring a comfortable 2.10 × 1.00 m bed and all the essentials for a relaxed and convenient stay.",
+        "capacity": "1 Adult",
+        "size": "15m²"
+      },
+      "apartment": {
+        "title": "Apartment",
+        "description": "A spacious three-room apartment designed for maximum comfort. Features separate living areas, multiple TV sets, a fully equipped kitchenette, and a premium bathroom with heated floors.",
+        "capacity": "3 Adults",
+        "size": "3 Rooms"
+      }
+    }
+  },
+  "NewsPage": {
+    "title": "News & Events",
+    "subtitle": "Our latest updates, achievements, and announcements.",
+    "readMore": "Read More",
+    "viewCertificate": "View Certificate",
+    "sortBy": "Sort by",
+    "newestFirst": "Newest First",
+    "oldestFirst": "Oldest First",
+    "items": {
+      "food-safety-cert": {
+        "title": "Merhaba Hotel Restaurant Receives International Food Safety Certification",
+        "excerpt": "Merhaba Hotel's restaurant has officially been awarded the internationally recognized ISO 22000:2019 Food Safety Management System Certification.",
+        "content": "Merhaba Hotel is proud to announce that the hotel's restaurant has officially been awarded the internationally recognized ISO 22000:2019 Food Safety Management System Certification.\n\nThe certification was issued by the Management Systems Certification Body of the \"Tourism Services Certification Center\" under the National Certification System of the Republic of Uzbekistan. The certificate confirms that the restaurant operations at Merhaba Hotel comply with the strict requirements of O'z DSt ISO 22000:2019 standards in food safety management.\n\nThis achievement reflects our ongoing commitment to providing guests with high-quality dining experiences, safe food preparation processes, and professional hospitality services. The certification covers the organization of catering services, including food preparation, storage, and food service operations.\n\nAt Merhaba Hotel, guest satisfaction, hygiene, and service excellence remain our highest priorities. Receiving this certification is another important milestone in strengthening trust with our guests and partners while maintaining international hospitality standards.\n\nWe sincerely thank our dedicated team for their professionalism and continuous efforts that made this accomplishment possible.\n\nStay connected with Merhaba Hotel for more updates and exciting developments."
+      },
+      "quality-management-cert": {
+        "title": "Merhaba Hotel Achieves ISO 9001:2015 Quality Management Certification",
+        "excerpt": "Merhaba Hotel has officially received the internationally recognized ISO 9001:2015 Quality Management System Certification.",
+        "content": "Merhaba Hotel is delighted to announce that the hotel has officially received the internationally recognized ISO 9001:2015 Quality Management System Certification.\n\nThe certification was issued by the Management Systems Certification Body of the \"Tourism Services Certification Center\" under the National Certification System of the Republic of Uzbekistan. This recognition confirms that Merhaba Hotel's management system fully complies with the international standards established by O'z DSt ISO 9001:2015.\n\nThe certification applies to the hotel's hospitality services and demonstrates Merhaba Hotel's commitment to delivering consistent service quality, improving operational efficiency, and ensuring guest satisfaction at every stage of the guest experience.\n\nReceiving the ISO 9001:2015 certification is an important milestone for Merhaba Hotel and reflects the hotel's dedication to continuous improvement, professional management, and excellence in hospitality services.\n\nWe would like to express our sincere gratitude to our team members and partners whose hard work and commitment contributed to this achievement.\n\nMerhaba Hotel remains focused on providing exceptional comfort, reliable service, and world-class hospitality experiences for every guest."
+      },
+      "smart-in-room-service": {
+        "title": "Merhaba Hotel Introduces Smart In-Room Service App for a More Comfortable Guest Experience",
+        "excerpt": "Merhaba Hotel is proud to introduce its new modern In-Room Service Application, created to make every guest's stay faster, easier, and more comfortable.",
+        "content": "Merhaba Hotel is proud to introduce its new modern In-Room Service Application, created to make every guest's stay faster, easier, and more comfortable through digital convenience and smart hospitality solutions.\n\nThe new platform allows guests to access hotel services directly from their smartphones by simply scanning the unique QR code placed inside each room. The application features a clean and user-friendly interface and is available in 10 of the world's most commonly used languages, making it convenient for both local and international travelers.\n\nWith the new in-room service system, guests can quickly communicate with hotel staff and request services without needing to call the reception desk. The application includes several practical and guest-focused features, including:\n- Wake-Up Call Request – guests can set their preferred wake-up time directly through the app, allowing the reception team to contact them at the scheduled time.\n- Taxi Request Service – guests can easily request a taxi through the platform for airport transfers, city travel, or business meetings.\n- Problem Reporting Feature – if guests experience any issue during their stay, they can instantly report it through the app for faster assistance and resolution.\n- Guest Review Section – visitors can conveniently leave feedback and share their experiences on major international platforms such as Google, Yandex, TripAdvisor, and other popular review websites.\n- Additional Hotel Services – guests can request extra amenities and services, including baby cradles, airport transfers, conference hall reservations, and more.\n\nOne of the key highlights of the platform is the fully digital restaurant menu, available every day from 10:00 AM until 10:00 PM. Through the app, guests can explore a wide selection of dishes and beverages offered by the hotel restaurant, including:\n- Fresh salads\n- First courses and soups\n- Hot appetizers\n- Main courses\n- Pasta and spaghetti\n- Desserts\n- Tea and coffee\n- Snacks and fast food\n- Mojitos and milkshakes\n- And many other delicious options\n\nThe launch of this digital platform reflects Merhaba Hotel's commitment to innovation, service quality, and modern guest expectations. By combining hospitality with technology, the hotel aims to provide a smoother, more interactive, and personalized experience for every guest.\n\nAs part of its ongoing development strategy, Merhaba Hotel continues to invest in smart solutions that improve convenience, efficiency, and overall guest satisfaction while maintaining the warm hospitality and professional service the hotel is known for."
+      }
+    }
+  },
+  "Gastrobar": {
+    "title": "Gastrobar",
+    "subtitle": "Good Food in a Relaxed Atmosphere",
+    "breakfastTitle": "Buffet Breakfast",
+    "breakfastDesc": "Start your day with a delicious and varied buffet breakfast. Every day we offer a wide selection of fresh dishes: hot dishes, fresh vegetables and fruits, pastries, cereals, yoghurts and much more. Whatever your preferences, you will find something to enjoy. Breakfast is available to all guests and is served in a welcoming atmosphere.",
+    "discountTitle": "10% Direct Booking Discount",
+    "discountDesc": "Book a room on our official website and get a 10% discount at the hotel's main restaurant. Enjoy good food and a pleasant atmosphere — the offer is valid only for guests who have made a reservation online.",
+    "exquisite": "Quality Cuisine",
+    "exquisiteDesc": "A comfortable setting for your dining experience."
+  },
+  "Spa": {
+    "title": "Fitness & SPA",
+    "subtitle": "Stay Active, Rest Well",
+    "poolTitle": "Indoor Swimming Pool",
+    "poolDesc": "Relax and unwind in our modern indoor pool. The comfortable water temperature and calm atmosphere make it a great place to rest at any time of year. The pool is open to all hotel guests, but access is only available upon prior reservation to ensure comfort and privacy.",
+    "fitnessTitle": "Fitness Room",
+    "fitnessDesc": "Keep up with your workout routine even while traveling. Our fitness room is equipped with everything you need for an effective session, from cardio machines to free weights. The spacious and bright room is available throughout the day.",
+    "modernCardio": "Cardio Equipment",
+    "modernCardioDesc": "Modern machines",
+    "strengthArea": "Strength Area",
+    "strengthAreaDesc": "Free weights and more"
+  },
+  "Meetings": {
+    "title": "Meetings & Events",
+    "subtitle": "Professional Spaces for Every Occasion",
+    "conferenceTitle": "Conference Rooms",
+    "conferenceDesc": "Flexible spaces suited for business meetings, seminars, and private events. From small group sessions to larger gatherings, our rooms are equipped with the technology and support you need. We offer 22, 32, and 52-person conference rooms.",
+    "rooms": {
+      "executiveSuite": "Executive Suite",
+      "boardroom": "Boardroom",
+      "grandHall": "Grand Hall",
+      "capacityPersons": "Capacity: {capacity} Persons"
+    },
+    "services": {
+      "pro": "Pro",
+      "audioVisual": "Audio-Visual",
+      "wifi": "Wi-Fi",
+      "highSpeed": "High-Speed Internet",
+      "catering": "Catering",
+      "customMenus": "Custom Menus",
+      "support": "Support",
+      "eventManager": "Event Manager"
+    }
+  },
+  "GeneralServices": {
+    "title": "Services & Amenities",
+    "subtitle": "Your Comfort is Our Priority",
+    "roomStayTitle": "Services with Room Stay",
+    "learnMore": "Learn More",
+    "laundryTitle": "Laundry",
+    "laundryDesc": "We offer laundry and ironing services for your convenience. Fast and reliable, so your clothes are always ready when you need them. To place an order and confirm the cost, please contact the administrator.",
+    "billiardTitle": "Billiard",
+    "billiardDesc": "Enjoy a game of billiards in the comfortable surroundings of our hotel. A great way to relax after a busy day or spend an evening with friends.",
+    "wifiTitle": "High-speed Wi-Fi",
+    "wifiDesc": "High-speed Wi-Fi throughout the hotel.",
+    "parkingTitle": "Parking Space",
+    "parkingDesc": "Free parking for our hotel guests.",
+    "amenitiesTitle": "Amenities",
+    "amenities": {
+      "tv": "TV set",
+      "lamp": "lamp",
+      "lock": "electronic lock",
+      "ac": "air conditioning",
+      "slippers": "slippers",
+      "lavatory": "lavatory",
+      "soap": "soap bar",
+      "sink": "sink",
+      "toiletBowl": "toilet bowl",
+      "toiletries": "toiletries",
+      "cityView": "city view",
+      "wifi": "Wi-Fi",
+      "singleBed": "single bed",
+      "wardrobe": "wardrobe",
+      "housekeeping": "housekeeping",
+      "kettle": "kettle",
+      "laundry": "laundry service (extra charge)",
+      "heating": "heating",
+      "water": "drinking water",
+      "nonSmoking": "non-smoking room",
+      "androidTv": "Android TV",
+      "flatTv": "flat-screen TV",
+      "climate": "climate control system",
+      "hairDryer": "hair dryer",
+      "miniFridge": "mini-fridge",
+      "bidet": "bidet",
+      "showerCabin": "shower cabin",
+      "beautyAids": "beauty aids",
+      "floorHeating": "heated floor",
+      "showerCap": "shower cap",
+      "towels": "bath towels",
+      "bathrobe": "bathrobe",
+      "yardView": "yard view",
+      "phone": "in-room telephone",
+      "rack": "clothes rack",
+      "closet": "closet",
+      "blinds": "blackout blind",
+      "mirror": "mirror",
+      "chair": "chair",
+      "nightstand": "nightstand",
+      "desk": "work table",
+      "armchair": "armchair",
+      "safe": "safe",
+      "pool": "indoor pool",
+      "disabled": "amenities for disabled guests",
+      "centralAc": "central air conditioning",
+      "teaSet": "tea set",
+      "carpet": "carpet",
+      "laundryRoom": "laundry room (extra charge)",
+      "accessories": "bath accessories",
+      "bathroom": "bathroom",
+      "doubleBed": "double bed",
+      "diningTable": "dining table",
+      "shower": "shower",
+      "smartTv": "Smart TV",
+      "iron": "iron",
+      "smartHome": "smart home system",
+      "lighting": "touch panel lighting",
+      "parkView": "park view",
+      "kingBed": "king bed",
+      "glasses": "glasses"
+    },
+    "showLess": "Show Less",
+    "showMore": "Show More",
+    "gastrobarTitle": "Gastrobar",
+    "gastrobarDesc": "Quality cuisine and a comfortable atmosphere for your dining experience.",
+    "spaTitle": "Fitness & SPA",
+    "spaDesc": "Modern equipment and a well-equipped fitness area for your workouts.",
+    "meetingsTitle": "Meetings & Events",
+    "meetingsDesc": "Fully equipped conference rooms for business meetings and events."
+  },
+  "DatePicker": {
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "weekDays": [
+      "Mo",
+      "Tu",
+      "We",
+      "Th",
+      "Fr",
+      "Sa",
+      "Su"
+    ],
+    "checkInOut": "Check-in — Check-out",
+    "selectDates": "Select Dates",
+    "chooseStayDates": "Choose your stay dates",
+    "bestPricesNote": "Best prices for 1 guest per night in UZS",
+    "notAvailable": "Not available"
+  },
+  "GuestPicker": {
+    "guests": "Guests",
+    "numGuests": "Number of Guests",
+    "adults": "Adults",
+    "children": "Children (under 3 years)",
+    "childAge": "Child {index} Age",
+    "under1": "Under 1 year",
+    "1year": "1 year",
+    "2years": "2 years",
+    "done": "Done",
+    "adult": "Adult",
+    "child": "Child"
+  },
+  "Services": {
+    "label": "What We Offer",
+    "title": "Quality",
+    "subtitle": "Services",
+    "showMore": "Show All Services",
+    "items": {
+      "gastrobar": {
+        "title": "Gastrobar",
+        "description": "Enjoy a good meal at our Gastrobar. From a varied buffet breakfast to a full restaurant menu, we serve fresh, well-prepared food in a relaxed setting.",
+        "linkText": "Explore Gastrobar →"
+      },
+      "spa": {
+        "title": "Fitness & SPA",
+        "description": "Stay in shape or simply relax. Our fitness room is fully equipped for a solid workout, and the indoor pool is a calm place to unwind after a busy day.",
+        "linkText": "Relax & Recharge →"
+      },
+      "meetings": {
+        "title": "Meetings & Events",
+        "description": "Comfortable and well-equipped spaces for business meetings, seminars, and events. Our staff will help you organize everything for a smooth and productive session.",
+        "linkText": "Plan Your Event →"
+      },
+      "amenities": {
+        "title": "Amenities",
+        "description": "Practical and comfortable in-room features for a pleasant stay. From smart home systems to quality toiletries, we cover everything you need.",
+        "linkText": "View Amenities →"
+      },
+      "guest_services": {
+        "title": "Guest Services",
+        "description": "We make your stay easier with laundry service, 24-hour housekeeping, and a 10% restaurant discount for guests who book directly through our website.",
+        "linkText": "Our Services →"
+      },
+      "pool": {
+        "title": "Indoor Pool",
+        "description": "Our indoor pool is a quiet space to relax and refresh. Maintained at a comfortable temperature year-round and available by reservation for all hotel guests.",
+        "linkText": "Learn More →"
+      }
+    }
+  },
+  "Footer": {
+    "explore": "Explore",
+    "services": "Services",
+    "legal": "Legal",
+    "links": {
+      "about": "About Us",
+      "rooms": "Rooms & Suites",
+      "gallery": "Gallery",
+      "services": "Services",
+      "location": "Location",
+      "gastrobar": "Gastrobar",
+      "spa": "Fitness & SPA",
+      "meetings": "Meetings & Events",
+      "amenities": "Amenities",
+      "terms": "Terms of Stay",
+      "cancellation": "Cancellation Policy"
+    },
+    "brandBlurb": "Merhaba Hotel — premium hospitality in the heart of Fergana. Experience comfort, elegance, and tradition.",
+    "rights": "All rights reserved."
+  },
+  "ReviewsWidget": {
+    "googleReviews": "Google Reviews",
+    "reviewsCount": "reviews"
+  },
+  "Common": {
+    "backToHome": "Back to Home"
+  },
+  "ReviewsPage": {
+    "title": "Guest Reviews",
+    "subtitle": "What our guests say about their stay at Merhaba Hotel",
+    "failedToLoad": "Failed to load reviews. Please try again later.",
+    "retry": "Retry",
+    "reviewsInfo": "{count} / {total} reviews",
+    "pageInfo": "Page {current} / {total}",
+    "show": "Show:",
+    "perPage": "per page",
+    "sort": "Sort:",
+    "sortNewest": "Date: newer to older",
+    "sortOldest": "Date: older to newer",
+    "sortHighRate": "Score: High to Low",
+    "sortLowRate": "Score: Low to High",
+    "noReviews": "No reviews found for this selection.",
+    "basedOn": "Based on {count} reviews",
+    "showLess": "Show Less",
+    "moreCategories": "+{count} more",
+    "onSource": "on {source}",
+    "showOriginal": "Show original",
+    "showTranslation": "Show translation",
+    "reviewResponse": "Review response:",
+    "writeReviewTitle": "Enjoyed Your Stay?",
+    "writeReviewDesc": "Share your experience and help future guests choose Merhaba Hotel. Leave a review on your favorite platform.",
+    "writeReviewAction": "Write a review"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "desc": "The page you are looking for does not exist. Let us take you back to the homepage.",
+    "returnHome": "Return to Homepage"
+  },
+  "Meta": {
+    "homeTitle": "Merhaba Hotel — Luxury Hotel in Fergana, Uzbekistan",
+    "homeDesc": "Experience genuine hospitality, premium rooms, and modern comfort in the heart of Fergana. Book direct on the official site and save up to 19% — heated indoor pool, fine dining gastrobar, and a perfect central location.",
+    "aboutTitle": "About Us — Merhaba Hotel",
+    "aboutDesc": "Learn more about Merhaba Hotel. Our hospitality standards, check-in policies, guest services, and prime location in Fergana city.",
+    "roomsTitle": "Luxury Rooms & Suites — Merhaba Hotel",
+    "roomsDesc": "Explore our 63 premium rooms and suites. Individual climate control, orthopedic bedding, high-speed Wi-Fi, and sophisticated design.",
+    "galleryTitle": "Photo Gallery — Merhaba Hotel",
+    "galleryDesc": "A visual tour of Merhaba Hotel: rooms, heated indoor pool, gastrobar, and modern conference facilities.",
+    "servicesTitle": "Services & Amenities — Merhaba Hotel",
+    "servicesDesc": "Discover premium leisure at Merhaba Hotel: heated indoor pool, traditional steam spa hammam, and an exclusive residents-only gastrobar.",
+    "gastrobarTitle": "Gastrobar — Merhaba Hotel",
+    "gastrobarDesc": "Enjoy exquisite cuisine and a relaxed atmosphere at the exclusive Merhaba Hotel Gastrobar.",
+    "spaTitle": "Fitness & SPA — Merhaba Hotel",
+    "spaDesc": "Unwind and recharge at the modern fitness centre and traditional hammam spa at Merhaba Hotel.",
+    "meetingsTitle": "Meetings & Events — Merhaba Hotel",
+    "meetingsDesc": "Book professional conference rooms and event spaces for any occasion at Merhaba Hotel.",
+    "bookingTitle": "Book Direct & Save up to 19% — Merhaba Hotel",
+    "bookingDesc": "Reserve on the official Merhaba Hotel website and save 10% instantly — register to save up to 19%. Best direct-booking rates guaranteed.",
+    "contactsTitle": "Contacts — Merhaba Hotel",
+    "contactsDesc": "Merhaba Hotel address: Moturudiy ko'chasi 30V/2, Fergana. Phone: +998 94 559 00 77. Check-in from 14:00, check-out by 12:00.",
+    "reviewsTitle": "Guest Reviews & Ratings — Merhaba Hotel",
+    "reviewsDesc": "Read verified guest reviews for Merhaba Hotel — ratings for service, cleanliness, location, comfort, and value. Share your own experience on Google Maps, Yandex Maps, or Tripadvisor.",
+    "newsTitle": "News & Events — Merhaba Hotel",
+    "newsDesc": "Latest news, achievements, and announcements from Merhaba Hotel."
+  }
+}

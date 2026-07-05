@@ -1,0 +1,90 @@
+#be-booking-form {
+    width: 100%;
+    max-width: 1200px;
+    margin: 10px auto;
+}
+
+#tl-booking-cart {
+    z-index: 1 !important;
+}
+
+#block-search,
+#block-search * {
+    box-sizing: border-box;
+}
+
+#block-search {
+    max-width: 1160px;
+    width: calc(100% - 40px);
+    margin: 20px auto;
+    background: #F8F7F4;
+    border: 1px solid #D5C6AE;
+    border-radius: 8px;
+}
+
+#block-search.block-search--reviews {
+    margin: 90px auto -60px auto;
+}
+
+#block-search.block-search--main {
+    position: relative;
+    z-index: 3;
+    margin: -210px auto 110px auto;
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+#block-search.block-search--fixed {
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+    margin: 80px 0 0 0;
+    max-width: 100%;
+    background: rgba(242, 240, 234, 0.95);
+    border: none;
+    border-top: 1px solid #D5C6AE;
+    box-shadow: 0 4px 17.6px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8px);
+    border-radius: 0;
+    animation: slideDown 0.35s ease forwards;
+}
+
+#block-search.block-search--fixed .be-container {
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.be-container {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+body:has(#be-booking-form) a[href="https://www.instagram.com/safir_hotell/"],
+body:has(#be-booking-form) a[href="https://t.me/safirhotell"],
+body:has(#be-booking-form) .scroll-to-top {
+    display: none;
+}
+
+@media screen and (max-width: 1279px) {
+    #block-search.block-search--main {
+        margin: -100px auto 10px auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #block-search.block-search--main {
+        position: static;
+        margin: 10px auto;
+    }
+}
