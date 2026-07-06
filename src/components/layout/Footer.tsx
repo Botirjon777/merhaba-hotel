@@ -27,7 +27,7 @@ export function Footer() {
 
         {/* ── Desktop top row: Logo + Social Icons ── */}
         <div className="hidden md:flex items-center justify-between mb-5 pb-5 border-b border-cream/10">
-          <Logo className="brightness-0 invert opacity-90 w-[140px]" />
+          <Logo className="w-[140px]" />
 
           <div className="flex items-center gap-4">
             <a
@@ -103,7 +103,7 @@ export function Footer() {
         <div className="md:hidden">
           {/* Mobile top: logo + socials */}
           <div className="flex items-center justify-between mb-5 pb-5 border-b border-cream/10">
-            <Logo className="brightness-0 invert opacity-90 w-[100px]" />
+            <Logo className="w-[100px]" />
             <div className="flex gap-2.5">
               <a
                 className="w-9 h-9 border border-cream/20 rounded-full flex items-center justify-center transition-all duration-300 text-cream/50 hover:border-gold hover:text-gold"

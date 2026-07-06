@@ -14,14 +14,14 @@ export default function NotFound() {
                   src="/images/logo/logo-merhaba.png"
                   alt="Merhaba Hotel Logo"
                   fill
-                  className="object-contain brightness-0 invert opacity-90 drop-shadow-2xl"
+                  className="object-contain opacity-90 drop-shadow-2xl"
                   priority
                   sizes="(max-width: 768px) 70px, 100px"
                 />
               </div>
             </Link>
           </div>
-          <h1 className="font-cormorant text-[clamp(100px,20vw,200px)] font-light leading-none text-gold mb-2 tracking-widest drop-shadow-[0_0_30px_rgba(42,77,120,0.3)]">
+          <h1 className="font-cormorant text-[clamp(100px,20vw,200px)] font-light leading-none text-gold mb-2 tracking-widest drop-shadow-[0_0_30px_rgba(200,161,58,0.3)]">
             404
           </h1>
           <h2 className="text-2xl md:text-4xl font-jost font-light text-cream mb-6 tracking-wide">

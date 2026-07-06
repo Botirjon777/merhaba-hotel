@@ -91,7 +91,7 @@ export default function ReviewsView() {
         <div className="max-w-[1200px] mx-auto relative z-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-gold/60 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
+            className="inline-flex items-center gap-2 text-cream/70 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
           >
             <FiArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
             <span>{tc("backToHome")}</span>
@@ -333,7 +333,7 @@ function WriteReviewCTA() {
 
   return (
     <section className="px-5 pt-8 pb-2 max-w-[1200px] mx-auto">
-      <div className="bg-white border border-sand/30 rounded-lg p-6 md:p-8 shadow-[0_4px_20px_rgba(42,77,120,0.03)]">
+      <div className="bg-white border border-sand/30 rounded-lg p-6 md:p-8 shadow-[0_4px_20px_rgba(42,29,13,0.03)]">
         <div className="text-center mb-6">
           <h2 className="font-cormorant text-3xl md:text-4xl text-gold font-light mb-2">
             {t("writeReviewTitle")}
@@ -380,7 +380,7 @@ function SummaryCard({ summary }: { summary: RateSummary }) {
   const extraCategories = categories.slice(4);
 
   return (
-    <div className="bg-white border border-sand/30 p-2.5 md:p-5 rounded-lg shadow-[0_4px_20px_rgba(42,77,120,0.03)]">
+    <div className="bg-white border border-sand/30 p-2.5 md:p-5 rounded-lg shadow-[0_4px_20px_rgba(42,29,13,0.03)]">
       <div className="flex flex-row gap-6 md:gap-12 items-center">
         {/* Left Side: Score */}
         <div className="shrink-0 border-r border-sand/20 pr-6 md:pr-12">

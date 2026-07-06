@@ -23,7 +23,7 @@ export default function ContactsView() {
         <div className="max-w-[1200px] mx-auto relative z-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-gold/60 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
+            className="inline-flex items-center gap-2 text-cream/70 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
           >
             <FiArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
             <span>{tc("backToHome")}</span>
@@ -116,7 +116,7 @@ export default function ContactsView() {
 
           {/* Right: map */}
           <div className="flex flex-col gap-3">
-            <div className="w-full aspect-4/3 bg-[#e8e0d0] relative z-0 overflow-hidden shadow-[0_8px_40px_rgba(42,77,120,0.12)]">
+            <div className="w-full aspect-4/3 bg-[#e8e0d0] relative z-0 overflow-hidden shadow-[0_8px_40px_rgba(42,29,13,0.12)]">
               <HotelMap />
             </div>
             <div className="flex gap-3">

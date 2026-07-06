@@ -3,14 +3,16 @@
 @theme {
   --color-cream: #faf8f2;
   --color-sand: #ded2b8;
-  --color-gold: #2a4d78;
-  --color-gold-light: #3f6ca0;
-  --color-gold-dark: #1c3555;
-  --color-text-dark: #16233a;
-  --color-text-mid: #48566b;
+  /* Gold accent — sampled from the Merhaba logo (used for links, labels, borders, icons) */
+  --color-gold: #c8a13a;
+  --color-gold-light: #e3ce6f;
+  --color-gold-dark: #a17f2b;
+  /* Warm brown text, matching the logo monogram / dark brand tone */
+  --color-text-dark: #2a1d0d;
+  --color-text-mid: #6b5b47;
   --color-green-promo: #16a34a;
 
-  /* Brand accent — logo background color, used for primary CTA buttons and promo backgrounds */
+  /* Brand accent — logo gold, used for primary CTA buttons and promo backgrounds */
   --color-brand: #e3ce6f;
   --color-brand-dark: #b1a157;
 
@@ -40,7 +42,7 @@
 
 @layer utilities {
   .nav-scrolled {
-    @apply bg-white backdrop-blur-md shadow-[0_2px_30px_rgba(42,77,120,0.10)];
+    @apply bg-white backdrop-blur-md shadow-[0_2px_30px_rgba(42,29,13,0.10)];
   }
 
   /* Complex Hero Orbs */
@@ -49,7 +51,7 @@
     position: absolute;
     width: 600px; height: 600px;
     border-radius: 50%;
-    background: radial-gradient(circle, rgba(42,77,120,0.18) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(200,161,58,0.18) 0%, transparent 70%);
     top: -100px; right: -100px;
     animation: drift1 8s ease-in-out infinite;
   }
@@ -58,7 +60,7 @@
     position: absolute;
     width: 400px; height: 400px;
     border-radius: 50%;
-    background: radial-gradient(circle, rgba(42,77,120,0.12) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(200,161,58,0.12) 0%, transparent 70%);
     bottom: 50px; left: -80px;
     animation: drift2 10s ease-in-out infinite;
   }
@@ -169,7 +171,7 @@
   background: var(--color-cream);
   width: 48px !important; height: 48px !important;
   border-radius: 50%;
-  box-shadow: 0 8px 40px rgba(42,77,120,0.12);
+  box-shadow: 0 8px 40px rgba(42,29,13,0.12);
 }
 .swiper-button-next::after, .swiper-button-prev::after {
   font-size: 16px !important;

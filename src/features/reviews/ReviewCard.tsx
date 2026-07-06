@@ -67,7 +67,7 @@ export function ReviewCard({ review, locale }: ReviewCardProps) {
       }).format(dateObj);
 
   return (
-    <div className="bg-white border border-sand/30 p-2.5 md:p-5 rounded-lg flex flex-col gap-5 transition-all hover:border-gold/35 hover:shadow-[0_8px_30px_rgba(42,77,120,0.06)] shadow-[0_4px_20px_rgba(42,77,120,0.02)]">
+    <div className="bg-white border border-sand/30 p-2.5 md:p-5 rounded-lg flex flex-col gap-5 transition-all hover:border-gold/35 hover:shadow-[0_8px_30px_rgba(42,29,13,0.06)] shadow-[0_4px_20px_rgba(42,29,13,0.02)]">
       {/* Top Header */}
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
         {/* Stars and Score */}

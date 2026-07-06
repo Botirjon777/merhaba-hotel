@@ -25,7 +25,7 @@ export default function SpaView() {
         <div className="max-w-[1200px] mx-auto relative z-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-gold/60 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
+            className="inline-flex items-center gap-2 text-cream/70 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
           >
             <FiArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
             <span>{tc("backToHome")}</span>

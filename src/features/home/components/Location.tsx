@@ -86,7 +86,7 @@ export function Location() {
           </div>
         </div>
         <div className="flex flex-col gap-3">
-          <div className="w-full aspect-4/3 bg-[#e8e0d0] relative z-0 overflow-hidden shadow-[0_8px_40px_rgba(42,77,120,0.12)]">
+          <div className="w-full aspect-4/3 bg-[#e8e0d0] relative z-0 overflow-hidden shadow-[0_8px_40px_rgba(42,29,13,0.12)]">
             <HotelMap />
           </div>
           <div className="flex gap-3">

@@ -54,7 +54,7 @@ export function Navbar() {
   return (
     <nav
       id="navbar"
-      className="fixed top-0 left-0 right-0 h-[80px] md:h-[80px] max-md:h-[64px] z-1000 flex items-center justify-between px-5 md:px-12 transition-all duration-400 bg-white backdrop-blur-md shadow-[0_2px_30px_rgba(42,77,120,0.10)]"
+      className="fixed top-0 left-0 right-0 h-[80px] md:h-[80px] max-md:h-[64px] z-1000 flex items-center justify-between px-5 md:px-12 transition-all duration-400 bg-white backdrop-blur-md shadow-[0_2px_30px_rgba(42,29,13,0.10)]"
     >
       <Logo />
 
