@@ -40,7 +40,7 @@
 
 @layer utilities {
   .nav-scrolled {
-    @apply bg-cream/96 backdrop-blur-md shadow-[0_2px_30px_rgba(42,77,120,0.10)];
+    @apply bg-white backdrop-blur-md shadow-[0_2px_30px_rgba(42,77,120,0.10)];
   }
 
   /* Complex Hero Orbs */
