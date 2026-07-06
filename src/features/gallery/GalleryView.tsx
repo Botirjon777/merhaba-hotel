@@ -12,6 +12,7 @@ import { usePopup } from "@/lib/PopupContext";
 import { useTranslations } from "next-intl";
 import { ResponsiveImage } from "@/components/ui/ResponsiveImage";
 import BeSearchForm from "@/components/be-forms/BeSearchForm";
+import { VideoShowcase } from "@/features/home/components/VideoShowcase";
 
 export default function GalleryView() {
   const { openPopup, setGalleryImages } = usePopup();
@@ -91,7 +92,7 @@ export default function GalleryView() {
         <div className="max-w-[1200px] mx-auto relative z-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-gold/60 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
+            className="inline-flex items-center gap-2 text-cream/70 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
           >
             <FiArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
             <span>{tc("backToHome")}</span>
@@ -111,6 +112,8 @@ export default function GalleryView() {
         </div>
       </section>
       <BeSearchForm />
+
+      <VideoShowcase />
 
       {/* Accordion Sections */}
       <div className="flex flex-col pb-5">
