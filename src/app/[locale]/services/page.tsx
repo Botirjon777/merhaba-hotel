@@ -19,7 +19,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/services`,
       images: [
         {
-          url: "/images/hotel/general/restaurant.webp",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel premium services, Fergana",
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("servicesTitle"),
       description: t("servicesDesc"),
-      images: ["/images/hotel/general/restaurant.webp"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("/services", locale),
   };

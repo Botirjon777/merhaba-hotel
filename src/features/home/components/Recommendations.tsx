@@ -125,7 +125,7 @@ export function Recommendations() {
                 className="flex flex-col bg-brand overflow-hidden group hover:bg-brand-dark transition-all duration-700 w-full h-full p-8 md:p-10 justify-center items-center text-center text-text-dark relative shadow-[0_20px_40px_rgba(227,206,111,0.2)] min-h-[350px] animate-[fadeUp_0.8s_ease-out_forwards]"
                 style={{ animationDelay: `0.6s`, opacity: 0 }}
               >
-                <div className="absolute inset-0 opacity-10 bg-[url('/images/hotel/general/hotel-day.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-1000" />
+                <div className="absolute inset-0 opacity-10 bg-[url('/images/hotel/general/general-1.jpg')] bg-cover bg-center group-hover:scale-110 transition-transform duration-1000" />
                 <div className="relative z-10">
                   <span className="font-jost text-[10px] tracking-[4px] uppercase block mb-4 opacity-80">
                     {t("subtitle")}

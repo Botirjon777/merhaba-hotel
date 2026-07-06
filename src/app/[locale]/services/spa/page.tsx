@@ -29,7 +29,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/services/spa`,
       images: [
         {
-          url: "/images/hotel/general/pool.webp",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel heated indoor swimming pool and spa, Fergana",
@@ -40,7 +40,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("spaTitle"),
       description: t("spaDesc"),
-      images: ["/images/hotel/general/pool.webp"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("/services/spa", locale),
   };

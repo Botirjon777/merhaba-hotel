@@ -19,7 +19,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/gallery`,
       images: [
         {
-          url: "/images/hotel/general/reception-2.webp",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel interior gallery",
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("galleryTitle"),
       description: t("galleryDesc"),
-      images: ["/images/hotel/general/reception-2.webp"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("/gallery", locale),
   };

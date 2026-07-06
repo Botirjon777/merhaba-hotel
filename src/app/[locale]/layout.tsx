@@ -40,7 +40,7 @@ const jsonLd = {
     latitude: "40.3834",
     longitude: "71.7833",
   },
-  image: "https://merhabahotel.uz/images/hotel/general/hotel-day.webp",
+  image: "https://merhabahotel.uz/images/hotel/general/general-1.jpg",
   starRating: { "@type": "Rating", ratingValue: "5" },
   aggregateRating: {
     "@type": "AggregateRating",

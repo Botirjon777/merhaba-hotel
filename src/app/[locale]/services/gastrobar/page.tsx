@@ -29,7 +29,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/services/gastrobar`,
       images: [
         {
-          url: "/images/hotel/general/restaurant-2.webp",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel Gastrobar restaurant dining, Fergana",
@@ -40,7 +40,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("gastrobarTitle"),
       description: t("gastrobarDesc"),
-      images: ["/images/hotel/general/restaurant-2.webp"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("/services/gastrobar", locale),
   };

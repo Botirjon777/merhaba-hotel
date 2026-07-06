@@ -19,7 +19,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/reviews`,
       images: [
         {
-          url: "/images/hotel/general/hotel-day.webp",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel Guest Reviews",
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("reviewsTitle"),
       description: t("reviewsDesc"),
-      images: ["/images/hotel/general/hotel-day.webp"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("/reviews", locale),
   };
@@ -41,7 +41,7 @@ const reviewsJsonLd = {
   "@type": "Hotel",
   name: "Merhaba Hotel",
   url: "https://merhabahotel.uz/reviews",
-  image: "https://merhabahotel.uz/images/hotel/general/hotel-day.webp",
+  image: "https://merhabahotel.uz/images/hotel/general/general-1.jpg",
   aggregateRating: {
     "@type": "AggregateRating",
     ratingValue: "4.8",

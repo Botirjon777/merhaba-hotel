@@ -46,7 +46,7 @@ export default function GastrobarView() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 items-center">
           <div className="relative aspect-4/3 overflow-hidden animate-[fadeUp_0.8s_ease-out_forwards]">
             <ResponsiveImage
-              src="/images/hotel/general/breakfast.webp"
+              src="/images/hotel/general/general-6.jpg"
               alt={t("breakfastTitle")}
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
@@ -85,7 +85,7 @@ export default function GastrobarView() {
           </div>
           <div className="order-1 lg:order-2 relative aspect-square overflow-hidden animate-[fadeUp_0.8s_ease-out_forwards]">
             <ResponsiveImage
-              src="/images/hotel/general/restaurant.webp"
+              src="/images/hotel/general/general-4.jpg"
               alt="Restaurant"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
@@ -100,7 +100,7 @@ export default function GastrobarView() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
           <div className="relative aspect-video overflow-hidden">
             <ResponsiveImage
-              src="/images/hotel/general/restaurant-2.webp"
+              src="/images/hotel/general/general-8.jpg"
               alt="Gastrobar Interior"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
@@ -109,7 +109,7 @@ export default function GastrobarView() {
           </div>
           <div className="relative aspect-video overflow-hidden">
             <ResponsiveImage
-              src="/images/hotel/general/reception-2.webp"
+              src="/images/hotel/general/general-2.jpg"
               alt="Bar Service"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"

@@ -20,37 +20,37 @@ import { Link } from "@/i18n/navigation";
 
 const images = [
   {
-    src: "/images/hotel/general/hotel-day.webp",
+    src: "/images/hotel/general/general-1.jpg",
     alt: "Merhaba Hotel Day View",
     id: "hotel-day",
   },
   {
-    src: "/images/hotel/general/hotel-night.webp",
+    src: "/images/hotel/general/general-2.jpg",
     alt: "Merhaba Hotel Night View",
     id: "hotel-night",
   },
   {
-    src: "/images/hotel/general/reception.webp",
+    src: "/images/hotel/general/general-3.jpg",
     alt: "Hotel Reception",
     id: "reception",
   },
   {
-    src: "/images/hotel/general/restaurant.webp",
+    src: "/images/hotel/general/general-4.jpg",
     alt: "Hotel Restaurant",
     id: "restaurant",
   },
   {
-    src: "/images/hotel/general/pool.webp",
+    src: "/images/hotel/general/general-5.jpg",
     alt: "Hotel Swimming Pool",
     id: "pool",
   },
   {
-    src: "/images/hotel/general/breakfast.webp",
+    src: "/images/hotel/general/general-6.jpg",
     alt: "Hotel Breakfast Buffet",
     id: "breakfast",
   },
   {
-    src: "/images/hotel/general/billiard.webp",
+    src: "/images/hotel/general/general-7.jpg",
     alt: "Hotel Billiard Room",
     id: "billiard",
   },

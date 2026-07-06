@@ -41,13 +41,13 @@ export const newsItems: NewsItem[] = [
   {
     id: "quality-management-cert",
     date: "2025-09-05",
-    image: "/images/hotel/general/reception.webp",
+    image: "/images/hotel/general/general-3.jpg",
     pdfUrl: "/news/safir-news-2.pdf",
   },
   {
     id: "food-safety-cert",
     date: "2025-09-10",
-    image: "/images/hotel/general/restaurant-2.webp",
+    image: "/images/hotel/general/general-4.jpg",
     pdfUrl: "/news/safir-news-1.pdf",
   },
 ];
@@ -146,16 +146,14 @@ export const roomCategories = [
 ];
 
 export const generalGallery = [
-  "/images/hotel/general/hotel-day.webp",
-  "/images/hotel/general/hotel-night.webp",
-  "/images/hotel/general/reception.webp",
-  "/images/hotel/general/reception-2.webp",
-  "/images/hotel/general/reception-3.webp",
-  "/images/hotel/general/restaurant.webp",
-  "/images/hotel/general/restaurant-2.webp",
-  "/images/hotel/general/pool.webp",
-  "/images/hotel/general/breakfast.webp",
-  "/images/hotel/general/billiard.webp",
+  "/images/hotel/general/general-1.jpg",
+  "/images/hotel/general/general-2.jpg",
+  "/images/hotel/general/general-3.jpg",
+  "/images/hotel/general/general-4.jpg",
+  "/images/hotel/general/general-5.jpg",
+  "/images/hotel/general/general-6.jpg",
+  "/images/hotel/general/general-7.jpg",
+  "/images/hotel/general/general-8.jpg",
 ];
 
 export const servicesItems = [

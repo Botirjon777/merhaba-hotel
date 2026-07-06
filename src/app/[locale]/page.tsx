@@ -19,7 +19,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}`,
       images: [
         {
-          url: "/images/hotel/general/hotel-day.webp",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel Exterior View",
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("homeTitle"),
       description: t("homeDesc"),
-      images: ["/images/hotel/general/hotel-day.webp"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("", locale),
   };
@@ -44,9 +44,7 @@ export default function Home() {
       <link
         rel="preload"
         as="image"
-        href="/images/hotel/general/hotel-day.webp"
-        imageSrcSet="/images/hotel/general/hotel-day-mobile.webp 768w, /images/hotel/general/hotel-day.webp 1920w"
-        imageSizes="(max-width: 768px) 768px, 1920px"
+        href="/images/hotel/general/general-1.jpg"
       />
       <HomeView />
     </>

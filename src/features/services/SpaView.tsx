@@ -55,7 +55,7 @@ export default function SpaView() {
           </div>
           <div className="relative aspect-4/3 overflow-hidden animate-[fadeUp_0.8s_ease-out_forwards]">
             <ResponsiveImage
-              src="/images/hotel/general/pool.webp"
+              src="/images/hotel/general/general-5.jpg"
               alt={t("poolTitle")}
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
