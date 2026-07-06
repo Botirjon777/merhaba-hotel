@@ -21,14 +21,6 @@ export default function RoomsView() {
   // We only want rooms, not conference halls for this page
   const rooms = roomCategories.filter((cat) => cat.id !== "conference");
 
-  const handleBook = (roomId?: number) => {
-    if (roomId) {
-      router.push(`/booking?room-type=${roomId}`);
-    } else {
-      router.push("/booking");
-    }
-  };
-
   return (
     <main className="min-h-screen bg-cream">
       <Navbar />
@@ -134,15 +126,14 @@ export default function RoomsView() {
 
               <div className="flex justify-between items-center pt-4 border-t border-sand/10">
                 <div className="flex flex-col gap-1 text-[10px] text-gold tracking-[1.5px] uppercase font-medium">
-                  <span>{t(`details.${room.id}.size`)}</span>
                   <span>{t(`details.${room.id}.capacity`)}</span>
                 </div>
                 <Button
                   variant="outline"
                   size="sm"
-                  onClick={() => handleBook(room.hopenId)}
+                  onClick={() => router.push("/booking")}
                 >
-                  {t("moreDetails")}
+                  {t("showMore")}
                   <FiArrowRight className="ml-2 w-3.5 h-3.5" />
                 </Button>
               </div>

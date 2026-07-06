@@ -28,7 +28,7 @@ export function Recommendations() {
 
   // Select 3 bestsellers or specific rooms
   const selectedRooms = roomCategories.filter((cat) =>
-    ["deluxe-king", "superior-twin", "superior-family"].includes(cat.id),
+    ["lux", "delux-king", "classic-king"].includes(cat.id),
   );
 
   return (

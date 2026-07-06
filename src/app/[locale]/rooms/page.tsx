@@ -19,7 +19,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/rooms`,
       images: [
         {
-          url: "/images/hotel/rooms/lux/king/2.webp",
+          url: "/images/hotel/rooms/lux/2.jpg",
           width: 1200,
           height: 630,
           alt: "Deluxe King Room at Merhaba Hotel, Fergana",
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("roomsTitle"),
       description: t("roomsDesc"),
-      images: ["/images/hotel/rooms/lux/king/2.webp"],
+      images: ["/images/hotel/rooms/lux/2.jpg"],
     },
     alternates: buildAlternates("/rooms", locale),
   };

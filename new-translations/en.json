@@ -213,48 +213,47 @@
     "bestseller": "Bestseller",
     "size": "Size",
     "capacity": "Capacity",
+    "showMore": "Show More",
     "details": {
-      "deluxe-king": {
+      "standart-2": {
+        "title": "Standard Room",
+        "description": "A comfortable standard room with everything you need for a pleasant and relaxing stay for two guests.",
+        "capacity": "2 Adults"
+      },
+      "classic": {
+        "title": "Classic Room",
+        "description": "A cosy classic room combining warm comfort and tasteful design for a restful stay.",
+        "capacity": "2 Adults"
+      },
+      "classic-with-balcon": {
+        "title": "Classic Room with Balcony",
+        "description": "A classic room with a private balcony, perfect for enjoying fresh air and open views.",
+        "capacity": "2 Adults"
+      },
+      "classic-king": {
+        "title": "Classic King Room",
+        "description": "A spacious classic room with a large king-size bed for extra comfort and a great night’s sleep.",
+        "capacity": "2 Adults"
+      },
+      "classic-king-with-balcon": {
+        "title": "Classic King Room with Balcony",
+        "description": "A classic king room with a private balcony, offering both space and a relaxing outdoor view.",
+        "capacity": "2 Adults"
+      },
+      "delux-2": {
+        "title": "Deluxe Room",
+        "description": "An elegant deluxe room with refined furnishings and enhanced comfort for two guests.",
+        "capacity": "2 Adults"
+      },
+      "delux-king": {
         "title": "Deluxe King Room",
-        "description": "Our Deluxe King Room is a great choice for couples or those who appreciate space and comfort. The room has a large double bed measuring 2.00 × 1.90 m with high quality linens, which will give you a restful and undisturbed sleep.",
-        "capacity": "2 Adults",
-        "size": "15m²"
+        "description": "A refined deluxe room with a king-size bed and premium amenities for a luxurious stay.",
+        "capacity": "2 Adults"
       },
-      "superior-king": {
-        "title": "Superior King Room",
-        "description": "The Superior King Room combines spaciousness and a refined atmosphere. A large King Size bed measuring 2.00 × 1.80 m with high-quality linens ensures a good night's rest, and the tastefully furnished interior creates a comfortable and welcoming environment.",
-        "capacity": "2 Adults",
-        "size": "25m²"
-      },
-      "superior-twin": {
-        "title": "Superior Twin Room",
-        "description": "Our Superior Twin Room is designed for the comfort of two guests. The room has two spacious single beds measuring 2.00 × 1.00 m each, with high-quality linens that will ensure a healthy and restful sleep.",
-        "capacity": "2 Adults",
-        "size": "22m²"
-      },
-      "deluxe-twin": {
-        "title": "Deluxe Twin Room",
-        "description": "Our Deluxe Twin Room is ideal for friends, colleagues or family members who prefer separate beds. The room has two single beds (1.90 × 1.00 m each) with high-quality linens that ensure a comfortable and restful night's sleep.",
-        "capacity": "2 Adults",
-        "size": "15m²"
-      },
-      "superior-family": {
-        "title": "Superior Family Room",
-        "description": "The Superior Family Room is a practical and comfortable choice for families. The spacious room includes one King Size bed (2.10 × 2.00 m) and one single bed (2.10 × 1.00 m), giving everyone their own space.",
-        "capacity": "3 Adults",
-        "size": "25m²"
-      },
-      "standart": {
-        "title": "Standard Single Room",
-        "description": "A well-suited option for a solo traveler, featuring a comfortable 2.10 × 1.00 m bed and all the essentials for a relaxed and convenient stay.",
-        "capacity": "1 Adult",
-        "size": "15m²"
-      },
-      "apartment": {
-        "title": "Apartment",
-        "description": "A spacious three-room apartment designed for maximum comfort. Features separate living areas, multiple TV sets, a fully equipped kitchenette, and a premium bathroom with heated floors.",
-        "capacity": "3 Adults",
-        "size": "3 Rooms"
+      "lux": {
+        "title": "Lux Suite",
+        "description": "Our finest suite, offering generous space, premium comfort and an elevated experience.",
+        "capacity": "2 Adults"
       }
     }
   },

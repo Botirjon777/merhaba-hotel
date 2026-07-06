@@ -213,48 +213,47 @@
     "bestseller": "Xit savdo",
     "size": "Maydoni",
     "capacity": "Sig'imi",
+    "showMore": "Batafsil",
     "details": {
-      "deluxe-king": {
-        "title": "King-size karavotli Deluxe xona",
-        "description": "Bizning King-size karavotli Deluxe xonamiz juftliklar yoki kenglik va qulaylikni qadrlaydigan mehmonlar uchun ajoyib tanlovdir. Xonada yuqori sifatli choyshab-ko'rpalarga ega 2.00 × 1.90 m o'lchamdagi katta ikki kishilik karavot mavjud.",
-        "capacity": "2 Kattalar",
-        "size": "15m²"
+      "standart-2": {
+        "title": "Standart xona",
+        "description": "Ikki mehmon uchun yoqimli va tinch dam olish uchun barcha qulayliklarga ega standart xona.",
+        "capacity": "2 mehmon"
       },
-      "superior-king": {
-        "title": "King-size karavotli Superior xona",
-        "description": "Superior King xonasi kenglik va qulay muhitni o'zida mujassam etgan. Yuqori sifatli choyshablarga ega 2.00 × 1.80 m o'lchamdagi King Size karavoti yaxshi tungi dam olishni ta'minlaydi, o'ylab jihozlangan interyeri esa qulaylik va uyg'unlik muhitini yaratadi.",
-        "capacity": "2 Kattalar",
-        "size": "25m²"
+      "classic": {
+        "title": "Klassik xona",
+        "description": "Iliqlik, qulaylik va nafis dizaynni uygʻunlashtirgan shinam klassik xona.",
+        "capacity": "2 mehmon"
       },
-      "superior-twin": {
-        "title": "Ikki kishilik Superior xona",
-        "description": "Bizning Superior Twin xonamiz ikki mehmonning qulayligi uchun mo'ljallangan. Xonada har birining o'lchami 2.00 × 1.00 m bo'lgan ikkita keng bir kishilik karavot mavjud bo'lib, yuqori sifatli choyshab-ko'rpalar bilan ta'minlangan.",
-        "capacity": "2 Kattalar",
-        "size": "22m²"
+      "classic-with-balcon": {
+        "title": "Balkonli klassik xona",
+        "description": "Shaxsiy balkonli klassik xona — toza havo va ochiq manzaradan bahramand boʻlish uchun ideal.",
+        "capacity": "2 mehmon"
       },
-      "deluxe-twin": {
-        "title": "Ikki kishilik Deluxe xona",
-        "description": "Bizning Deluxe Twin xonamiz alohida karavotlarda qolishni afzal ko'radigan do'stlar, hamkasblar yoki oila a'zolari uchun juda mos keladi. Xonada har birining o'lchami 1.90 × 1.00 m bo'lgan ikkita bir kishilik karavot mavjud, yuqori sifatli choyshablar bilan ta'minlangan.",
-        "capacity": "2 Kattalar",
-        "size": "15m²"
+      "classic-king": {
+        "title": "Klassik King xona",
+        "description": "King-size katta karavotli keng klassik xona — qoʻshimcha qulaylik va tinch uyqu uchun.",
+        "capacity": "2 mehmon"
       },
-      "superior-family": {
-        "title": "Superior oilaviy xona",
-        "description": "Superior oilaviy xonasi oilalar uchun amaliy va qulay tanlovdir. Keng xonada bitta King Size karavot (2.10 × 2.00 m) va bitta bir kishilik karavot (2.10 × 1.00 m) mavjud — har bir mehmon uchun o'z joyi bor.",
-        "capacity": "3 Kattalar",
-        "size": "25m²"
+      "classic-king-with-balcon": {
+        "title": "Balkonli klassik King xona",
+        "description": "King-size karavot va shaxsiy balkonli klassik xona — kenglik va yoqimli manzara.",
+        "capacity": "2 mehmon"
       },
-      "standart": {
-        "title": "Standart bir kishilik xona",
-        "description": "Yolg'iz sayohatchi uchun qulay variant: 2.10 × 1.00 m o'lchamdagi yotoq, tinch dam olish uchun barcha zaruriy jihozlar.",
-        "capacity": "1 Kattalar",
-        "size": "15m²"
+      "delux-2": {
+        "title": "Deluxe xona",
+        "description": "Ikki mehmon uchun nafis jihozlangan va yuqori qulaylikka ega deluxe xona.",
+        "capacity": "2 mehmon"
       },
-      "apartment": {
-        "title": "Apartament",
-        "description": "Maksimal qulaylik uchun mo'ljallangan keng uch xonali apartament. Alohida yashash joylari, bir nechta televizor, to'liq jihozlangan oshxona va isitilgan polga ega zamonaviy vanna xonasi.",
-        "capacity": "3 Kattalar",
-        "size": "3 xona"
+      "delux-king": {
+        "title": "Deluxe King xona",
+        "description": "King-size karavot va premium qulayliklarga ega nafis deluxe xona — hashamatli dam olish uchun.",
+        "capacity": "2 mehmon"
+      },
+      "lux": {
+        "title": "Lyuks",
+        "description": "Eng yaxshi lyuksimiz — kenglik, premium qulaylik va alohida muhit.",
+        "capacity": "2 mehmon"
       }
     }
   },
