@@ -36,7 +36,7 @@ export default function BookingView() {
       accommodationMode: "auto",
       adults: adults.toString(),
       language: locale === 'en' ? 'en' : locale === 'uz' ? 'uz' : 'ru',
-      providerId: "506781",
+      providerId: "506785",
       theme: "express-orange"
     });
 

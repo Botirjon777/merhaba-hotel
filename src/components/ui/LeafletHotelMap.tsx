@@ -14,7 +14,7 @@ const HOTEL_POSITION: [number, number] = [40.3693934, 71.7868168];
 const pinIcon = L.divIcon({
   className: "hotel-map-pin",
   html: `<svg width="36" height="46" viewBox="0 0 36 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M18 0C8.06 0 0 8.06 0 18c0 13.5 18 28 18 28s18-14.5 18-28C36 8.06 27.94 0 18 0z" fill="#2a4d78"/>
+    <path d="M18 0C8.06 0 0 8.06 0 18c0 13.5 18 28 18 28s18-14.5 18-28C36 8.06 27.94 0 18 0z" fill="#e3ce6f"/>
     <circle cx="18" cy="18" r="7" fill="#fdfaf4"/>
   </svg>`,
   iconSize: [36, 46],
@@ -74,7 +74,7 @@ export default function LeafletHotelMap() {
             )}
             <Link
               href="/booking"
-              className="block w-full bg-gold text-white! text-[10px] sm:text-xs tracking-[1.5px] uppercase text-center py-2 sm:py-2.5 hover:bg-gold/90 transition-colors no-underline"
+              className="block w-full bg-brand text-text-dark! text-[10px] sm:text-xs tracking-[1.5px] uppercase text-center py-2 sm:py-2.5 hover:bg-brand-dark transition-colors no-underline"
             >
               {t("bookNow")}
             </Link>

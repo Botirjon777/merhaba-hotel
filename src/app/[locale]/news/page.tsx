@@ -16,7 +16,7 @@ export async function generateMetadata({
     openGraph: {
       title: t("newsTitle"),
       description: t("newsDesc"),
-      url: `https://safirhotel.uz/${locale}/news`,
+      url: `https://merhabahotel.uz/${locale}/news`,
       images: [
         {
           url: "/news/safir-news-3.png",

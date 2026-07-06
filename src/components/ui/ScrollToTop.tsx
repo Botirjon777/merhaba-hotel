@@ -49,7 +49,7 @@ export default function ScrollToTop() {
     >
       <button
         onClick={scrollToTop}
-        className="w-12 h-12 md:w-14 md:h-14 bg-gold hover:bg-[#35608f] text-white rounded-full shadow-2xl flex items-center justify-center transition-all duration-300 group ring-4 ring-gold/10 hover:ring-gold/30"
+        className="w-12 h-12 md:w-14 md:h-14 bg-brand hover:bg-brand-dark text-text-dark rounded-full shadow-2xl flex items-center justify-center transition-all duration-300 group ring-4 ring-brand/10 hover:ring-brand/30"
         aria-label="Scroll to top"
       >
         <FiArrowUp className="w-5 h-5 md:w-6 md:h-6 group-hover:-translate-y-1 transition-transform duration-300" />

@@ -17,7 +17,7 @@ const jost = Jost({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://safirhotel.uz"),
+  metadataBase: new URL("https://merhabahotel.uz"),
   robots: {
     index: true,
     follow: true,

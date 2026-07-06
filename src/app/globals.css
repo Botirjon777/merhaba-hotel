@@ -10,6 +10,10 @@
   --color-text-mid: #48566b;
   --color-green-promo: #16a34a;
 
+  /* Brand accent — logo background color, used for primary CTA buttons and promo backgrounds */
+  --color-brand: #e3ce6f;
+  --color-brand-dark: #b1a157;
+
   --font-jost: var(--font-jost);
   --font-cormorant: var(--font-cormorant);
 }

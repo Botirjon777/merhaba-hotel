@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://safirhotel.uz/sitemap.xml
+Sitemap: https://merhabahotel.uz/sitemap.xml

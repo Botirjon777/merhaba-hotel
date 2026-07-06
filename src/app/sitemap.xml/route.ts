@@ -4,7 +4,7 @@ import { NextResponse } from "next/server";
 export const dynamic = "force-static";
 export const revalidate = 86400; // regenerate once per 24 hours
 
-const BASE = "https://safirhotel.uz";
+const BASE = "https://merhabahotel.uz";
 const locales = ["uz", "ru", "en"] as const;
 
 const staticPaths = [

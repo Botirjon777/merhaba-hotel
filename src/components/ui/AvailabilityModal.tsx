@@ -446,7 +446,7 @@ export function AvailabilityModal() {
               <button
                 onClick={handleNext}
                 disabled={!checkIn || !checkOut}
-                className="w-full bg-gold hover:bg-gold-dark disabled:bg-white/5 disabled:text-white/20 text-white font-jost uppercase tracking-[4px] py-5 rounded-md font-bold transition-all flex items-center justify-center gap-4 group active:scale-[0.98] shadow-xl shadow-gold/10"
+                className="w-full bg-brand hover:bg-brand-dark disabled:bg-white/5 disabled:text-white/20 text-text-dark font-jost uppercase tracking-[4px] py-5 rounded-md font-bold transition-all flex items-center justify-center gap-4 group active:scale-[0.98] shadow-xl shadow-brand/10"
               >
                 {t("next")}{" "}
                 <FiArrowRight className="text-lg group-hover:translate-x-2 transition-transform" />
@@ -454,7 +454,7 @@ export function AvailabilityModal() {
             ) : (
               <button
                 onClick={handleSearch}
-                className="w-full bg-gold hover:bg-gold-dark text-white font-jost uppercase tracking-[4px] py-5 rounded-md font-bold transition-all shadow-2xl shadow-gold/20 active:scale-[0.98] flex items-center justify-center gap-4"
+                className="w-full bg-brand hover:bg-brand-dark text-text-dark font-jost uppercase tracking-[4px] py-5 rounded-md font-bold transition-all shadow-2xl shadow-brand/20 active:scale-[0.98] flex items-center justify-center gap-4"
               >
                 {t("checkAvailability")}
               </button>

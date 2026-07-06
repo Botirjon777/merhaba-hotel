@@ -1,4 +1,4 @@
-const BASE = "https://safirhotel.uz";
+const BASE = "https://merhabahotel.uz";
 
 export function buildAlternates(path: string, locale: string) {
   return {

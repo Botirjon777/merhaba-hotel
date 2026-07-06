@@ -77,7 +77,7 @@ export function ServicePopup() {
           {errors.guests && <p className={errorClass}>{errors.guests}</p>}
         </div>
         <button
-          className="bg-gold hover:bg-gold-dark hover:-translate-y-[2px] transition-all duration-300 text-white border-none py-4 px-10 font-jost text-xs tracking-[3px] uppercase cursor-pointer inline-block w-full"
+          className="bg-brand hover:bg-brand-dark hover:-translate-y-[2px] transition-all duration-300 text-text-dark border-none py-4 px-10 font-jost text-xs tracking-[3px] uppercase cursor-pointer inline-block w-full"
           onClick={handleSubmit}
         >
           Send Enquiry

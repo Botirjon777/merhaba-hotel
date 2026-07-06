@@ -81,7 +81,7 @@ export function StickyBookingBar() {
 
           {/* Mobile: open availability modal / Desktop: go to booking page */}
           <button
-            className="bg-gold hover:bg-[#35608f] text-white border-none py-1.5 px-2.5 md:py-2.5 md:px-5 font-jost text-[10px] md:text-xs tracking-[2px] cursor-pointer transition-all duration-300 shadow-lg shadow-gold/20 font-medium active:scale-95"
+            className="bg-brand hover:bg-brand-dark text-text-dark border-none py-1.5 px-2.5 md:py-2.5 md:px-5 font-jost text-[10px] md:text-xs tracking-[2px] cursor-pointer transition-all duration-300 shadow-lg shadow-brand/20 font-medium active:scale-95"
             onClick={() => {
               if (window.innerWidth >= 1024) {
                 router.push("/booking");

@@ -262,7 +262,7 @@ export function GuestPicker({
 
               {/* Mobile specific close button */}
               <button 
-                className="md:hidden mt-8 bg-gold hover:bg-gold-dark text-white py-4 rounded-md font-bold tracking-widest uppercase text-sm shadow-xl"
+                className="md:hidden mt-8 bg-brand hover:bg-brand-dark text-text-dark py-4 rounded-md font-bold tracking-widest uppercase text-sm shadow-xl"
                 onClick={() => setIsOpen(false)}
               >
                 {t("done")}

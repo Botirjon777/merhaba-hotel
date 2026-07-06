@@ -61,8 +61,8 @@ export async function generateMetadata({
       description,
       url:
         locale === "uz"
-          ? `https://safirhotel.uz/news/${item.id}`
-          : `https://safirhotel.uz/${locale}/news/${item.id}`,
+          ? `https://merhabahotel.uz/news/${item.id}`
+          : `https://merhabahotel.uz/${locale}/news/${item.id}`,
       publishedTime: new Date(item.date).toISOString(),
       authors: ["Merhaba Hotel"],
       images: [{ url: item.image, width: 1200, height: 630, alt: title }],

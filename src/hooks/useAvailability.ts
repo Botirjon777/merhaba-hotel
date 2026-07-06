@@ -58,8 +58,8 @@ export function useAvailability(viewDate: Date): AvailabilityData {
         const endDate = `${lastDay.getFullYear()}-${String(lastDay.getMonth() + 1).padStart(2, '0')}-${String(lastDay.getDate()).padStart(2, '0')}`;
 
         const [rulesRes, availRes] = await Promise.all([
-          fetch(`https://uz-ibe.hopenapi.com/ApiWebDistribution/AvailabilityCalendar/hotel_booking_rules?end_date=${endDate}&hotel=506781&shared=false&start_date=${startDate}`),
-          fetch(`https://uz-ibe.hopenapi.com/ApiWebDistribution/AvailabilityCalendar/room_type_availability_2?aggregate_dates=true&currency=UZS&end_date=${endDate}&hotel=506781&max_nights=21&start_date=${startDate}&shared=false&point_of_sale.referrer_code=GOOG`)
+          fetch(`https://uz-ibe.hopenapi.com/ApiWebDistribution/AvailabilityCalendar/hotel_booking_rules?end_date=${endDate}&hotel=506785&shared=false&start_date=${startDate}`),
+          fetch(`https://uz-ibe.hopenapi.com/ApiWebDistribution/AvailabilityCalendar/room_type_availability_2?aggregate_dates=true&currency=UZS&end_date=${endDate}&hotel=506785&max_nights=21&start_date=${startDate}&shared=false&point_of_sale.referrer_code=GOOG`)
         ]);
 
         if (!rulesRes.ok || !availRes.ok) {

@@ -16,7 +16,7 @@ export async function generateMetadata({
     openGraph: {
       title: t("reviewsTitle"),
       description: t("reviewsDesc"),
-      url: `https://safirhotel.uz/${locale}/reviews`,
+      url: `https://merhabahotel.uz/${locale}/reviews`,
       images: [
         {
           url: "/images/hotel/general/hotel-day.webp",
@@ -40,8 +40,8 @@ const reviewsJsonLd = {
   "@context": "https://schema.org",
   "@type": "Hotel",
   name: "Merhaba Hotel",
-  url: "https://safirhotel.uz/reviews",
-  image: "https://safirhotel.uz/images/hotel/general/hotel-day.webp",
+  url: "https://merhabahotel.uz/reviews",
+  image: "https://merhabahotel.uz/images/hotel/general/hotel-day.webp",
   aggregateRating: {
     "@type": "AggregateRating",
     ratingValue: "4.8",

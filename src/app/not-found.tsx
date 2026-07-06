@@ -11,7 +11,7 @@ export default function NotFound() {
             <Link href="/uz" className="flex items-center no-underline group">
               <div className="relative h-[70px] w-[70px] md:h-[100px] md:w-[100px] transition-transform duration-300 group-hover:scale-105">
                 <Image
-                  src="/images/logo/logo-safir.png"
+                  src="/images/logo/logo-merhaba.png"
                   alt="Merhaba Hotel Logo"
                   fill
                   className="object-contain brightness-0 invert opacity-90 drop-shadow-2xl"
@@ -32,7 +32,7 @@ export default function NotFound() {
           </p>
           <Link
             href="/uz"
-            className="inline-flex items-center justify-center bg-gold hover:bg-gold-dark transition-all duration-300 text-white border-none h-[44px] px-7 font-jost text-[10px] tracking-[3px] uppercase cursor-pointer shadow-lg shadow-gold/20 font-bold active:scale-95 no-underline"
+            className="inline-flex items-center justify-center bg-brand hover:bg-brand-dark transition-all duration-300 text-text-dark border-none h-[44px] px-7 font-jost text-[10px] tracking-[3px] uppercase cursor-pointer shadow-lg shadow-brand/20 font-bold active:scale-95 no-underline"
           >
             Return Home
           </Link>

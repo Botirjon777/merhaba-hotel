@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const PROPERTY_ID = 506781;
+const PROPERTY_ID = 506785;
 const CACHE_DURATION = 3600 * 1000; // 1 hour in ms
 
 export interface RateSummary {

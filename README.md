@@ -2,7 +2,7 @@
 
 > **Above the Ordinary** — Official website for Merhaba Hotel. Built with Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and URL-based multi-language routing.
 
-**Live:** [safirhotel.uz](https://safirhotel.uz)
+**Live:** [merhabahotel.uz](https://merhabahotel.uz)
 
 ---
 
@@ -192,7 +192,7 @@ graph TB
     end
 
     subgraph External
-        HOPE[Hope API\nuz-ibe.hopenapi.com\nProperty 506781]
+        HOPE[Hope API\nuz-ibe.hopenapi.com\nProperty 506785]
         MAPS[Google Maps\nEmbed iframe]
         FONTS[Google Fonts CDN]
     end
@@ -418,7 +418,7 @@ npm run optimize-images
 
 ## API Integrations
 
-All API calls go to **Hope API** (`uz-ibe.hopenapi.com`) — Property ID `506781`.
+All API calls go to **Hope API** (`uz-ibe.hopenapi.com`) — Property ID `506785`.
 
 | Endpoint | Used in | Purpose |
 |----------|---------|---------|
@@ -446,9 +446,9 @@ Three locales: **Uzbek** (`uz`, default) · **Russian** (`ru`) · **English** (`
 ### URL structure
 
 ```
-safirhotel.uz/uz/rooms   ← Uzbek
-safirhotel.uz/ru/rooms   ← Russian
-safirhotel.uz/en/rooms   ← English
+merhabahotel.uz/uz/rooms   ← Uzbek
+merhabahotel.uz/ru/rooms   ← Russian
+merhabahotel.uz/en/rooms   ← English
 ```
 
 `localePrefix: "always"` — every locale has an explicit prefix. Visiting `/` redirects to `/uz`.
@@ -513,12 +513,12 @@ A Hotel JSON-LD schema is injected in `[locale]/layout.tsx` on every page:
 
 ```ts
 alternates: {
-  canonical: "https://safirhotel.uz/ru/rooms",
+  canonical: "https://merhabahotel.uz/ru/rooms",
   languages: {
-    uz: "https://safirhotel.uz/uz/rooms",
-    ru: "https://safirhotel.uz/ru/rooms",
-    en: "https://safirhotel.uz/en/rooms",
-    "x-default": "https://safirhotel.uz/uz/rooms",
+    uz: "https://merhabahotel.uz/uz/rooms",
+    ru: "https://merhabahotel.uz/ru/rooms",
+    en: "https://merhabahotel.uz/en/rooms",
+    "x-default": "https://merhabahotel.uz/uz/rooms",
   }
 }
 ```
@@ -541,13 +541,13 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /_next/
-Sitemap: https://safirhotel.uz/sitemap.xml
-Host: https://safirhotel.uz
+Sitemap: https://merhabahotel.uz/sitemap.xml
+Host: https://merhabahotel.uz
 ```
 
 ### Domain
 
-Production domain is `safirhotel.uz` (non-www). `www.safirhotel.uz` is configured as a redirect in Vercel settings.
+Production domain is `merhabahotel.uz` (non-www). `www.merhabahotel.uz` is configured as a redirect in Vercel settings.
 
 ---
 

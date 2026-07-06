@@ -20,7 +20,7 @@ const jsonLd = {
   name: "Merhaba Hotel",
   description:
     "Experience genuine hospitality, premium rooms, and modern comfort in the heart of Fergana.",
-  url: "https://safirhotel.uz/uz",
+  url: "https://merhabahotel.uz/uz",
   telephone: "+998945590077",
   email: "safirhotel2024@gmail.com",
   checkinTime: "14:00",
@@ -40,7 +40,7 @@ const jsonLd = {
     latitude: "40.3834",
     longitude: "71.7833",
   },
-  image: "https://safirhotel.uz/images/hotel/general/hotel-day.webp",
+  image: "https://merhabahotel.uz/images/hotel/general/hotel-day.webp",
   starRating: { "@type": "Rating", ratingValue: "5" },
   aggregateRating: {
     "@type": "AggregateRating",
@@ -64,7 +64,7 @@ const jsonLd = {
   ],
 };
 
-const BASE = "https://safirhotel.uz";
+const BASE = "https://merhabahotel.uz";
 
 /** Strip a leading locale segment so we get the locale-agnostic path (e.g. "/about", "" for home). */
 function getPathWithoutLocale(pathname: string) {

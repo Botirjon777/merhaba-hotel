@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/"],
       },
     ],
-    sitemap: "https://safirhotel.uz/sitemap.xml",
-    host: "https://safirhotel.uz",
+    sitemap: "https://merhabahotel.uz/sitemap.xml",
+    host: "https://merhabahotel.uz",
   };
 }
