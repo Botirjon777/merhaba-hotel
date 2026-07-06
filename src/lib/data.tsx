@@ -34,21 +34,10 @@ export interface NewsItem {
 
 export const newsItems: NewsItem[] = [
   {
-    id: "smart-in-room-service",
+    id: "management-certificate",
     date: "2026-01-01",
-    image: "/news/safir-news-3.png",
-  },
-  {
-    id: "quality-management-cert",
-    date: "2025-09-05",
-    image: "/images/hotel/general/general-3.jpg",
-    pdfUrl: "/news/safir-news-2.pdf",
-  },
-  {
-    id: "food-safety-cert",
-    date: "2025-09-10",
-    image: "/images/hotel/general/general-4.jpg",
-    pdfUrl: "/news/safir-news-1.pdf",
+    image: "/images/hotel/general/general-1.jpg",
+    pdfUrl: "/news/preview-2370.pdf",
   },
 ];
 

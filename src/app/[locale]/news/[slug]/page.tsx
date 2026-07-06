@@ -1,8 +1,6 @@
 import { newsItems } from "@/lib/data";
 import { notFound } from "next/navigation";
-import FoodSafetyCert from "@/features/news/articles/FoodSafetyCert";
-import QualityManagementCert from "@/features/news/articles/QualityManagementCert";
-import SmartInRoomService from "@/features/news/articles/SmartInRoomService";
+import ManagementCert from "@/features/news/articles/ManagementCert";
 import { buildAlternates } from "@/lib/seo";
 
 const locales = ["uz", "ru", "en"];
@@ -31,18 +29,10 @@ export async function generateMetadata({
   let title = "";
   let description = "";
 
-  if (item.id === "smart-in-room-service") {
-    title = "Innovative Smart In-Room Service Launched";
+  if (item.id === "management-certificate") {
+    title = "ISO 9001:2015 Management System Certificate";
     description =
-      "Merhaba Hotel elevates guest experience with the introduction of intelligent smart in-room service controls and digital assistant systems.";
-  } else if (item.id === "quality-management-cert") {
-    title = "ISO 9001:2015 Quality Management System Certification";
-    description =
-      "Merhaba Hotel achieves the prestigious ISO 9001:2015 certification, reflecting our commitment to premium service quality and guest satisfaction.";
-  } else if (item.id === "food-safety-cert") {
-    title = "ISO 22000:2018 Food Safety Management Certification";
-    description =
-      "Merhaba Hotel Gastrobar receives the ISO 22000:2018 certification, confirming our absolute adherence to elite international food safety and culinary hygiene standards.";
+      "Merhaba Hotel has been awarded the O'z DSt ISO 9001:2015 Management System Certificate (Registry No: UZ.SMT.04.0013).";
   } else {
     title = item.id
       .split("-")
@@ -78,9 +68,7 @@ export async function generateMetadata({
 }
 
 const articleMap: Record<string, React.ComponentType> = {
-  "food-safety-cert": FoodSafetyCert,
-  "quality-management-cert": QualityManagementCert,
-  "smart-in-room-service": SmartInRoomService,
+  "management-certificate": ManagementCert,
 };
 
 export default async function NewsArticlePage({

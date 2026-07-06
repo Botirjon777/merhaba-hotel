@@ -19,7 +19,7 @@ export async function generateMetadata({
       url: `https://merhabahotel.uz/${locale}/news`,
       images: [
         {
-          url: "/news/safir-news-3.png",
+          url: "/images/hotel/general/general-1.jpg",
           width: 1200,
           height: 630,
           alt: "Merhaba Hotel News & Events",
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: t("newsTitle"),
       description: t("newsDesc"),
-      images: ["/news/safir-news-3.png"],
+      images: ["/images/hotel/general/general-1.jpg"],
     },
     alternates: buildAlternates("/news", locale),
   };
