@@ -5,6 +5,7 @@ import { MobileSidebar } from "@/components/layout/MobileSidebar";
 import BeSearchForm from "@/components/be-forms/BeSearchForm";
 import { ImageBanner } from "./components/ImageBanner";
 
+const VideoShowcase = dynamic(() => import("./components/VideoShowcase").then(m => ({ default: m.VideoShowcase })));
 const Recommendations = dynamic(() => import("./components/Recommendations").then(m => ({ default: m.Recommendations })));
 const About = dynamic(() => import("./components/About").then(m => ({ default: m.About })));
 const Gallery = dynamic(() => import("./components/Gallery").then(m => ({ default: m.Gallery })));
@@ -24,6 +25,7 @@ export default function HomeView() {
       <Hero />
         <BeSearchForm extraClass={"block-search--main"} />
       <ImageBanner />
+      <VideoShowcase />
       <Recommendations />
       <About />
 

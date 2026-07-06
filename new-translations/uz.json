@@ -72,6 +72,15 @@
     "fromPrice": "<b>{price} UZS</b> dan",
     "bookNow": "Bron qilish"
   },
+  "VideoShowcase": {
+    "label": "Merhaba bilan tanishing",
+    "title": "Mehmonxona",
+    "subtitle": "harakatda",
+    "play": "Ijro etish",
+    "pause": "To‘xtatish",
+    "mute": "Ovozni o‘chirish",
+    "unmute": "Ovozni yoqish"
+  },
   "ImageBanner": {
     "featuredAmenities": "Asosiy qulayliklar",
     "allAmenities": "Barcha qulayliklar",

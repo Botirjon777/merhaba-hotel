@@ -72,6 +72,15 @@
     "fromPrice": "from <b>{price} UZS</b>",
     "bookNow": "Book Now"
   },
+  "VideoShowcase": {
+    "label": "Discover Merhaba",
+    "title": "Experience the",
+    "subtitle": "Hotel in Motion",
+    "play": "Play video",
+    "pause": "Pause video",
+    "mute": "Mute",
+    "unmute": "Unmute"
+  },
   "ImageBanner": {
     "featuredAmenities": "Featured Amenities",
     "allAmenities": "All Amenities",

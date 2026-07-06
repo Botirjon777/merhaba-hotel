@@ -72,6 +72,15 @@
     "fromPrice": "от <b>{price} UZS</b>",
     "bookNow": "Забронировать"
   },
+  "VideoShowcase": {
+    "label": "Знакомство с Merhaba",
+    "title": "Отель в",
+    "subtitle": "движении",
+    "play": "Воспроизвести",
+    "pause": "Пауза",
+    "mute": "Выключить звук",
+    "unmute": "Включить звук"
+  },
   "ImageBanner": {
     "featuredAmenities": "Основные удобства",
     "allAmenities": "Все удобства",
