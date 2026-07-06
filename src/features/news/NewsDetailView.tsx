@@ -29,6 +29,11 @@ export default function NewsDetailView({ id }: NewsDetailViewProps) {
   const item = newsItems[currentIndex];
 
   const nextItem = newsItems[(currentIndex + 1) % newsItems.length];
+  // Only offer a "next" when there is a genuinely different article to go to.
+  const hasNext = newsItems.length > 1 && nextItem && nextItem.id !== item?.id;
+  const nextTitleRaw = hasNext ? t(`items.${nextItem.id}.title`) : "";
+  const nextTitle =
+    nextTitleRaw.length > 24 ? `${nextTitleRaw.slice(0, 24)}…` : nextTitleRaw;
 
   const [mounted, setMounted] = useState(false);
 
@@ -113,10 +118,10 @@ export default function NewsDetailView({ id }: NewsDetailViewProps) {
               className="md:w-auto md:min-w-[180px]"
             >
               <FiArrowLeft className="mr-2 w-4 h-4" />
-              All News
+              {t("allNews")}
             </Button>
 
-            {nextItem && (
+            {hasNext && (
               <Button
                 variant="gold"
                 size="sm"
@@ -124,11 +129,8 @@ export default function NewsDetailView({ id }: NewsDetailViewProps) {
                 fullWidth
                 className="md:w-auto md:min-w-[180px]"
               >
-                Next:{" "}
-                {nextItem.id.length > 15
-                  ? nextItem.id.substring(0, 15) + "..."
-                  : nextItem.id}
-                <FiArrowRight className="ml-2 w-4 h-4" />
+                {t("next")}: {nextTitle}
+                <FiArrowRight className="ml-2 w-4 h-4 shrink-0" />
               </Button>
             )}
           </div>

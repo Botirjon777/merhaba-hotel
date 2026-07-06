@@ -12,6 +12,7 @@ import { Button } from "@/components/ui/Button";
 
 import { useState, useEffect } from "react";
 import BeSearchForm from "@/components/be-forms/BeSearchForm";
+import { CustomSelect } from "@/components/ui/form/CustomSelect";
 
 export default function NewsView() {
   const t = useTranslations("NewsPage");
@@ -39,7 +40,7 @@ export default function NewsView() {
         <div className="max-w-[1200px] mx-auto relative z-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-gold/60 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
+            className="inline-flex items-center gap-2 text-cream/70 hover:text-gold text-[10px] uppercase tracking-[3px] font-bold mb-8 transition-all group"
           >
             <FiArrowLeft className="w-4 h-4 transition-transform group-hover:-translate-x-1" />
             <span>{tc("backToHome")}</span>
@@ -63,23 +64,16 @@ export default function NewsView() {
             <span className="text-xs font-jost text-text-mid uppercase tracking-[2px]">
               {t("sortBy")}:
             </span>
-            <div className="relative">
-              <select
-                value={sortOrder}
-                onChange={(e) =>
-                  setSortOrder(e.target.value as "newest" | "oldest")
-                }
-                className="bg-white border border-sand/20 text-text-dark font-jost text-sm py-2 pl-4 pr-10 focus:outline-none focus:border-gold transition-colors appearance-none cursor-pointer rounded-none min-w-[150px]"
-              >
-                <option value="newest">{t("newestFirst")}</option>
-                <option value="oldest">{t("oldestFirst")}</option>
-              </select>
-              <div className="absolute inset-y-0 right-0 flex items-center px-3 pointer-events-none text-sand">
-                <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20">
-                  <path d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" />
-                </svg>
-              </div>
-            </div>
+            <CustomSelect
+              theme="light"
+              className="w-[190px]"
+              value={sortOrder}
+              onChange={(v) => setSortOrder(v as "newest" | "oldest")}
+              options={[
+                { value: "newest", label: t("newestFirst") },
+                { value: "oldest", label: t("oldestFirst") },
+              ]}
+            />
           </div>
         </div>
 

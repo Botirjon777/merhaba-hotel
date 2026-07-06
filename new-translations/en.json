@@ -265,6 +265,8 @@
     "sortBy": "Sort by",
     "newestFirst": "Newest First",
     "oldestFirst": "Oldest First",
+    "allNews": "All News",
+    "next": "Next",
     "items": {
       "management-certificate": {
         "title": "Merhaba Hotel Receives ISO 9001:2015 Management System Certificate",

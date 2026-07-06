@@ -265,6 +265,8 @@
     "sortBy": "Saralash",
     "newestFirst": "Eng yangilari",
     "oldestFirst": "Eng eskilari",
+    "allNews": "Barcha yangiliklar",
+    "next": "Keyingi",
     "items": {
       "management-certificate": {
         "title": "Merhaba Hotel ISO 9001:2015 menejment tizimi sertifikatini oldi",
