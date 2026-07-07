@@ -8,7 +8,6 @@ import { ResponsiveImage } from "@/components/ui/ResponsiveImage";
 import {
   MdOutlineBreakfastDining,
   MdOutlineRestaurant,
-  MdOutlineLocalBar,
   MdEvStation,
 } from "react-icons/md";
 import { FiWifi, FiTruck, FiChevronLeft, FiChevronRight } from "react-icons/fi";
@@ -41,7 +40,7 @@ const images = [
   },
   {
     src: "/images/hotel/general/general-5.jpg",
-    alt: "Hotel Swimming Pool",
+    alt: "Merhaba Hotel Cozy Room",
     id: "pool",
   },
   {
@@ -51,7 +50,7 @@ const images = [
   },
   {
     src: "/images/hotel/general/general-7.jpg",
-    alt: "Hotel Billiard Room",
+    alt: "Merhaba Hotel Guest Service",
     id: "billiard",
   },
 ];
@@ -64,7 +63,6 @@ const amenitiesList = [
   { icon: <FiWifi className="w-5 h-5" />, key: "wifi" },
   { icon: <MdEvStation className="w-5 h-5" />, key: "ev" },
   { icon: <MdOutlineRestaurant className="w-5 h-5" />, key: "restaurant" },
-  { icon: <MdOutlineLocalBar className="w-5 h-5" />, key: "bar" },
   { icon: <FiTruck className="w-5 h-5" />, key: "shuttle" },
 ];
 

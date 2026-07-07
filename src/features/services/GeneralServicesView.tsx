@@ -21,7 +21,6 @@ import {
   FiCloud,
   FiChevronDown,
   FiArrowLeft,
-  FiArrowRight,
 } from "react-icons/fi";
 import { Link } from "@/i18n/navigation";
 import BeSearchForm from "@/components/be-forms/BeSearchForm";
@@ -33,32 +32,14 @@ export default function GeneralServicesView() {
 
   const mainServices = [
     {
-      title: t("gastrobarTitle"),
-      desc: t("gastrobarDesc"),
-      image: "/images/hotel/general/general-4.jpg",
-      link: "/services/gastrobar",
-    },
-    {
-      title: t("spaTitle"),
-      desc: t("spaDesc"),
-      image: "/images/hotel/general/general-5.jpg",
-      link: "/services/spa",
-    },
-    {
-      title: t("meetingsTitle"),
-      desc: t("meetingsDesc"),
-      image: "/images/hotel/conference-rooms/22-person/1.webp",
-      link: "/services/meetings",
+      title: t("breakfastTitle"),
+      desc: t("breakfastDesc"),
+      image: "/images/hotel/general/general-6.jpg",
     },
     {
       title: t("laundryTitle"),
       desc: t("laundryDesc"),
       image: "/images/hotel/general/general-3.jpg",
-    },
-    {
-      title: t("billiardTitle"),
-      desc: t("billiardDesc"),
-      image: "/images/hotel/general/general-7.jpg",
     },
     { title: t("wifiTitle"), desc: t("wifiDesc"), icon: <FiWifi /> },
     { title: t("parkingTitle"), desc: t("parkingDesc"), icon: <FiMap /> },
@@ -135,25 +116,15 @@ export default function GeneralServicesView() {
                   <p className="font-jost text-[11px] md:text-sm text-text-mid leading-relaxed line-clamp-3">
                     {service.desc}
                   </p>
-                  {service.link && (
-                    <span className="inline-flex items-center gap-1.5 mt-3 text-[10px] tracking-[2px] uppercase text-gold font-medium group-hover:gap-2.5 transition-all duration-300">
-                      {t("learnMore")}
-                      <FiArrowRight className="w-3 h-3" />
-                    </span>
-                  )}
                 </div>
               </>
             );
 
             const className =
-              "flex flex-row gap-4 md:gap-8 items-center bg-white p-3 md:p-6 border border-sand shadow-sm hover:shadow-md hover:border-gold/30 transition-all group cursor-pointer";
+              "flex flex-row gap-4 md:gap-8 items-center bg-white p-3 md:p-6 border border-sand shadow-sm hover:shadow-md hover:border-gold/30 transition-all group";
 
-            return service.link ? (
-              <Link href={service.link} key={i} className={className}>
-                {content}
-              </Link>
-            ) : (
-              <div key={i} className={className.replace("cursor-pointer", "")}>
+            return (
+              <div key={i} className={className}>
                 {content}
               </div>
             );

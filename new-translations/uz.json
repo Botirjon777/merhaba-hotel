@@ -62,7 +62,7 @@
     "heartOfEverything": "Farg'ona markazida",
     "subtext": "Mehmonxonamiz Farg'ona shahrining qoq markazida, diqqatga sazovor joylar va asosiy transport yo'llari yaqinida joylashgan. Bizga avtomobil, taksi yoki jamoat transportida osonlik bilan yetib kelishingiz mumkin.",
     "address": "Manzil",
-    "addressText": "Farg'ona shahar, Moturudiy ko'chasi, 30V/2",
+    "addressText": "Farg‘ona sh., A. Navoiy ko‘chasi, 27",
     "reservations": "Bron qilish",
     "phone": "+998 94 559 00 77",
     "email": "Email",
@@ -102,16 +102,16 @@
         "title": "Har bir ovqatlanishdan zavqlaning"
       },
       "pool": {
-        "subtitle": "Hordiq va dam olish",
-        "title": "Yopiq suzish havzasi"
+        "subtitle": "Hordiq va qulaylik",
+        "title": "Shinam xonalar"
       },
       "breakfast": {
         "subtitle": "Yaxshi boshlanish",
         "title": "Shved stoli nonushtasi"
       },
       "billiard": {
-        "subtitle": "Hordiq va o'yin",
-        "title": "Bilyard xonasi"
+        "subtitle": "Samimiy mehmondo‘stlik",
+        "title": "Xizmatingizda"
       }
     },
     "title": "Sizning",
@@ -185,7 +185,7 @@
   },
   "AboutPage": {
     "title": "Merhaba Hotel haqida",
-    "welcome": "Merhaba mehmonxonasiga xush kelibsiz — qulaylik va uslub yuqori darajadagi xizmat bilan uyg'unlashgan joy. Mehmonxonamiz Farg'ona shahrining qulay hududida joylashgan bo'lib, ish safarlari va dam olish uchun ajoyib tanlovdir. Biz mehmonlarga qulay xonalar, zamonaviy qulayliklar va to'liq dam olishga yordam beradigan muhitni taqdim etamiz. Merhaba mehmonxonasida biz har bir mehmon haqida qayg'uramiz: bepul Wi-Fi, restoran, 24 soatlik qabulxona va boshqa qulayliklar — hammasi qulay dam olish uchun. Har bir xona did bilan jihozlangan, turli xil tariflarimiz esa har qanday sayohatchiga mos keladi. Biz bilan qoling va Merhaba mehmonxonasida qolishingizni unutilmas qiladigan mehmondo'stlikdan zavqlaning.",
+    "welcome": "Merhaba mehmonxonasiga xush kelibsiz, u yerda har bir mehmon o‘zini alohida his qiladi.\n\n2022-yilda ochilgan Merhaba Hotel — bu zamonaviy 2 yulduzli mehmonxona bo‘lib, o‘zining qulay dizayni va xizmatlari bilan minglab mehmonlarning ishonchini qozongan. Minimalistik uslub va zamonaviy texnologiyalar uyg‘unligi bilan mehmonxona ishbilarmonlar va sayohatchilar uchun qulay muhit yaratadi.\n\nBizda byudjetga mos «Classic» xonalardan tortib hashamatli «Superior King» xonalargacha bo‘lgan turli darajadagi xonalar mavjud — har bir mehmon o‘ziga mos qulaylikni topadi. Har bir detal mehmon qulayligi uchun yaratilgan: zamonaviy xonalar, barcha zarur sharoitlar va ish uchun qulay coworking zona mavjud.\n\nHar kuni ertalab mehmonlar uchun mahalliy va xalqaro taomlardan iborat boy bufet nonushta taqdim etiladi. Samimiy mehmondo‘stlik, tozalikka e’tibor va nafis dizayn — Merhaba Hotelni har bir mehmon uchun unutilmas manzilga aylantiradi.",
     "termsTitle": "Yashash shartlari",
     "earlyCheckIn": "Erta kirish:",
     "early1": "00:00 dan 05:59 gacha — bir kecha narxining 100% miqdorida qo'shimcha to'lov.",
@@ -403,7 +403,9 @@
     "spaTitle": "Fitnes va SPA",
     "spaDesc": "Zamonaviy jihozlar va fitnes zal.",
     "meetingsTitle": "Uchrashuvlar va tadbirlar",
-    "meetingsDesc": "Biznes uchrashuvlari va tadbirlar uchun to'liq jihozlangan konferensiya zallari."
+    "meetingsDesc": "Biznes uchrashuvlari va tadbirlar uchun to'liq jihozlangan konferensiya zallari.",
+    "breakfastTitle": "«Bufet» nonushta",
+    "breakfastDesc": "Kuningizni mazali va rang-barang «bufet» nonushta bilan boshlang! Har kuni biz yangi taomlarning keng tanlovini taklif qilamiz: issiq gazaklar, yangi sabzavot va mevalar, shirinliklar, don mahsulotlari, yogurtlar va boshqalar. Nonushta shinam muhitda barcha mehmonlar uchun taqdim etiladi."
   },
   "DatePicker": {
     "months": [
@@ -454,20 +456,25 @@
     "subtitle": "Xizmatlar",
     "showMore": "Barcha xizmatlar",
     "items": {
-      "gastrobar": {
-        "title": "Gastrobar",
-        "description": "Gastrobarimizda yaxshi ovqatdan zavqlaning. Xilma-xil shved stoli nonushtasidan to to'liq restoran menyusigacha — hammasi yangi mahsulotlardan tayyorlanadi.",
-        "linkText": "Gastrobarga tashrif →"
+      "breakfast": {
+        "title": "Bufet nonushta",
+        "description": "Kuningizni mahalliy va xalqaro taomlardan iborat boy «bufet» nonushta bilan boshlang — har kuni ertalab yangi tayyorlangan holda taqdim etiladi.",
+        "linkText": "Batafsil →"
       },
-      "spa": {
-        "title": "Fitnes va SPA",
-        "description": "Mashq qiling yoki shunchaki dam oling. Fitnes zalimiz to'liq jihozlangan, yopiq havzamiz esa band kundan keyin tinchlanish uchun qulay joy.",
-        "linkText": "Dam olish →"
+      "wifi": {
+        "title": "Yuqori tezlikdagi Wi-Fi",
+        "description": "Butun mehmonxona bo‘ylab tez va barqaror Wi-Fi — xonangizda va umumiy joylarda ish va dam olish uchun ulanib turing.",
+        "linkText": "Batafsil →"
       },
-      "meetings": {
-        "title": "Uchrashuvlar va tadbirlar",
-        "description": "Ishbilarmonlik uchrashuvlari, seminarlar va tadbirlar uchun qulay va yaxshi jihozlangan joylar. Xodimlarimiz hamma narsani tashkil etishga yordam beradi.",
-        "linkText": "Tadbiringizni rejalashtiring →"
+      "parking": {
+        "title": "Bepul avtoturargoh",
+        "description": "Mehmonlar uchun bepul avtoturargoh — avtomobilingiz xavfsiz va doimo yaqin.",
+        "linkText": "Batafsil →"
+      },
+      "laundry": {
+        "title": "Kir yuvish xizmati",
+        "description": "Tez va sifatli kir yuvish va dazmollash — buyurtma berish va narxni aniqlash uchun qabulxonaga murojaat qiling.",
+        "linkText": "Batafsil →"
       },
       "amenities": {
         "title": "Qulayliklar",
@@ -478,11 +485,6 @@
         "title": "Mehmonlar uchun xizmatlar",
         "description": "Qolishingizni qulayroq qilamiz: kir yuvish, 24 soatlik xizmat va to'g'ridan-to'g'ri band qilganlarga asosiy restoranda 10% chegirma.",
         "linkText": "Bizning xizmatlarimiz →"
-      },
-      "pool": {
-        "title": "Yopiq suzish havzasi",
-        "description": "Yopiq havzamiz dam olish va yangilanish uchun tinch joy. Yil davomida qulay suv harorati saqlanadi, barcha mehmonlar uchun oldindan band qilish orqali kirish mumkin.",
-        "linkText": "Batafsil →"
       }
     }
   },
@@ -546,15 +548,15 @@
   },
   "Meta": {
     "homeTitle": "Merhaba Hotel — Farg'ona shahridagi zamonaviy mehmonxona",
-    "homeDesc": "Farg'ona markazidagi Merhaba Hotelda haqiqiy mehmon kutish, premium xonalar va zamonaviy qulaylik. To'g'ridan-to'g'ri band qiling va 19% gacha tejang — isitilgan bassein, gastrobar va qulay joylashuv.",
+    "homeDesc": "Farg‘ona markazidagi Merhaba Hotelda haqiqiy mehmon kutish, qulay xonalar va zamonaviy qulaylik. To‘g‘ridan-to‘g‘ri band qiling va 19% gacha tejang — bufet nonushta, bepul Wi-Fi, bepul avtoturargoh va qulay joylashuv.",
     "aboutTitle": "Biz haqimizda — Merhaba Hotel",
     "aboutDesc": "Merhaba Hotel haqida ko'proq bilib oling: mehmondo'stlik standartlari, kirish-chiqish siyosati va joylashuv.",
     "roomsTitle": "Xonalar va lyukslar — Merhaba Hotel",
     "roomsDesc": "Merhaba Hoteldagi 63 ta premium xona va lyuksni ko'ring. Individual iqlim nazorati, ortopedik to'shak va tez Wi-Fi.",
     "galleryTitle": "Fotogalereya — Merhaba Hotel",
-    "galleryDesc": "Merhaba Hotelning xonalari, isitilgan basseini, gastrobari va konferens-zallarining foto-ekskursiyasini ko'ring.",
+    "galleryDesc": "Merhaba mehmonxonasi bo‘ylab vizual sayohat: qulay xonalar, shinam intererlar va Farg‘ona markazidagi bufet nonushta hududi.",
     "servicesTitle": "Xizmatlar va qulayliklar — Merhaba Hotel",
-    "servicesDesc": "Merhaba Hoteldagi premium xizmatlarni kashf eting: isitilgan bassein, SPA-hammom va faqat mehmonlar uchun eksklyuziv gastrobar.",
+    "servicesDesc": "Merhaba mehmonxonasi qulayligini kashf eting: boy bufet nonushta, yuqori tezlikdagi Wi-Fi, bepul avtoturargoh va kir yuvish xizmati — xotirjam dam olish uchun barchasi.",
     "gastrobarTitle": "Gastrobar — Merhaba Hotel",
     "gastrobarDesc": "Merhaba Hoteldagi eksklyuziv gastrobarda ajoyib taomlar va qulay muhitdan bahramand bo'ling.",
     "spaTitle": "Fitnes va SPA — Merhaba Hotel",
@@ -564,7 +566,7 @@
     "bookingTitle": "To'g'ridan-to'g'ri band qiling va 19% gacha tejang — Merhaba Hotel",
     "bookingDesc": "Merhaba Hotelning rasmiy saytida band qiling va darhol 10% tejang — ro'yxatdan o'tib 19% gacha tejang. Eng yaxshi to'g'ridan-to'g'ri narxlar.",
     "contactsTitle": "Aloqa — Merhaba Hotel",
-    "contactsDesc": "Manzil: Moturudiy ko'chasi 30V/2, Farg'ona. Tel: +998 94 559 00 77. Kirish 14:00, chiqish 12:00.",
+    "contactsDesc": "Manzil: A. Navoiy ko‘chasi, 27, Farg‘ona. Tel: +998 94 559 00 77. Kirish 14:00, chiqish 12:00.",
     "reviewsTitle": "Mehmonlar sharhlari — Merhaba Hotel",
     "reviewsDesc": "Merhaba Hotelda tunagan mehmonlarning haqiqiy sharhlarini o'qing: xizmat, tozalik, joylashuv va qulaylik. O'z sharhingizni Google Maps, Yandex Xarita yoki Tripadvisor'da qoldiring.",
     "newsTitle": "Yangiliklar — Merhaba Hotel",

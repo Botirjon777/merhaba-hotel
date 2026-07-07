@@ -30,7 +30,7 @@ const jsonLd = {
   paymentAccepted: "Cash, Credit Card",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Moturudiy ko'chasi, 30V/2",
+    streetAddress: "A. Navoi Street, 27",
     addressLocality: "Fergana",
     addressRegion: "Fergana Region",
     addressCountry: "UZ",
@@ -55,12 +55,10 @@ const jsonLd = {
   ],
   amenityFeature: [
     { "@type": "LocationFeatureSpecification", name: "Free Wi-Fi", value: true },
+    { "@type": "LocationFeatureSpecification", name: "Buffet Breakfast", value: true },
     { "@type": "LocationFeatureSpecification", name: "Restaurant", value: true },
-    { "@type": "LocationFeatureSpecification", name: "Spa", value: true },
-    { "@type": "LocationFeatureSpecification", name: "Indoor Pool", value: true },
-    { "@type": "LocationFeatureSpecification", name: "Fitness Center", value: true },
-    { "@type": "LocationFeatureSpecification", name: "Conference Rooms", value: true },
-    { "@type": "LocationFeatureSpecification", name: "Parking", value: true },
+    { "@type": "LocationFeatureSpecification", name: "Free Parking", value: true },
+    { "@type": "LocationFeatureSpecification", name: "Laundry Service", value: true },
   ],
 };
 

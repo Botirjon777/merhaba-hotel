@@ -1,24 +1,22 @@
 import {
   LiaBedSolid,
-  LiaWineGlassSolid,
-  LiaSpaSolid,
-  LiaSwimmingPoolSolid,
-  LiaUsersSolid,
+  LiaCoffeeSolid,
+  LiaWifiSolid,
+  LiaCarSolid,
+  LiaTshirtSolid,
   LiaConciergeBellSolid,
 } from "react-icons/lia";
 
-export const navLinks = [
+type NavLink = {
+  label: string;
+  href: string;
+  subLinks?: { label: string; href: string }[];
+};
+
+export const navLinks: NavLink[] = [
   { label: "About Us", href: "/about" },
   { label: "Rooms", href: "/rooms" },
-  {
-    label: "Services",
-    href: "/services",
-    subLinks: [
-      { label: "Gastrobar", href: "/services/gastrobar" },
-      { label: "Fitness & SPA", href: "/services/spa" },
-      { label: "Meetings & Events", href: "/services/meetings" },
-    ],
-  },
+  { label: "Services", href: "/services" },
   { label: "Gallery", href: "/gallery" },
   { label: "News", href: "/news" },
   { label: "Contacts", href: "/contacts" },
@@ -159,16 +157,6 @@ export const roomCategories = [
       "/images/hotel/rooms/lux/9.jpg",
     ],
   },
-  {
-    id: "conference",
-    label: "Conference Hall",
-    mainImage: "/images/hotel/conference-rooms/32-person/1.webp",
-    images: [
-      "/images/hotel/conference-rooms/32-person/1.webp",
-      "/images/hotel/conference-rooms/22-person/1.webp",
-      "/images/hotel/conference-rooms/52-person/1.webp",
-    ],
-  },
 ];
 
 export const generalGallery = [
@@ -184,19 +172,24 @@ export const generalGallery = [
 
 export const servicesItems = [
   {
-    icon: <LiaWineGlassSolid />,
-    key: "gastrobar",
-    href: "/services/gastrobar",
+    icon: <LiaCoffeeSolid />,
+    key: "breakfast",
+    href: "/services",
   },
   {
-    icon: <LiaSpaSolid />,
-    key: "spa",
-    href: "/services/spa",
+    icon: <LiaWifiSolid />,
+    key: "wifi",
+    href: "/services",
   },
   {
-    icon: <LiaUsersSolid />,
-    key: "meetings",
-    href: "/services/meetings",
+    icon: <LiaCarSolid />,
+    key: "parking",
+    href: "/services",
+  },
+  {
+    icon: <LiaTshirtSolid />,
+    key: "laundry",
+    href: "/services",
   },
   {
     icon: <LiaBedSolid />,
@@ -207,10 +200,5 @@ export const servicesItems = [
     icon: <LiaConciergeBellSolid />,
     key: "guest_services",
     href: "/services",
-  },
-  {
-    icon: <LiaSwimmingPoolSolid />,
-    key: "pool",
-    href: "/services/spa",
   },
 ];

@@ -27,12 +27,7 @@ export default function GalleryView() {
     openPopup("gallery-popup");
   };
 
-  const conferenceCategory = roomCategories.find((c) => c.id === "conference");
-  const otherRoomCategories = roomCategories.filter(
-    (c) => c.id !== "conference",
-  );
-
-  const allRoomImages = otherRoomCategories
+  const allRoomImages = roomCategories
     .filter((c) => c.images && c.images.length > 0)
     .flatMap((c) => c.images || []);
 
@@ -42,12 +37,6 @@ export default function GalleryView() {
       title: t("sections.hotel"),
       images: generalGallery,
       isPriority: true,
-    },
-    {
-      id: "conference",
-      title: t("sections.conference"),
-      images: conferenceCategory?.images || [],
-      isPriority: false,
     },
     {
       id: "rooms",

@@ -63,9 +63,18 @@ export default function AboutView() {
           </div>
           <div className="space-y-5">
             <div className="w-12 h-px bg-gold"></div>
-            <p className="font-jost text-lg md:text-xl font-light leading-relaxed text-text-mid italic">
-              &ldquo;{t("welcome")}&rdquo;
-            </p>
+            <div className="space-y-4">
+              {t("welcome")
+                .split("\n\n")
+                .map((para, i) => (
+                  <p
+                    key={i}
+                    className="font-jost text-base md:text-lg font-light leading-relaxed text-text-mid"
+                  >
+                    {para}
+                  </p>
+                ))}
+            </div>
           </div>
         </div>
       </section>

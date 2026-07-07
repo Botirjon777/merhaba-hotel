@@ -62,7 +62,7 @@
     "heartOfEverything": "At the Heart of Fergana",
     "subtext": "Our hotel is conveniently located in the heart of Fergana city, near major attractions and main transport arteries. You can easily reach us by car, taxi or public transport. Use the map to build the most convenient route.",
     "address": "Address",
-    "addressText": "Farg'ona shahar, Moturudiy ko'chasi, 30V/2",
+    "addressText": "27 A. Navoi Street, Ferghana",
     "reservations": "Reservations",
     "phone": "+998 94 559 00 77",
     "email": "Email",
@@ -102,16 +102,16 @@
         "title": "Enjoy Every Meal"
       },
       "pool": {
-        "subtitle": "Relax and Unwind",
-        "title": "Indoor Pool"
+        "subtitle": "Rest and Comfort",
+        "title": "Cozy Rooms"
       },
       "breakfast": {
         "subtitle": "A Great Start",
         "title": "Buffet Breakfast"
       },
       "billiard": {
-        "subtitle": "Leisure & Play",
-        "title": "Billiard Room"
+        "subtitle": "Warm Hospitality",
+        "title": "At Your Service"
       }
     },
     "title": "Designed for Your",
@@ -185,7 +185,7 @@
   },
   "AboutPage": {
     "title": "About Merhaba Hotel",
-    "welcome": "Welcome to Merhaba Hotel — a place where comfort and style meet a high level of service. Our hotel is located in a convenient area of Fergana city, making it an excellent choice for both business and leisure trips. We offer our guests cozy rooms, modern amenities, and an atmosphere that supports complete relaxation. At Merhaba Hotel, we take care of every guest by providing high-quality services such as free Wi-Fi, a restaurant, a 24-hour front desk, and other amenities that ensure a comfortable stay. Each room is furnished with attention to detail, and our varied rates are suitable for any type of traveler. Stay with us and enjoy the hospitality that will make your time at Merhaba Hotel truly memorable.",
+    "welcome": "Welcome to Merhaba Hotel, where every guest feels special. Our hotel combines comfort, modern style and high standards of service, creating a unique atmosphere for leisure and business trips. We are located in the city center, which makes Merhaba Hotel a convenient choice for both tourists and business travelers.\n\nOur rooms are designed with care for your needs: from the functional Classic rooms to the spacious Superior King, each equipped with everything necessary for a comfortable stay — comfortable furniture, modern amenities and a stylish interior.\n\nAt Merhaba Hotel, we make sure that your stay is pleasant and carefree. We offer a 24-hour front desk, high-speed Wi-Fi throughout, a buffet breakfast, and convenient areas for work and recreation. Our team is always ready to help make your stay truly memorable.",
     "termsTitle": "Terms of stay",
     "earlyCheckIn": "Early check-in:",
     "early1": "From 00:00 to 05:59 — an additional payment of 100% of the cost per night.",
@@ -403,7 +403,9 @@
     "spaTitle": "Fitness & SPA",
     "spaDesc": "Modern equipment and a well-equipped fitness area for your workouts.",
     "meetingsTitle": "Meetings & Events",
-    "meetingsDesc": "Fully equipped conference rooms for business meetings and events."
+    "meetingsDesc": "Fully equipped conference rooms for business meetings and events.",
+    "breakfastTitle": "Buffet Breakfast",
+    "breakfastDesc": "Start your day with a delicious and varied buffet breakfast! Every day we offer a wide selection of fresh dishes — hot options, fresh vegetables and fruit, pastries, cereals, yogurts and more — served in a cozy setting to give you the perfect start to the day."
   },
   "DatePicker": {
     "months": [
@@ -454,20 +456,25 @@
     "subtitle": "Services",
     "showMore": "Show All Services",
     "items": {
-      "gastrobar": {
-        "title": "Gastrobar",
-        "description": "Enjoy a good meal at our Gastrobar. From a varied buffet breakfast to a full restaurant menu, we serve fresh, well-prepared food in a relaxed setting.",
-        "linkText": "Explore Gastrobar →"
+      "breakfast": {
+        "title": "Buffet Breakfast",
+        "description": "Start your day with a rich buffet breakfast featuring a wide choice of local and international dishes, served fresh every morning in a cozy setting.",
+        "linkText": "Explore Services →"
       },
-      "spa": {
-        "title": "Fitness & SPA",
-        "description": "Stay in shape or simply relax. Our fitness room is fully equipped for a solid workout, and the indoor pool is a calm place to unwind after a busy day.",
-        "linkText": "Relax & Recharge →"
+      "wifi": {
+        "title": "High-speed Wi-Fi",
+        "description": "Fast, reliable Wi-Fi throughout the hotel — stay connected for work or leisure from your room and every common area.",
+        "linkText": "Explore Services →"
       },
-      "meetings": {
-        "title": "Meetings & Events",
-        "description": "Comfortable and well-equipped spaces for business meetings, seminars, and events. Our staff will help you organize everything for a smooth and productive session.",
-        "linkText": "Plan Your Event →"
+      "parking": {
+        "title": "Free Parking",
+        "description": "Complimentary on-site parking for our guests, so your car stays safe and close throughout your stay.",
+        "linkText": "Explore Services →"
+      },
+      "laundry": {
+        "title": "Laundry Service",
+        "description": "Fast and reliable laundry and ironing so your clothes are always ready. Contact the front desk to arrange and confirm pricing.",
+        "linkText": "Explore Services →"
       },
       "amenities": {
         "title": "Amenities",
@@ -478,11 +485,6 @@
         "title": "Guest Services",
         "description": "We make your stay easier with laundry service, 24-hour housekeeping, and a 10% restaurant discount for guests who book directly through our website.",
         "linkText": "Our Services →"
-      },
-      "pool": {
-        "title": "Indoor Pool",
-        "description": "Our indoor pool is a quiet space to relax and refresh. Maintained at a comfortable temperature year-round and available by reservation for all hotel guests.",
-        "linkText": "Learn More →"
       }
     }
   },
@@ -546,15 +548,15 @@
   },
   "Meta": {
     "homeTitle": "Merhaba Hotel — Luxury Hotel in Fergana, Uzbekistan",
-    "homeDesc": "Experience genuine hospitality, premium rooms, and modern comfort in the heart of Fergana. Book direct on the official site and save up to 19% — heated indoor pool, fine dining gastrobar, and a perfect central location.",
+    "homeDesc": "Experience genuine hospitality, comfortable rooms, and modern comfort in the heart of Fergana. Book direct on the official site and save up to 19% — buffet breakfast, free Wi-Fi, free parking, and a perfect central location.",
     "aboutTitle": "About Us — Merhaba Hotel",
     "aboutDesc": "Learn more about Merhaba Hotel. Our hospitality standards, check-in policies, guest services, and prime location in Fergana city.",
     "roomsTitle": "Luxury Rooms & Suites — Merhaba Hotel",
     "roomsDesc": "Explore our 63 premium rooms and suites. Individual climate control, orthopedic bedding, high-speed Wi-Fi, and sophisticated design.",
     "galleryTitle": "Photo Gallery — Merhaba Hotel",
-    "galleryDesc": "A visual tour of Merhaba Hotel: rooms, heated indoor pool, gastrobar, and modern conference facilities.",
+    "galleryDesc": "A visual tour of Merhaba Hotel: comfortable rooms, cozy interiors, and the buffet breakfast area in the heart of Fergana.",
     "servicesTitle": "Services & Amenities — Merhaba Hotel",
-    "servicesDesc": "Discover premium leisure at Merhaba Hotel: heated indoor pool, traditional steam spa hammam, and an exclusive residents-only gastrobar.",
+    "servicesDesc": "Discover the comfort of Merhaba Hotel: a rich buffet breakfast, high-speed Wi-Fi, free parking, and laundry service — everything you need for a relaxed stay.",
     "gastrobarTitle": "Gastrobar — Merhaba Hotel",
     "gastrobarDesc": "Enjoy exquisite cuisine and a relaxed atmosphere at the exclusive Merhaba Hotel Gastrobar.",
     "spaTitle": "Fitness & SPA — Merhaba Hotel",
@@ -564,7 +566,7 @@
     "bookingTitle": "Book Direct & Save up to 19% — Merhaba Hotel",
     "bookingDesc": "Reserve on the official Merhaba Hotel website and save 10% instantly — register to save up to 19%. Best direct-booking rates guaranteed.",
     "contactsTitle": "Contacts — Merhaba Hotel",
-    "contactsDesc": "Merhaba Hotel address: Moturudiy ko'chasi 30V/2, Fergana. Phone: +998 94 559 00 77. Check-in from 14:00, check-out by 12:00.",
+    "contactsDesc": "Merhaba Hotel address: 27 A. Navoi Street, Ferghana. Phone: +998 94 559 00 77. Check-in from 14:00, check-out by 12:00.",
     "reviewsTitle": "Guest Reviews & Ratings — Merhaba Hotel",
     "reviewsDesc": "Read verified guest reviews for Merhaba Hotel — ratings for service, cleanliness, location, comfort, and value. Share your own experience on Google Maps, Yandex Maps, or Tripadvisor.",
     "newsTitle": "News & Events — Merhaba Hotel",

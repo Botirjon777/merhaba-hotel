@@ -89,7 +89,7 @@ export function Gallery() {
                   </div>
                   <div className="overflow-hidden">
                     <h3 className="font-cormorant text-2xl md:text-3xl tracking-[1px] md:transform md:translate-y-full md:group-hover:translate-y-0 transition-transform duration-700 md:delay-100">
-                      {item.id === "conference" ? t("conferenceLabel") : tr(`details.${item.id}.title` as Parameters<typeof tr>[0])}
+                      {tr(`details.${item.id}.title` as Parameters<typeof tr>[0])}
                     </h3>
                   </div>
 

@@ -80,9 +80,9 @@ export function Footer() {
               {t("services")}
             </h4>
             <ul className="list-none flex flex-col gap-2.5 m-0 p-0">
-              <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services/gastrobar">{t("links.gastrobar")}</Link></li>
-              <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services/spa">{t("links.spa")}</Link></li>
-              <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services/meetings">{t("links.meetings")}</Link></li>
+              <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services">{t("links.breakfast")}</Link></li>
+              <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services">{t("links.wifi")}</Link></li>
+              <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services">{t("links.parking")}</Link></li>
               <li><Link className="text-md text-cream/55 no-underline font-light transition-colors duration-300 hover:text-gold" href="/services">{t("links.amenities")}</Link></li>
             </ul>
           </div>
@@ -143,9 +143,9 @@ export function Footer() {
               key: "services",
               label: t("services"),
               links: [
-                { href: "/services/gastrobar", label: t("links.gastrobar") },
-                { href: "/services/spa", label: t("links.spa") },
-                { href: "/services/meetings", label: t("links.meetings") },
+                { href: "/services", label: t("links.breakfast") },
+                { href: "/services", label: t("links.wifi") },
+                { href: "/services", label: t("links.parking") },
                 { href: "/services", label: t("links.amenities") },
               ],
             },
