@@ -6,7 +6,7 @@ import { useTranslations } from "next-intl";
 import { usePopup } from "@/lib/PopupContext";
 import { FiArrowRight } from "react-icons/fi";
 import { roomCategories } from "@/lib/data";
-import { Link } from "@/i18n/navigation";
+import { Link, useRouter } from "@/i18n/navigation";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { useState } from "react";
 import type { Swiper as SwiperType } from "swiper";
@@ -20,6 +20,7 @@ export function Recommendations() {
   const tr = useTranslations("RoomsPage");
   const { openPopup, setGalleryImages } = usePopup();
   const [swiper, setSwiper] = useState<SwiperType | null>(null);
+  const router = useRouter();
 
   const handleOpenGallery = (images: string[]) => {
     setGalleryImages(images);
@@ -103,7 +104,7 @@ export function Recommendations() {
 
                     <div className="flex items-center justify-between pt-4 border-t border-sand/20">
                       <button
-                        onClick={() => openPopup("booking-popup")}
+                        onClick={() => router.push(room.hopenId ? `/booking/?room-type=${room.hopenId}` : "/booking")}
                         className="flex items-center gap-2 group/btn text-[9px] tracking-[2px] uppercase font-bold text-text-dark hover:text-gold transition-all duration-300"
                       >
                         {tr("bookNow")}

@@ -133,7 +133,7 @@ export default function RoomsView() {
                 <Button
                   variant="outline"
                   size="sm"
-                  onClick={() => router.push("/booking")}
+                  onClick={() => router.push(room.hopenId ? `/booking/?room-type=${room.hopenId}` : "/booking")}
                 >
                   {t("showMore")}
                   <FiArrowRight className="ml-2 w-3.5 h-3.5" />

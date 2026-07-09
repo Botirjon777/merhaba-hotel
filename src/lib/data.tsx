@@ -50,6 +50,7 @@ export const stats = [
 export const roomCategories = [
   {
     id: "standart-2",
+    hopenId: 5036700,
     label: "Standard Room",
     mainImage: "/images/hotel/rooms/standart-2/1.jpg",
     images: [
@@ -62,6 +63,7 @@ export const roomCategories = [
   },
   {
     id: "classic",
+    hopenId: 5053175,
     label: "Classic Room",
     mainImage: "/images/hotel/rooms/classic/1.jpg",
     images: [
@@ -75,6 +77,7 @@ export const roomCategories = [
   },
   {
     id: "classic-with-balcon",
+    hopenId: 5053176,
     label: "Classic Room with Balcony",
     mainImage: "/images/hotel/rooms/classic-with-balcon/1.jpg",
     images: [
@@ -87,6 +90,7 @@ export const roomCategories = [
   },
   {
     id: "classic-king",
+    hopenId: 5074840,
     label: "Classic King Room",
     mainImage: "/images/hotel/rooms/classic-king/1.jpg",
     images: [
@@ -103,6 +107,7 @@ export const roomCategories = [
   },
   {
     id: "classic-king-with-balcon",
+    hopenId: 5074841,
     label: "Classic King Room with Balcony",
     mainImage: "/images/hotel/rooms/classic-king-with-balcon/1.jpg",
     images: [
@@ -117,6 +122,7 @@ export const roomCategories = [
   },
   {
     id: "delux-2",
+    hopenId: 5036701,
     label: "Deluxe Room",
     mainImage: "/images/hotel/rooms/delux-2/1.jpg",
     images: [
@@ -129,6 +135,7 @@ export const roomCategories = [
   },
   {
     id: "delux-king",
+    hopenId: 5074842,
     label: "Deluxe King Room",
     mainImage: "/images/hotel/rooms/delux-king/1.jpg",
     images: [
@@ -143,6 +150,7 @@ export const roomCategories = [
   },
   {
     id: "lux",
+    hopenId: 5036702,
     label: "Lux Suite",
     bestseller: true,
     mainImage: "/images/hotel/rooms/lux/1.jpg",
