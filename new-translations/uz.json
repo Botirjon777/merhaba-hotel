@@ -85,33 +85,25 @@
     "featuredAmenities": "Asosiy qulayliklar",
     "allAmenities": "Barcha qulayliklar",
     "slides": {
-      "hotel-day": {
-        "subtitle": "Merhabaga xush kelibsiz!",
-        "title": "O'zingizni uydagidek his qiling"
-      },
-      "hotel-night": {
-        "subtitle": "Kechki muhit",
-        "title": "Tinch tungi dam olish"
-      },
       "reception": {
         "subtitle": "Birinchi taassurot",
         "title": "Samimiy qabul"
+      },
+      "meetingRoom": {
+        "subtitle": "Biznes va tadbirlar",
+        "title": "Yig'ilishlar uchun maskan"
+      },
+      "entrance": {
+        "subtitle": "Doim mehr bilan kutib olamiz",
+        "title": "Qulaylik ostonasidan"
       },
       "restaurant": {
         "subtitle": "Yaxshi taom — yaxshi kayfiyat",
         "title": "Har bir ovqatlanishdan zavqlaning"
       },
-      "pool": {
-        "subtitle": "Hordiq va qulaylik",
-        "title": "Shinam xonalar"
-      },
       "breakfast": {
         "subtitle": "Yaxshi boshlanish",
         "title": "Shved stoli nonushtasi"
-      },
-      "billiard": {
-        "subtitle": "Samimiy mehmondo‘stlik",
-        "title": "Xizmatingizda"
       }
     },
     "title": "Sizning",
@@ -501,6 +493,9 @@
       "gastrobar": "Gastrobar",
       "spa": "Fitnes va SPA",
       "meetings": "Uchrashuvlar va tadbirlar",
+      "breakfast": "Bufet nonushta",
+      "wifi": "Bepul Wi-Fi",
+      "parking": "Bepul avtoturargoh",
       "amenities": "Qulayliklar",
       "terms": "Yashash shartlari",
       "cancellation": "Bekor qilish siyosati"

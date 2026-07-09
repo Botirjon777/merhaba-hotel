@@ -85,33 +85,25 @@
     "featuredAmenities": "Featured Amenities",
     "allAmenities": "All Amenities",
     "slides": {
-      "hotel-day": {
-        "subtitle": "Welcome to Merhaba",
-        "title": "A Place to Feel at Home"
-      },
-      "hotel-night": {
-        "subtitle": "Evening Atmosphere",
-        "title": "A Calm Night Stay"
-      },
       "reception": {
         "subtitle": "First Impressions",
         "title": "A Warm Welcome"
+      },
+      "meetingRoom": {
+        "subtitle": "Business & Events",
+        "title": "A Space to Gather"
+      },
+      "entrance": {
+        "subtitle": "A Grand Welcome",
+        "title": "Step Into Comfort"
       },
       "restaurant": {
         "subtitle": "Good Food, Good Mood",
         "title": "Enjoy Every Meal"
       },
-      "pool": {
-        "subtitle": "Rest and Comfort",
-        "title": "Cozy Rooms"
-      },
       "breakfast": {
         "subtitle": "A Great Start",
         "title": "Buffet Breakfast"
-      },
-      "billiard": {
-        "subtitle": "Warm Hospitality",
-        "title": "At Your Service"
       }
     },
     "title": "Designed for Your",
@@ -501,6 +493,9 @@
       "gastrobar": "Gastrobar",
       "spa": "Fitness & SPA",
       "meetings": "Meetings & Events",
+      "breakfast": "Buffet Breakfast",
+      "wifi": "Free Wi-Fi",
+      "parking": "Free Parking",
       "amenities": "Amenities",
       "terms": "Terms of Stay",
       "cancellation": "Cancellation Policy"

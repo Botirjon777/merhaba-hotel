@@ -8,8 +8,7 @@ import { ResponsiveImage } from "@/components/ui/ResponsiveImage";
 import { roomCategories } from "@/lib/data";
 import { FiWifi, FiArrowRight, FiArrowLeft } from "react-icons/fi";
 import { LuBath, LuBed, LuWind } from "react-icons/lu";
-import { useRouter } from "next/navigation";
-import { Link } from "@/i18n/navigation";
+import { Link, useRouter } from "@/i18n/navigation";
 import { Button } from "@/components/ui/Button";
 import BeSearchForm from "@/components/be-forms/BeSearchForm";
 
@@ -131,7 +130,7 @@ export default function RoomsView() {
                 <Button
                   variant="outline"
                   size="sm"
-                  onClick={() => router.push("/booking")}
+                  onClick={() => router.push(`/booking?room-type=${room.id}`)}
                 >
                   {t("showMore")}
                   <FiArrowRight className="ml-2 w-3.5 h-3.5" />

@@ -19,39 +19,29 @@ import { Link } from "@/i18n/navigation";
 
 const images = [
   {
-    src: "/images/hotel/general/general-1.jpg",
-    alt: "Merhaba Hotel Day View",
-    id: "hotel-day",
-  },
-  {
-    src: "/images/hotel/general/general-2.jpg",
-    alt: "Merhaba Hotel Night View",
-    id: "hotel-night",
-  },
-  {
-    src: "/images/hotel/general/general-3.jpg",
+    src: "/images/hotel/general/general-4.jpg",
     alt: "Hotel Reception",
     id: "reception",
   },
   {
-    src: "/images/hotel/general/general-4.jpg",
+    src: "/images/hotel/general/general-3.jpg",
+    alt: "Merhaba Hotel Meeting Room",
+    id: "meetingRoom",
+  },
+  {
+    src: "/images/hotel/general/general-5.jpg",
+    alt: "Merhaba Hotel Entrance",
+    id: "entrance",
+  },
+  {
+    src: "/images/hotel/general/general-7.jpg",
     alt: "Hotel Restaurant",
     id: "restaurant",
   },
   {
-    src: "/images/hotel/general/general-5.jpg",
-    alt: "Merhaba Hotel Cozy Room",
-    id: "pool",
-  },
-  {
-    src: "/images/hotel/general/general-6.jpg",
+    src: "/images/hotel/general/general-8.jpg",
     alt: "Hotel Breakfast Buffet",
     id: "breakfast",
-  },
-  {
-    src: "/images/hotel/general/general-7.jpg",
-    alt: "Merhaba Hotel Guest Service",
-    id: "billiard",
   },
 ];
 

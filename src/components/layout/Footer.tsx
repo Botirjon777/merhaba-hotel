@@ -27,7 +27,7 @@ export function Footer() {
 
         {/* ── Desktop top row: Logo + Social Icons ── */}
         <div className="hidden md:flex items-center justify-between mb-5 pb-5 border-b border-cream/10">
-          <Logo className="w-[140px]" />
+            <Logo className="w-[140px]" />
 
           <div className="flex items-center gap-4">
             <a
@@ -103,7 +103,9 @@ export function Footer() {
         <div className="md:hidden">
           {/* Mobile top: logo + socials */}
           <div className="flex items-center justify-between mb-5 pb-5 border-b border-cream/10">
-            <Logo className="w-[100px]" />
+            <div className="bg-cream rounded-lg px-3 py-1.5">
+              <Logo className="w-[100px]" />
+            </div>
             <div className="flex gap-2.5">
               <a
                 className="w-9 h-9 border border-cream/20 rounded-full flex items-center justify-center transition-all duration-300 text-cream/50 hover:border-gold hover:text-gold"
@@ -176,7 +178,7 @@ export function Footer() {
                 }`}
               >
                 {section.links.map((link) => (
-                  <li key={link.href}>
+                  <li key={link.label}>
                     <Link
                       className="text-base text-cream/60 no-underline font-light transition-colors duration-300 hover:text-gold"
                       href={link.href}
