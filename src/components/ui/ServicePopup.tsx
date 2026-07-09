@@ -4,7 +4,7 @@ import { useState } from "react";
 import { PopupWrapper } from "./Popup";
 import { usePopup } from "@/lib/PopupContext";
 
-const HOTEL_EMAIL = "safirhotel2024@gmail.com";
+const HOTEL_EMAIL = "merhabaluxhotel@gmail.com";
 
 const inputClass =
   "bg-white border border-sand px-[18px] py-[14px] font-jost text-sm text-text-dark outline-none transition-colors duration-300 focus:border-gold w-full";

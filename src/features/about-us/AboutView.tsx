@@ -203,7 +203,7 @@ export default function AboutView() {
         </div>
         <div className="flex gap-3 mt-3">
           <a
-            href="https://maps.app.goo.gl/ZARm4dxEuKgBvWki8"
+            href="https://share.google/IrFOewtaig9bT0dPT"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 bg-white border border-sand text-text-mid text-xs tracking-wide hover:border-gold hover:text-gold transition-colors"
@@ -212,7 +212,7 @@ export default function AboutView() {
             Google Maps
           </a>
           <a
-            href="https://yandex.uz/maps/-/CPdmnJjk"
+            href="https://yandex.uz/maps/-/CTu8V6lg"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 bg-white border border-sand text-text-mid text-xs tracking-wide hover:border-gold hover:text-gold transition-colors"

@@ -6,7 +6,7 @@ import { usePopup } from "@/lib/PopupContext";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import LanguageSelector from "@/components/ui/LanguageSelector";
-import { useRouter } from "@/i18n/navigation";
+import { useRouter, usePathname } from "@/i18n/navigation";
 import { FiChevronDown, FiMenu } from "react-icons/fi";
 import { Button } from "@/components/ui/Button";
 
@@ -14,23 +14,32 @@ export function Navbar() {
   const { openSidebar } = usePopup();
   const t = useTranslations("Navbar");
   const router = useRouter();
+  const pathname = usePathname();
 
   // const primaryLinkLabels = new Set(["About Us", "Rooms", "Contacts"]);
   // const primaryNavLinks = navLinks.filter((link) => primaryLinkLabels.has(link.label));
 
-  const renderLinkItem = (link: typeof navLinks[number]) => (
-    <li key={link.label} className="relative group">
-      <Link
-        href={link.href}
-        className="relative text-[13px] font-normal tracking-[1px] uppercase no-underline transition-colors duration-300 flex items-center gap-1 text-text-mid group-hover:text-gold"
-      >
-        {t(link.label.toLowerCase())}
-        {link.subLinks && (
-          <FiChevronDown className="w-3 h-3 transition-transform duration-300 group-hover:rotate-180" />
-        )}
-        {/* creative underline: expands from center on hover, desktop only */}
-        <span className="hidden lg:block absolute bottom-0 left-1/2 right-1/2 h-px bg-gold transition-all duration-400 ease-out group-hover:left-0 group-hover:right-0" />
-      </Link>
+  const renderLinkItem = (link: typeof navLinks[number]) => {
+    const isActive = pathname === link.href || (link.href !== "/" && pathname.startsWith(link.href));
+    return (
+      <li key={link.label} className="relative group">
+        <Link
+          href={link.href}
+          className={`relative text-[13px] font-normal tracking-[1px] uppercase no-underline transition-colors duration-300 flex items-center gap-1 group-hover:text-gold ${
+            isActive ? "text-gold" : "text-text-mid"
+          }`}
+        >
+          {t(link.label.toLowerCase())}
+          {link.subLinks && (
+            <FiChevronDown className="w-3 h-3 transition-transform duration-300 group-hover:rotate-180" />
+          )}
+          {/* creative underline: expands from center on hover, desktop only */}
+          <span
+            className={`hidden lg:block absolute bottom-0 h-px bg-gold transition-all duration-400 ease-out ${
+              isActive ? "left-0 right-0" : "left-1/2 right-1/2 group-hover:left-0 group-hover:right-0"
+            }`}
+          />
+        </Link>
 
       {link.subLinks && (
         <div className="absolute top-full left-0 pt-4 opacity-0 invisible translate-y-2 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 z-50">
@@ -49,7 +58,8 @@ export function Navbar() {
         </div>
       )}
     </li>
-  );
+    );
+  };
 
   return (
     <nav

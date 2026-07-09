@@ -21,8 +21,8 @@ const jsonLd = {
   description:
     "Experience genuine hospitality, premium rooms, and modern comfort in the heart of Fergana.",
   url: "https://merhabahotel.uz/uz",
-  telephone: "+998945590077",
-  email: "safirhotel2024@gmail.com",
+  telephone: "+998940677700",
+  email: "merhabaluxhotel@gmail.com",
   checkinTime: "14:00",
   checkoutTime: "12:00",
   numberOfRooms: 63,
@@ -37,8 +37,8 @@ const jsonLd = {
   },
   geo: {
     "@type": "GeoCoordinates",
-    latitude: "40.3834",
-    longitude: "71.7833",
+    latitude: "40.373780650653345",
+    longitude: "71.78624619711951",
   },
   image: "https://merhabahotel.uz/images/hotel/general/general-1.jpg",
   starRating: { "@type": "Rating", ratingValue: "5" },

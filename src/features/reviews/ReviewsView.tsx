@@ -313,22 +313,22 @@ function WriteReviewCTA() {
   const platforms = [
     {
       name: "Google Maps",
-      href: "https://www.google.com/maps/place//data=!4m3!3m2!1s0x38bb8500207fb19b:0xaf46b23a21e55fb5!12e1?source=g.page.m._&laa=merchant-review-solicitation",
+      href: "https://share.google/IrFOewtaig9bT0dPT",
       Icon: SiGooglemaps,
       color: "#4285F4",
     },
     {
       name: "Yandex Maps",
-      href: "https://yandex.uz/maps/org/safir_hotel/126362646807/reviews/?ll=71.786746%2C40.368405&z=17",
+      href: "https://yandex.uz/maps/-/CTu8V6lg",
       Icon: FaYandex,
       color: "#FC3F1D",
     },
-    {
-      name: "Tripadvisor",
-      href: "https://www.tripadvisor.com/UserReviewEdit-g788138-d28863252-Safir_Hotel-Fergana_Fergana_Province.html",
-      Icon: SiTripadvisor,
-      color: "#34E0A1",
-    },
+    // {
+    //   name: "Tripadvisor",
+    //   href: "https://www.tripadvisor.com/UserReviewEdit-g788138-d28863252-Safir_Hotel-Fergana_Fergana_Province.html",
+    //   Icon: SiTripadvisor,
+    //   color: "#34E0A1",
+    // },
   ];
 
   return (

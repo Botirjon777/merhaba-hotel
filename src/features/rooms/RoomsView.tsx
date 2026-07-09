@@ -8,7 +8,7 @@ import { ResponsiveImage } from "@/components/ui/ResponsiveImage";
 import { roomCategories } from "@/lib/data";
 import { FiWifi, FiArrowRight, FiArrowLeft } from "react-icons/fi";
 import { LuBath, LuBed, LuWind } from "react-icons/lu";
-import { useRouter } from "next/navigation";
+import { useRouter } from "@/i18n/navigation";
 import { Link } from "@/i18n/navigation";
 import { Button } from "@/components/ui/Button";
 import BeSearchForm from "@/components/be-forms/BeSearchForm";
@@ -41,13 +41,15 @@ export default function RoomsView() {
             <h1 className="font-cormorant text-5xl md:text-8xl font-light text-gold mb-6 animate-[fadeUp_0.8s_ease-out]">
               {t("title")}
             </h1>
-            <p className="font-jost text-sand/70 tracking-[2px] uppercase text-xs md:text-sm max-w-2xl mx-auto">
-              {t("subtitle")}
-            </p>
           </div>
         </div>
       </section>
       <BeSearchForm />
+      <section className="pt-10 pb-5 px-4 md:px-6 max-w-[1200px] mx-auto text-center animate-[fadeUp_0.8s_ease-out]">
+        <p className="text-text-mid font-jost text-base md:text-lg leading-relaxed max-w-3xl mx-auto">
+          {t("subtitle")}
+        </p>
+      </section>
       {/* Rooms List */}
       <section className="py-5 px-4 md:px-6 max-w-[1200px] mx-auto space-y-6">
         {rooms.map((room, index) => (

@@ -22,7 +22,8 @@ export default function BeSearchForm({ extraClass }: { extraClass?: string }) {
     }(window, [
       ["setContext", "BE-INT-safirhotel-uz_2026-06-03", locale],
       ["embed", "search-form", {
-        container: "be-search-form"
+        container: "be-search-form",
+        action: `/${locale}/booking`
       }]
     ]);
   };

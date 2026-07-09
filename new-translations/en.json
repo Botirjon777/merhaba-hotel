@@ -15,7 +15,8 @@
       "gastrobar": "Gastrobar",
       "fitness & spa": "Fitness & SPA",
       "meetings & events": "Meetings & Events"
-    }
+    },
+    "offers": "Offers"
   },
   "Hero": {
     "titlePart1": "— Merhaba Hotel —",
@@ -64,9 +65,9 @@
     "address": "Address",
     "addressText": "27 A. Navoi Street, Ferghana",
     "reservations": "Reservations",
-    "phone": "+998 94 559 00 77",
+    "phone": "+998 94 067 77 00",
     "email": "Email",
-    "emailAddress": "safirhotel2024@gmail.com",
+    "emailAddress": "merhabaluxhotel@gmail.com",
     "checkInOut": "Check-in / Check-out",
     "checkInOutValue": "From 14:00 / Until 12:00",
     "fromPrice": "from <b>{price} UZS</b>",
@@ -204,7 +205,7 @@
   },
   "RoomsPage": {
     "title": "Rooms & Suites",
-    "subtitle": "Find the room that suits you best — comfortable, clean, and well-equipped.",
+    "subtitle": "At Merhaba Hotel, each room is designed to give you comfort and coziness. We offer a wide range of categories: from the functional and stylish \"Standard Twin Room\" to the exquisite \"Deluxe King\" and \"Luxe King Room\". All rooms are equipped with comfortable furniture, spacious beds, air conditioning, free Wi-Fi and other modern amenities.",
     "explore": "Explore Room",
     "from": "From",
     "bookNow": "Book Now",
@@ -216,43 +217,43 @@
     "showMore": "Show More",
     "details": {
       "standart-2": {
-        "title": "Standard Room",
-        "description": "A comfortable standard room with everything you need for a pleasant and relaxing stay for two guests.",
+        "title": "Standard Twin Room",
+        "description": "The Standard Twin Room offers increased space and comfort. The room features two single beds (2.00 × 1.00 m each), a Smart TV, a wardrobe, a bathroom with shower and a work desk. It is an ideal choice for leisure or business trips.",
         "capacity": "2 Adults"
       },
       "classic": {
-        "title": "Classic Room",
-        "description": "A cosy classic room combining warm comfort and tasteful design for a restful stay.",
+        "title": "Classic Twin Room",
+        "description": "The Classic Twin Room is a blend of comfort and practicality for two guests. The room features two single beds (1.90 × 1.00 m each), a comfortable wardrobe, a modern Smart TV and a bathroom with shower cabin. The warm interior colors give guests a sense of peace and relaxation.",
         "capacity": "2 Adults"
       },
       "classic-with-balcon": {
-        "title": "Classic Room with Balcony",
-        "description": "A classic room with a private balcony, perfect for enjoying fresh air and open views.",
+        "title": "Classic Twin with Balcony",
+        "description": "The Classic Twin Room with a balcony is a comfortable choice for two guests. The room features two single beds (2.00 × 1.00 m each), a Smart TV, a wardrobe and a bathroom with shower. The spacious balcony is a great place to relax; smoking is only allowed on the balcony.",
         "capacity": "2 Adults"
       },
       "classic-king": {
         "title": "Classic King Room",
-        "description": "A spacious classic room with a large king-size bed for extra comfort and a great night’s sleep.",
+        "description": "The Classic King Room is an ideal choice for a comfortable stay for two guests. The spacious King Size bed (190 × 195 cm) provides maximum comfort and a full sleep. The room also has a comfortable wardrobe, a modern Smart TV and a bathroom with shower. The warm shades of the interior and the carefully thought-out design create a cozy atmosphere conducive to relaxing and recuperating.",
         "capacity": "2 Adults"
       },
       "classic-king-with-balcon": {
         "title": "Classic King Room with Balcony",
-        "description": "A classic king room with a private balcony, offering both space and a relaxing outdoor view.",
+        "description": "The Classic King room with a balcony is an excellent choice for a comfortable stay for two guests. The room has a spacious King Size bed (2.05 × 1.95 m), a modern Smart TV, a comfortable wardrobe and a bathroom with shower. The spacious balcony creates additional space for outdoor recreation — smoking is allowed only on the balcony.",
         "capacity": "2 Adults"
       },
       "delux-2": {
-        "title": "Deluxe Room",
-        "description": "An elegant deluxe room with refined furnishings and enhanced comfort for two guests.",
+        "title": "Deluxe Twin Room",
+        "description": "The Deluxe Twin Room with a balcony offers a spacious and comfortable setting for two guests. The room features two single beds (2.00 × 1.00 m each), a Smart TV, a wardrobe and a bathroom with shower. The spacious balcony is a great place to relax in the fresh air; smoking is only allowed on the balcony.",
         "capacity": "2 Adults"
       },
       "delux-king": {
-        "title": "Deluxe King Room",
-        "description": "A refined deluxe room with a king-size bed and premium amenities for a luxurious stay.",
+        "title": "Delux King Room",
+        "description": "The Deluxe King Room with a balcony is a spacious and comfortable space for two guests to relax. The room has a king-size bed (2.01 × 1.95 m), a modern Smart TV, a comfortable wardrobe and a bathroom with shower. The spacious balcony is a great place to relax outdoors; smoking is only allowed on the balcony.",
         "capacity": "2 Adults"
       },
       "lux": {
-        "title": "Lux Suite",
-        "description": "Our finest suite, offering generous space, premium comfort and an elevated experience.",
+        "title": "Superior King Room",
+        "description": "The Superior King Room is the only room at Merhaba Hotel featuring a luxurious King Size bed (2.10 × 1.80 m). A 40 m² area, panoramic windows overlooking the city and an elegant interior give the room a special comfort. This room is ideal for couples or guests who value space and design.",
         "capacity": "2 Adults"
       }
     }
@@ -503,7 +504,10 @@
       "meetings": "Meetings & Events",
       "amenities": "Amenities",
       "terms": "Terms of Stay",
-      "cancellation": "Cancellation Policy"
+      "cancellation": "Cancellation Policy",
+      "breakfast": "Buffet Breakfast",
+      "wifi": "High-Speed Wi-Fi",
+      "parking": "Free Parking"
     },
     "brandBlurb": "Merhaba Hotel — premium hospitality in the heart of Fergana. Experience comfort, elegance, and tradition.",
     "rights": "All rights reserved."
@@ -566,10 +570,31 @@
     "bookingTitle": "Book Direct & Save up to 19% — Merhaba Hotel",
     "bookingDesc": "Reserve on the official Merhaba Hotel website and save 10% instantly — register to save up to 19%. Best direct-booking rates guaranteed.",
     "contactsTitle": "Contacts — Merhaba Hotel",
-    "contactsDesc": "Merhaba Hotel address: 27 A. Navoi Street, Ferghana. Phone: +998 94 559 00 77. Check-in from 14:00, check-out by 12:00.",
+    "contactsDesc": "Merhaba Hotel address: 27 A. Navoi Street, Ferghana. Phone: +998 94 067 77 00. Check-in from 14:00, check-out by 12:00.",
     "reviewsTitle": "Guest Reviews & Ratings — Merhaba Hotel",
     "reviewsDesc": "Read verified guest reviews for Merhaba Hotel — ratings for service, cleanliness, location, comfort, and value. Share your own experience on Google Maps, Yandex Maps, or Tripadvisor.",
     "newsTitle": "News & Events — Merhaba Hotel",
-    "newsDesc": "Latest news, achievements, and announcements from Merhaba Hotel."
+    "newsDesc": "Latest news, achievements, and announcements from Merhaba Hotel.",
+    "offersTitle": "Special Offers — Merhaba Hotel",
+    "offersDesc": "Discover exclusive packages, early booking rates, and seasonal discounts at Merhaba Hotel in Fergana."
+  },
+  "OffersPage": {
+    "title": "Special Offers",
+    "subtitle": "Discover our exclusive packages, holiday rates, and early booking discounts designed to make your stay in Fergana even more rewarding.",
+    "bookNow": "Book Now",
+    "offers": {
+      "new-year": {
+        "title": "New Year's Rate",
+        "description": "Celebrate the New Year with an extra benefit! Book a room under our New Year's rate and receive a 17% discount, plus laundry services absolutely free. Treat yourself to a comfortable holiday stay and enjoy the hotel's thoughtful service. Promotion is valid from December 25 to January 10."
+      },
+      "long-term": {
+        "title": "Long-Term Stay",
+        "description": "Stay longer and save! Book a stay of 4 nights or more at Merhaba Hotel and get a 15% discount. The \"Long-term Stay\" rate is designed for those who wish to enjoy the comfort and convenience of our hotel for an extended period at a special rate."
+      },
+      "early-booking": {
+        "title": "Early Booking",
+        "description": "Plan ahead and save! Book your stay at Merhaba Hotel at least 10 days before check-in and receive a 15% discount. Early booking rates are an excellent choice for those who prefer to plan their trips in advance and enjoy great value."
+      }
+    }
   }
 }

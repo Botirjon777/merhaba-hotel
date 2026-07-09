@@ -8,7 +8,7 @@ import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import { useRoomPrices } from "@/hooks/useRoomPrices";
 
-const HOTEL_POSITION: [number, number] = [40.3693934, 71.7868168];
+const HOTEL_POSITION: [number, number] = [40.373780650653345, 71.78624619711951];
 
 // Gold map pin matching the site palette
 const pinIcon = L.divIcon({

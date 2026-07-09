@@ -15,7 +15,8 @@
       "gastrobar": "Gastrobar",
       "fitness & spa": "Fitness va SPA",
       "meetings & events": "Uchrashuvlar va tadbirlar"
-    }
+    },
+    "offers": "Takliflar"
   },
   "Hero": {
     "titlePart1": "— Merhaba Hotel —",
@@ -64,9 +65,9 @@
     "address": "Manzil",
     "addressText": "Farg‘ona sh., A. Navoiy ko‘chasi, 27",
     "reservations": "Bron qilish",
-    "phone": "+998 94 559 00 77",
+    "phone": "+998 94 067 77 00",
     "email": "Email",
-    "emailAddress": "safirhotel2024@gmail.com",
+    "emailAddress": "merhabaluxhotel@gmail.com",
     "checkInOut": "Kirish / Chiqish",
     "checkInOutValue": "14:00 dan / 12:00 gacha",
     "fromPrice": "<b>{price} UZS</b> dan",
@@ -204,7 +205,7 @@
   },
   "RoomsPage": {
     "title": "Xonalar va lyukslar",
-    "subtitle": "O'zingizga mos xonani toping — qulay, toza va yaxshi jihozlangan.",
+    "subtitle": "Bizda byudjetga mos “Classic” xonalardan tortib hashamatli “Superior King” xonalargacha bo‘lgan turli darajadagi xonalar mavjud — har bir mehmon o‘ziga mos qulaylikni topadi. Har bir detal mehmon qulayligi uchun yaratilgan: zamonaviy xonalar, barcha zarur sharoitlar va ish uchun qulay coworking zona mavjud.",
     "explore": "Xonani ko'rish",
     "from": "dan",
     "bookNow": "Band qilish",
@@ -216,43 +217,43 @@
     "showMore": "Batafsil",
     "details": {
       "standart-2": {
-        "title": "Standart xona",
-        "description": "Ikki mehmon uchun yoqimli va tinch dam olish uchun barcha qulayliklarga ega standart xona.",
+        "title": "Standard Twin Room",
+        "description": "«Standart Twin» xonasi kengroq maydon va qulaylikni taqdim etadi. Xonada har biri 2,00 × 1,00 m o‘lchamdagi ikki bir kishilik karavot, Smart TV, kiyim shkafi, dushli hammom va ish burchagi mavjud. Dam olish yoki xizmat safarlari uchun ideal tanlov.",
         "capacity": "2 mehmon"
       },
       "classic": {
-        "title": "Klassik xona",
-        "description": "Iliqlik, qulaylik va nafis dizaynni uygʻunlashtirgan shinam klassik xona.",
+        "title": "Classic Twin Room",
+        "description": "«Klassik Twin» xonasi — bu ikki mehmon uchun qulaylik va amaliylik uyg‘unligi. Xonada har biri 1,90 × 1,00 m o‘lchamdagi ikki bir kishilik karavot, qulay kiyim shkafi, zamonaviy Smart TV va dush kabinasi bilan jihozlangan hammom mavjud. Iliq rangdagi interyer mehmonlarga tinchlik va dam olish hissini beradi.",
         "capacity": "2 mehmon"
       },
       "classic-with-balcon": {
-        "title": "Balkonli klassik xona",
-        "description": "Shaxsiy balkonli klassik xona — toza havo va ochiq manzaradan bahramand boʻlish uchun ideal.",
+        "title": "Balkonlik Classic Twin",
+        "description": "Balkonlik «Klassik Twin» xonasi ikki mehmon uchun qulay tanlov. Xonada har biri 2,00 × 1,00 m o‘lchamdagi ikki bir kishilik karavot, Smart TV, shkaf va dushli hammom mavjud. Keng balkon dam olish uchun ajoyib joy bo‘lib, chekish faqat balkon hududida ruxsat etiladi.",
         "capacity": "2 mehmon"
       },
       "classic-king": {
-        "title": "Klassik King xona",
-        "description": "King-size katta karavotli keng klassik xona — qoʻshimcha qulaylik va tinch uyqu uchun.",
+        "title": "Classic King Room",
+        "description": "«Classic King» xonasi ikki mehmonning shinam yashashi uchun ideal tanlovdir. Keng King Size karavoti (190 × 195 sm) maksimal qulaylik va to‘liq uyquni ta'minlaydi. Xonada, shuningdek, qulay kiyim shkafi, zamonaviy Smart TV va dushli hammom mavjud. Iliq rangdagi interyer va puxta o‘ylangan dizayn dam olish va tiklanish uchun qulay shinam muhit yaratadi.",
         "capacity": "2 mehmon"
       },
       "classic-king-with-balcon": {
-        "title": "Balkonli klassik King xona",
-        "description": "King-size karavot va shaxsiy balkonli klassik xona — kenglik va yoqimli manzara.",
+        "title": "Balkonlik Classic King",
+        "description": "Balkonlik «Classic King» xonasi ikki mehmonning shinam yashashi uchun ajoyib tanlovdir. Xonada keng King Size karavoti (2,05 × 1,95 m), zamonaviy Smart TV, qulay kiyim shkafi va dushli hammom mavjud. Keng balkon toza havoda dam olish uchun qo‘shimcha joy yaratadi — chekish faqat balkon hududida ruxsat etiladi.",
         "capacity": "2 mehmon"
       },
       "delux-2": {
-        "title": "Deluxe xona",
-        "description": "Ikki mehmon uchun nafis jihozlangan va yuqori qulaylikka ega deluxe xona.",
+        "title": "Balkonlik Deluxe Twin",
+        "description": "«Deluxe Twin» balkonlik xonasi ikki mehmon uchun keng va qulay sharoit yaratadi. Xonada har biri 2,00 × 1,00 m o‘lchamdagi ikki bir kishilik karavot, Smart TV, kiyim shkafi va dushli hammom mavjud. Keng balkon toza havoda dam olish uchun ajoyib joy bo‘lib, chekish faqat balkon hududida ruxsat etiladi.",
         "capacity": "2 mehmon"
       },
       "delux-king": {
-        "title": "Deluxe King xona",
-        "description": "King-size karavot va premium qulayliklarga ega nafis deluxe xona — hashamatli dam olish uchun.",
+        "title": "Balkonlik Deluxe King",
+        "description": "«Deluxe King» xonasi dam olishi uchun keng va shinam joy. Xonada King Size karavot (2,01 × 1,95 m), zamonaviy Smart TV, qulay shkaf va dushli hammom mavjud. Keng balkon toza havoda dam olish uchun ajoyib joy bo‘lib, chekish faqat balkon hududida ruxsat etiladi.",
         "capacity": "2 mehmon"
       },
       "lux": {
-        "title": "Lyuks",
-        "description": "Eng yaxshi lyuksimiz — kenglik, premium qulaylik va alohida muhit.",
+        "title": "Superior King Room",
+        "description": "«Superior King» xonasi — Merhaba Hotel’dagi yagona xonalar bo‘lib, unda hashamatli King o'lchamdagi karavot (2,10 × 1,80 m) mavjud. 40 m² maydon, shaharga qaragan panoramali derazalar va nafis interyer xonaga alohida shinamlik bag‘ishlaydi. Bu xona juftliklar yoki kenglik va dizaynga qadriyat beruvchi mehmonlar uchun ideal tanlovdir.",
         "capacity": "2 mehmon"
       }
     }
@@ -503,7 +504,10 @@
       "meetings": "Uchrashuvlar va tadbirlar",
       "amenities": "Qulayliklar",
       "terms": "Yashash shartlari",
-      "cancellation": "Bekor qilish siyosati"
+      "cancellation": "Bekor qilish siyosati",
+      "breakfast": "Bufet nonushta",
+      "wifi": "Yuqori tezlikdagi Wi-Fi",
+      "parking": "Bepul avtoturargoh"
     },
     "brandBlurb": "Merhaba Hotel — Farg‘ona markazida joylashgan premium mehmondo‘stlik. Qulaylik, nafislik va an’analarni his eting.",
     "rights": "Barcha huquqlar himoyalangan."
@@ -566,10 +570,31 @@
     "bookingTitle": "To'g'ridan-to'g'ri band qiling va 19% gacha tejang — Merhaba Hotel",
     "bookingDesc": "Merhaba Hotelning rasmiy saytida band qiling va darhol 10% tejang — ro'yxatdan o'tib 19% gacha tejang. Eng yaxshi to'g'ridan-to'g'ri narxlar.",
     "contactsTitle": "Aloqa — Merhaba Hotel",
-    "contactsDesc": "Manzil: A. Navoiy ko‘chasi, 27, Farg‘ona. Tel: +998 94 559 00 77. Kirish 14:00, chiqish 12:00.",
+    "contactsDesc": "Manzil: A. Navoiy ko‘chasi, 27, Farg‘ona. Tel: +998 94 067 77 00. Kirish 14:00, chiqish 12:00.",
     "reviewsTitle": "Mehmonlar sharhlari — Merhaba Hotel",
     "reviewsDesc": "Merhaba Hotelda tunagan mehmonlarning haqiqiy sharhlarini o'qing: xizmat, tozalik, joylashuv va qulaylik. O'z sharhingizni Google Maps, Yandex Xarita yoki Tripadvisor'da qoldiring.",
     "newsTitle": "Yangiliklar — Merhaba Hotel",
-    "newsDesc": "Merhaba Hotelning eng so'nggi yangiliklari, yutuqlari va e'lonlari."
+    "newsDesc": "Merhaba Hotelning eng so'nggi yangiliklari, yutuqlari va e'lonlari.",
+    "offersTitle": "Maxsus takliflar — Merhaba Hotel",
+    "offersDesc": "Farg'onadagi Merhaba mehmonxonasida eksklyuziv paketlar, erta bron qilish tariflari va mavsumiy chegirmalarni kashf eting."
+  },
+  "OffersPage": {
+    "title": "Maxsus takliflar",
+    "subtitle": "Farg'ona shahridagi turar joyingizni yanada foydali qilish uchun mo'ljallangan eksklyuziv paketlarimiz, bayram tariflarimiz va erta bron chegirmalarimizni kashf eting.",
+    "bookNow": "Band qilish",
+    "offers": {
+      "new-year": {
+        "title": "Yangi yil tarifi",
+        "description": "Yangi yilni qo'shimcha foyda bilan kutib oling! Xonani yangi yil tarifi bo'yicha bron qiling va 17% chegirmaga, shuningdek, kir yuvish xizmatlariga mutlaqo bepul ega bo'ling. Bayram kunlarida o'zingizga shinam dam sovg'a qiling va mehmonxonaning o'ylangan xizmatidan bahramand bo'ling. Aksiya 25-dekabrdan 10-yanvargacha amal qiladi."
+      },
+      "long-term": {
+        "title": "Uzoq muddatli yashash",
+        "description": "Uzoqroq turing va tejang! Merhaba mehmonxonasida 4 kecha yoki undan ko'proq vaqt davomida bron qiling va 15% chegirmaga ega bo'ling. \"Uzoq muddatli turar joy\" tarifi mehmonxonamizning qulayligi va qulayligidan uzoq vaqt davomida maxsus narxda bahramand bo'lishni istaganlar uchun yaratilgan."
+      },
+      "early-booking": {
+        "title": "Erta bron qilish",
+        "description": "Oldindan rejalashtiring va tejang! Ro'yxatdan o'tishdan kamdan-kam 10 kun oldin Merhaba mehmonxonasida bron qiling va 15% chegirmaga ega bo'ling. Erta bron qilish tariflari oldindan va foydali sayohatlarni rejalashtirishni afzal ko'rganlar uchun ajoyib tanlovdir."
+      }
+    }
   }
 }

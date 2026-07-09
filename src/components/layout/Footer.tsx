@@ -176,7 +176,7 @@ export function Footer() {
                 }`}
               >
                 {section.links.map((link) => (
-                  <li key={link.href}>
+                  <li key={link.label}>
                     <Link
                       className="text-base text-cream/60 no-underline font-light transition-colors duration-300 hover:text-gold"
                       href={link.href}

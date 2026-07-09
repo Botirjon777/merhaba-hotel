@@ -59,7 +59,7 @@ export function About() {
           <div className="hidden lg:block flex-shrink-0 w-[420px] xl:w-[480px]">
             <div className="w-full aspect-4/5 relative overflow-hidden">
               <ResponsiveImage
-                src="/images/slides/1.webp"
+                src="/images/hotel/general/general-2.jpg"
                 alt="Merhaba Hotel Atmosphere"
                 fill
                 className="object-cover"

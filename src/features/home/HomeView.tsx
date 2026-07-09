@@ -8,6 +8,7 @@ import { ImageBanner } from "./components/ImageBanner";
 const VideoShowcase = dynamic(() => import("./components/VideoShowcase").then(m => ({ default: m.VideoShowcase })));
 const Recommendations = dynamic(() => import("./components/Recommendations").then(m => ({ default: m.Recommendations })));
 const About = dynamic(() => import("./components/About").then(m => ({ default: m.About })));
+const SpecialOffers = dynamic(() => import("./components/SpecialOffers").then(m => ({ default: m.SpecialOffers })));
 const Gallery = dynamic(() => import("./components/Gallery").then(m => ({ default: m.Gallery })));
 const Services = dynamic(() => import("./components/Services").then(m => ({ default: m.Services })));
 const Location = dynamic(() => import("./components/Location").then(m => ({ default: m.Location })));
@@ -27,6 +28,7 @@ export default function HomeView() {
       <ImageBanner />
       <VideoShowcase />
       <Recommendations />
+      <SpecialOffers />
       <About />
 
       <Gallery />
