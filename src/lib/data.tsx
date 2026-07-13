@@ -41,10 +41,10 @@ export const newsItems: NewsItem[] = [
 ];
 
 export const stats = [
-  { num: "63", key: "rooms" },
-  { num: "4", key: "dining" },
-  { num: "★★★", key: "stars" },
-  { num: "∞", key: "views" },
+  { key: "rooms" },
+  { key: "dining" },
+  { key: "stars" },
+  { key: "views" },
 ];
 
 export const roomCategories = [

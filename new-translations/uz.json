@@ -201,7 +201,10 @@
     "checkOutValue": "12:00",
     "cancellationTitle": "Bandlovni bekor qilish",
     "cancellationText": "Bekor qilish shartlari va tartibi haqida ma'lumot olish uchun administrator bilan bog'laning. Biz sizga barcha kerakli ma'lumotlarni mamnuniyat bilan taqdim etamiz.",
-    "policyTitle": "Bekor qilish siyosati"
+    "policyTitle": "Bekor qilish siyosati",
+    "policyPoint1": "Barcha mehmonlarimiz uchun professional xizmat va yordam.",
+    "policyPoint2": "Xotirjamligingiz uchun shaffof va aniq qoidalar.",
+    "ourLocation": "Bizning manzil"
   },
   "RoomsPage": {
     "title": "Xonalar va lyukslar",

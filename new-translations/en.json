@@ -201,7 +201,10 @@
     "checkOutValue": "12:00",
     "cancellationTitle": "Booking cancellation",
     "cancellationText": "To clarify the conditions and cancellation procedures, please contact the administrator. We will be happy to provide you with all the necessary information and help you with the cancellation process.",
-    "policyTitle": "Cancellation policy"
+    "policyTitle": "Cancellation policy",
+    "policyPoint1": "Professional service and support for all our guests.",
+    "policyPoint2": "Transparent and clear policies for your peace of mind.",
+    "ourLocation": "Our Location"
   },
   "RoomsPage": {
     "title": "Rooms & Suites",
