@@ -27,24 +27,6 @@ export function About() {
               description={ta("welcome")}
             />
 
-            {/* Stats grid */}
-            <div className="grid grid-cols-2 gap-8 md:gap-10 mb-8">
-              {stats.map((stat, i) => (
-                <div
-                  className="border-l-2 border-gold/20 pl-5 animate-[fadeUp_0.8s_ease-out_forwards]"
-                  style={{ animationDelay: `${i * 0.1}s`, opacity: 0 }}
-                  key={i}
-                >
-                  <span className="font-cormorant text-4xl md:text-5xl font-light text-gold leading-none block mb-2">
-                    {stat.num}
-                  </span>
-                  <span className="text-[11px] tracking-[3px] uppercase text-text-mid font-medium">
-                    {t(`stats.${stat.key}` as Parameters<typeof t>[0])}
-                  </span>
-                </div>
-              ))}
-            </div>
-
             <div className="flex justify-center">
               <Link
                 href="/about"

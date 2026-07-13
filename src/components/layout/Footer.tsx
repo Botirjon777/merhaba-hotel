@@ -1,6 +1,5 @@
 "use client";
 import Logo from "@/components/ui/Logo";
-import { FaInstagram, FaTelegram } from "react-icons/fa6";
 import { Link } from "@/i18n/navigation";
 import { useState } from "react";
 import { FiChevronDown } from "react-icons/fi";
@@ -25,30 +24,9 @@ export function Footer() {
     <footer className="bg-[#1a1108] text-cream px-5 py-5 md:py-10">
       <div className="max-w-[1160px] mx-auto">
 
-        {/* ── Desktop top row: Logo + Social Icons ── */}
+        {/* ── Desktop top row: Logo ── */}
         <div className="hidden md:flex items-center justify-between mb-5 pb-5 border-b border-cream/10">
           <Logo className="w-[140px]" />
-
-          <div className="flex items-center gap-4">
-            <a
-              className="w-12 h-12 border border-cream/20 rounded-full flex items-center justify-center cursor-pointer transition-all duration-300 text-cream/60 hover:border-gold hover:text-gold hover:bg-gold/10"
-              href="https://www.instagram.com/safir_hotell/"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Instagram"
-            >
-              <FaInstagram className="w-5 h-5" />
-            </a>
-            <a
-              className="w-12 h-12 border border-cream/20 rounded-full flex items-center justify-center cursor-pointer transition-all duration-300 text-cream/60 hover:border-gold hover:text-gold hover:bg-gold/10"
-              href="https://t.me/safirhotell"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Telegram"
-            >
-              <FaTelegram className="w-5 h-5" />
-            </a>
-          </div>
         </div>
 
         {/* ── Desktop nav columns ── */}
@@ -101,29 +79,9 @@ export function Footer() {
 
         {/* ── Mobile layout: Logo row + accordion sections ── */}
         <div className="md:hidden">
-          {/* Mobile top: logo + socials */}
+          {/* Mobile top: logo */}
           <div className="flex items-center justify-between mb-5 pb-5 border-b border-cream/10">
             <Logo className="w-[100px]" />
-            <div className="flex gap-2.5">
-              <a
-                className="w-9 h-9 border border-cream/20 rounded-full flex items-center justify-center transition-all duration-300 text-cream/50 hover:border-gold hover:text-gold"
-                href="https://www.instagram.com/safir_hotell/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Instagram"
-              >
-                <FaInstagram className="w-4 h-4" />
-              </a>
-              <a
-                className="w-9 h-9 border border-cream/20 rounded-full flex items-center justify-center transition-all duration-300 text-cream/50 hover:border-gold hover:text-gold"
-                href="https://t.me/safirhotell"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Telegram"
-              >
-                <FaTelegram className="w-4 h-4" />
-              </a>
-            </div>
           </div>
 
           {/* Mobile accordion sections */}

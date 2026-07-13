@@ -173,13 +173,13 @@ export default function AboutView() {
               <div className="flex items-start gap-3">
                 <FiCheckCircle className="text-gold mt-1 shrink-0" />
                 <p className="text-sm text-text-mid font-light">
-                  Professional service and support for all our guests.
+                  {t("policyPoint1")}
                 </p>
               </div>
               <div className="flex items-start gap-3">
                 <FiCheckCircle className="text-gold mt-1 shrink-0" />
                 <p className="text-sm text-text-mid font-light">
-                  Transparent and clear policies for your peace of mind.
+                  {t("policyPoint2")}
                 </p>
               </div>
             </div>
@@ -194,7 +194,7 @@ export default function AboutView() {
             <FiMapPin size={24} />
           </div>
           <h2 className="font-cormorant text-3xl md:text-4xl text-text-dark">
-            Our Location
+            {t("ourLocation")}
           </h2>
         </div>
 
