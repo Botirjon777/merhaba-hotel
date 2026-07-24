@@ -29,6 +29,10 @@ const nextConfig: NextConfig = {
       { source: "/en-gb/:path*", destination: "/en/:path*", permanent: true },
       { source: "/en-gb/guest-account", destination: "/en", permanent: true },
       { source: "/:lang/guest-account", destination: "/:lang", permanent: true },
+      // BE booking temporarily disabled: keep the search/booking modules visible
+      // in the UI, but block navigation to the booking page (bounce back home).
+      { source: "/booking", destination: "/", permanent: false },
+      { source: "/:lang/booking", destination: "/:lang", permanent: false },
     ];
   },
   async headers() {
